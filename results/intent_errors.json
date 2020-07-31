@@ -1,0 +1,26 @@
+[
+  {
+    "text": "này em",
+    "intent": "call",
+    "intent_prediction": {
+      "name": "greeting",
+      "confidence": 0.5731832385063171
+    }
+  },
+  {
+    "text": "này cậu",
+    "intent": "call",
+    "intent_prediction": {
+      "name": "greeting",
+      "confidence": 0.5433264374732971
+    }
+  },
+  {
+    "text": "vợ của anh là ai",
+    "intent": "ask_love_who",
+    "intent_prediction": {
+      "name": "ask_family",
+      "confidence": 0.9764492511749268
+    }
+  }
+]

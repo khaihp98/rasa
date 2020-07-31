@@ -1,0 +1,15 @@
+[
+  {
+    "text": "xếp hình không",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "game",
+        "start": 0,
+        "end": 14,
+        "value": "xếp hình không",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  }
+]

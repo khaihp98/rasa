@@ -1,0 +1,15020 @@
+## intent:blame
+- đồng chí thật xấu mù
+- đồng chí thật đần
+- đồng chí thực sự dốt
+- đồng chí thực sự gà
+- đồng chí thực sự ngu
+- đồng chí thực sự ngốc
+- đồng chí thực sự quá dốt
+- đồng chí thực sự quá gà
+- đồng chí thực sự quá ngu
+- đồng chí thực sự quá ngốc
+- đồng chí thực sự quá vl
+- đồng chí thực sự quá xàm
+- đồng chí thực sự quá xấu mù
+- đồng chí thực sự quá đần
+- đồng chí thực sự rất dốt
+- đồng chí thực sự rất gà
+- đồng chí thực sự rất ngu
+- đồng chí thực sự rất ngốc
+- đồng chí thực sự rất vl
+- đồng chí thực sự rất xàm
+- đồng chí thực sự rất xấu mù
+- đồng chí thực sự rất đần
+- đồng chí thực sự vl
+- đồng chí thực sự xàm
+- đồng chí thực sự xấu mù
+- đồng chí thực sự đần
+- đồng chí trên cả dốt
+- đồng chí trên cả gà
+- đồng chí trên cả ngu
+- đồng chí trên cả ngốc
+- đồng chí trên cả vl
+- đồng chí trên cả xàm
+- đồng chí trên cả xấu mù
+- đồng chí trên cả đần
+- đồng chí vl
+- đồng chí vl hơn những gì mình nghĩ
+- đồng chí vl hơn những gì tôi tưởng
+- đồng chí vl lắm
+- đồng chí vl như bò
+- đồng chí vl như chó
+- đồng chí vl như cờ hó
+- đồng chí vl như dog
+- đồng chí vl như heo
+- đồng chí vl như lợn
+- đồng chí vl như trâu
+- đồng chí vl như vịt
+- đồng chí vl nhỉ
+- đồng chí vl phết
+- đồng chí vl quá
+- đồng chí vl thật
+- đồng chí vl thế
+- đồng chí vl vãi
+- đồng chí vl vậy
+- đồng chí vl à
+- đồng chí vl đấy
+- đồng chí xàm
+- đồng chí xàm hơn những gì mình nghĩ
+- đồng chí xàm hơn những gì tôi tưởng
+- đồng chí xàm lắm
+- đồng chí xàm như bò
+- đồng chí xàm như chó
+- đồng chí xàm như cờ hó
+- đồng chí xàm như dog
+- đồng chí xàm như heo
+- đồng chí xàm như lợn
+- đồng chí xàm như trâu
+- đồng chí xàm như vịt
+- đồng chí xàm nhỉ
+- đồng chí xàm phết
+- đồng chí xàm quá
+- đồng chí xàm thật
+- đồng chí xàm thế
+- đồng chí xàm vãi
+- đồng chí xàm vậy
+- đồng chí xàm à
+- đồng chí xàm đấy
+- đồng chí xấu mù
+- đồng chí xấu mù hơn những gì mình nghĩ
+- đồng chí xấu mù hơn những gì tôi tưởng
+- đồng chí xấu mù lắm
+- đồng chí xấu mù như bò
+- đồng chí xấu mù như chó
+- đồng chí xấu mù như cờ hó
+- đồng chí xấu mù như dog
+- đồng chí xấu mù như heo
+- đồng chí xấu mù như lợn
+- đồng chí xấu mù như trâu
+- đồng chí xấu mù như vịt
+- đồng chí xấu mù nhỉ
+- đồng chí xấu mù phết
+- đồng chí xấu mù quá
+- đồng chí xấu mù thật
+- đồng chí xấu mù thế
+- đồng chí xấu mù vãi
+- đồng chí xấu mù vậy
+- đồng chí xấu mù à
+- đồng chí xấu mù đấy
+- đồng chí đần
+- đồng chí đần hơn những gì mình nghĩ
+- đồng chí đần hơn những gì tôi tưởng
+- đồng chí đần lắm
+- đồng chí đần như bò
+- đồng chí đần như chó
+- đồng chí đần như cờ hó
+- đồng chí đần như dog
+- đồng chí đần như heo
+- đồng chí đần như lợn
+- đồng chí đần như trâu
+- đồng chí đần như vịt
+- đồng chí đần nhỉ
+- đồng chí đần phết
+- đồng chí đần quá
+- đồng chí đần thật
+- đồng chí đần thế
+- đồng chí đần vãi
+- đồng chí đần vậy
+- đồng chí đần à
+- đồng chí đần đấy
+- a dùng chán thế
+- a dốt
+- a dốt như bò
+- a dốt như chó
+- a dốt như cờ hó
+- a dốt như dog
+- a dốt như heo
+- a dốt như lợn
+- a dốt như trâu
+- a dốt như vịt
+- a gà
+- a gà như bò
+- a gà như chó
+- a gà như cờ hó
+- a gà như dog
+- a gà như heo
+- a gà như lợn
+- a gà như trâu
+- a gà như vịt
+- a hơi bị dốt
+- a hơi bị gà
+- a hơi bị ngu
+- a hơi bị ngốc
+- a hơi bị vl
+- a hơi bị xàm
+- a hơi bị xấu mù
+- a hơi bị đần
+- a khó dùng quá
+- a ngu
+- a ngốc
+- a quá dốt
+- a quá gà
+- dốt
+- dốt hơn những gì mình nghĩ
+- dốt hơn những gì tôi tưởng
+- dốt lắm
+- dốt nhỉ
+- dốt phết
+- dốt quá
+- dốt thật
+- dốt thế
+- dốt vãi
+- dốt vậy
+- dốt à
+- dốt đấy
+- gà
+- gà hơn những gì mình nghĩ
+- gà hơn những gì tôi tưởng
+- gà lắm
+- gà nhỉ
+- gà phết
+- gà quá
+- gà thật
+- gà thế
+- gà vãi
+- gà vậy
+- gà à
+- gà đấy
+- ngu
+- ngu hơn những gì mình nghĩ
+- ngu hơn những gì tôi tưởng
+- ngu lắm
+- ngu nhỉ
+- ngu phết
+- ngu quá
+- ngu thật
+- ngu thế
+- ngu vãi
+- ngu vậy
+- ngu à
+- ngu đấy
+- ngốc
+- ngốc hơn những gì mình nghĩ
+- ngốc hơn những gì tôi tưởng
+- ngốc lắm
+- ngốc nhỉ
+- ngốc phết
+- ngốc quá
+- ngốc thật
+- ngốc thế
+- ngốc vãi
+- ngốc vậy
+- ngốc à
+- ngốc đấy
+- vl
+- vl hơn những gì mình nghĩ
+- vl hơn những gì tôi tưởng
+- vl lắm
+- vl nhỉ
+- vl phết
+- vl quá
+- vl thật
+- vl thế
+- vl vãi
+- vl vậy
+- vl à
+- vl đấy
+- xàm
+- xàm hơn những gì mình nghĩ
+- xàm hơn những gì tôi tưởng
+- xàm lắm
+- xàm nhỉ
+- xàm phết
+- xàm quá
+- xàm thật
+- xàm thế
+- xàm vãi
+- xàm vậy
+- xàm à
+- xàm đấy
+- xấu mù
+- xấu mù hơn những gì mình nghĩ
+- xấu mù hơn những gì tôi tưởng
+- xấu mù lắm
+- xấu mù nhỉ
+- xấu mù phết
+- xấu mù quá
+- xấu mù thật
+- xấu mù thế
+- xấu mù vãi
+- xấu mù vậy
+- xấu mù à
+- xấu mù đấy
+- đần
+- đần hơn những gì mình nghĩ
+- đần hơn những gì tôi tưởng
+- đần lắm
+- đần nhỉ
+- đần phết
+- đần quá
+- đần thật
+- đần thế
+- đần vãi
+- đần vậy
+- đần à
+- đần đấy
+- a dốt hơn những gì mình nghĩ
+- a dốt hơn những gì tôi tưởng
+- a dốt lắm
+- a dốt nhỉ
+- a dốt phết
+- a dốt quá
+- a dốt thật
+- a dốt thế
+- a dốt vãi
+- a dốt vậy
+- a dốt à
+- a dốt đấy
+- a gà hơn những gì mình nghĩ
+- a gà hơn những gì tôi tưởng
+- a gà lắm
+- a gà nhỉ
+- a gà phết
+- a gà quá
+- a gà thật
+- a gà thế
+- a gà vãi
+- a gà vậy
+- a gà à
+- a gà đấy
+- a ngu hơn những gì mình nghĩ
+- a ngu hơn những gì tôi tưởng
+- a ngu lắm
+- a ngu như bò
+- a ngu như chó
+- a ngu như cờ hó
+- a ngu như dog
+- a ngu như heo
+- a ngu như lợn
+- a ngu như trâu
+- a ngu như vịt
+- a ngu nhỉ
+- a ngu phết
+- a ngu quá
+- a ngu thật
+- a ngu thế
+- a ngu vãi
+- a ngu vậy
+- a ngu à
+- a ngu đấy
+- a ngốc hơn những gì mình nghĩ
+- a ngốc hơn những gì tôi tưởng
+- a ngốc lắm
+- a ngốc như bò
+- a ngốc như chó
+- a ngốc như cờ hó
+- a ngốc như dog
+- a ngốc như heo
+- a ngốc như lợn
+- a ngốc như trâu
+- a ngốc như vịt
+- a ngốc nhỉ
+- a ngốc phết
+- a ngốc quá
+- a ngốc thật
+- a ngốc thế
+- a ngốc vãi
+- a ngốc vậy
+- a ngốc à
+- a ngốc đấy
+- a quá là dốt
+- a quá là gà
+- a quá là ngu
+- a quá là ngốc
+- a quá là vl
+- a quá là xàm
+- a quá là xấu mù
+- a quá là đần
+- a quá ngu
+- a quá ngốc
+- a quá vl
+- a quá xàm
+- a quá xấu mù
+- a quá đần
+- a rất dốt
+- a rất gà
+- a rất là dốt
+- a rất là gà
+- a rất là ngu
+- a rất là ngốc
+- a rất là vl
+- a rất là xàm
+- a rất là xấu mù
+- a rất là đần
+- a rất ngu
+- a rất ngốc
+- a rất vl
+- a rất xàm
+- a rất xấu mù
+- a rất đần
+- a thật dốt
+- a thật gà
+- a thật là dốt
+- a thật là gà
+- a thật là ngu
+- a thật là ngốc
+- a thật là vl
+- a thật là xàm
+- a thật là xấu mù
+- a thật là đần
+- a thật ngu
+- a thật ngốc
+- a thật quá dốt
+- a thật quá gà
+- a thật quá ngu
+- a thật quá ngốc
+- a thật quá vl
+- a thật quá xàm
+- a thật quá xấu mù
+- a thật quá đần
+- a thật vl
+- a thật xàm
+- a thật xấu mù
+- a thật đần
+- a thực sự dốt
+- a thực sự gà
+- a thực sự ngu
+- a thực sự ngốc
+- a thực sự quá dốt
+- a thực sự quá gà
+- a thực sự quá ngu
+- a thực sự quá ngốc
+- a thực sự quá vl
+- a thực sự quá xàm
+- a thực sự quá xấu mù
+- a thực sự quá đần
+- a thực sự rất dốt
+- a thực sự rất gà
+- a thực sự rất ngu
+- a thực sự rất ngốc
+- a thực sự rất vl
+- a thực sự rất xàm
+- a thực sự rất xấu mù
+- a thực sự rất đần
+- a thực sự vl
+- a thực sự xàm
+- a thực sự xấu mù
+- a thực sự đần
+- a trên cả dốt
+- a trên cả gà
+- a trên cả ngu
+- a trên cả ngốc
+- a trên cả vl
+- a trên cả xàm
+- a trên cả xấu mù
+- a trên cả đần
+- a vl
+- a vl hơn những gì mình nghĩ
+- a vl hơn những gì tôi tưởng
+- a vl lắm
+- a vl như bò
+- a vl như chó
+- a vl như cờ hó
+- a vl như dog
+- a vl như heo
+- a vl như lợn
+- a vl như trâu
+- a vl như vịt
+- a vl nhỉ
+- a vl phết
+- a vl quá
+- a vl thật
+- a vl thế
+- a vl vãi
+- a vl vậy
+- a vl à
+- a vl đấy
+- a xàm
+- a xàm hơn những gì mình nghĩ
+- a xàm hơn những gì tôi tưởng
+- a xàm lắm
+- a xàm như bò
+- a xàm như chó
+- a xàm như cờ hó
+- a xàm như dog
+- a xàm như heo
+- a xàm như lợn
+- a xàm như trâu
+- a xàm như vịt
+- a xàm nhỉ
+- a xàm phết
+- a xàm quá
+- a xàm thật
+- a xàm thế
+- a xàm vãi
+- a xàm vậy
+- a xàm à
+- a xàm đấy
+- a xấu mù
+- a xấu mù hơn những gì mình nghĩ
+- a xấu mù hơn những gì tôi tưởng
+- a xấu mù lắm
+- a xấu mù như bò
+- a xấu mù như chó
+- a xấu mù như cờ hó
+- a xấu mù như dog
+- a xấu mù như heo
+- a xấu mù như lợn
+- a xấu mù như trâu
+- a xấu mù như vịt
+- a xấu mù nhỉ
+- a xấu mù phết
+- a xấu mù quá
+- a xấu mù thật
+- a xấu mù thế
+- a xấu mù vãi
+- a xấu mù vậy
+- a xấu mù à
+- a xấu mù đấy
+- a đần
+- a đần hơn những gì mình nghĩ
+- a đần hơn những gì tôi tưởng
+- a đần lắm
+- a đần như bò
+- a đần như chó
+- a đần như cờ hó
+- a đần như dog
+- a đần như heo
+- a đần như lợn
+- a đần như trâu
+- a đần như vịt
+- a đần nhỉ
+- a đần phết
+- a đần quá
+- a đần thật
+- a đần thế
+- a đần vãi
+- a đần vậy
+- a đần à
+- a đần đấy
+- anh dùng chán thế
+- anh dốt
+- anh dốt hơn những gì mình nghĩ
+- anh dốt hơn những gì tôi tưởng
+- anh dốt lắm
+- anh dốt như bò
+- anh dốt như chó
+- anh dốt như cờ hó
+- anh dốt như dog
+- anh dốt như heo
+- anh dốt như lợn
+- anh dốt như trâu
+- anh dốt như vịt
+- anh dốt nhỉ
+- anh dốt phết
+- anh dốt quá
+- anh dốt thật
+- anh dốt thế
+- anh dốt vãi
+- anh dốt vậy
+- anh dốt à
+- anh dốt đấy
+- anh gà
+- anh gà hơn những gì mình nghĩ
+- anh gà hơn những gì tôi tưởng
+- anh gà lắm
+- anh gà như bò
+- anh gà như chó
+- anh gà như cờ hó
+- anh gà như dog
+- anh gà như heo
+- anh gà như lợn
+- anh gà như trâu
+- anh gà như vịt
+- anh gà nhỉ
+- anh gà phết
+- anh gà quá
+- anh gà thật
+- anh gà thế
+- anh gà vãi
+- anh gà vậy
+- anh gà à
+- anh gà đấy
+- anh hơi bị dốt
+- anh hơi bị gà
+- anh hơi bị ngu
+- anh hơi bị ngốc
+- anh hơi bị vl
+- anh hơi bị xàm
+- anh hơi bị xấu mù
+- anh hơi bị đần
+- anh khó dùng quá
+- anh ngu
+- anh ngu hơn những gì mình nghĩ
+- anh ngu hơn những gì tôi tưởng
+- anh ngu lắm
+- anh ngu như bò
+- anh ngu như chó
+- anh ngu như cờ hó
+- anh ngu như dog
+- anh ngu như heo
+- anh ngu như lợn
+- anh ngu như trâu
+- anh ngu như vịt
+- anh ngu nhỉ
+- anh ngu phết
+- anh ngu quá
+- anh ngu thật
+- anh ngu thế
+- anh ngu vãi
+- anh ngu vậy
+- anh ngu à
+- anh ngu đấy
+- anh ngốc
+- anh ngốc hơn những gì mình nghĩ
+- anh ngốc hơn những gì tôi tưởng
+- anh ngốc lắm
+- anh ngốc như bò
+- anh ngốc như chó
+- anh ngốc như cờ hó
+- anh ngốc như dog
+- anh ngốc như heo
+- anh ngốc như lợn
+- anh ngốc như trâu
+- anh ngốc như vịt
+- anh ngốc nhỉ
+- anh ngốc phết
+- anh ngốc quá
+- anh ngốc thật
+- anh ngốc thế
+- anh ngốc vãi
+- anh ngốc vậy
+- anh ngốc à
+- anh ngốc đấy
+- anh quá dốt
+- anh quá gà
+- anh quá là dốt
+- anh quá là gà
+- anh quá là ngu
+- anh quá là ngốc
+- anh quá là vl
+- anh quá là xàm
+- anh quá là xấu mù
+- anh quá là đần
+- anh quá ngu
+- anh quá ngốc
+- anh quá vl
+- anh quá xàm
+- anh quá xấu mù
+- anh quá đần
+- anh rất dốt
+- anh rất gà
+- anh rất là dốt
+- anh rất là gà
+- anh rất là ngu
+- anh rất là ngốc
+- anh rất là vl
+- anh rất là xàm
+- anh rất là xấu mù
+- anh rất là đần
+- anh rất ngu
+- anh rất ngốc
+- anh rất vl
+- anh rất xàm
+- anh rất xấu mù
+- anh rất đần
+- anh thật dốt
+- anh thật gà
+- anh thật là dốt
+- anh thật là gà
+- anh thật là ngu
+- anh thật là ngốc
+- anh thật là vl
+- anh thật là xàm
+- anh thật là xấu mù
+- anh thật là đần
+- anh thật ngu
+- anh thật ngốc
+- anh thật quá dốt
+- anh thật quá gà
+- anh thật quá ngu
+- anh thật quá ngốc
+- anh thật quá vl
+- anh thật quá xàm
+- anh thật quá xấu mù
+- anh thật quá đần
+- anh thật vl
+- anh thật xàm
+- anh thật xấu mù
+- anh thật đần
+- anh thực sự dốt
+- anh thực sự gà
+- anh thực sự ngu
+- anh thực sự ngốc
+- anh thực sự quá dốt
+- anh thực sự quá gà
+- anh thực sự quá ngu
+- anh thực sự quá ngốc
+- anh thực sự quá vl
+- anh thực sự quá xàm
+- anh thực sự quá xấu mù
+- anh thực sự quá đần
+- anh thực sự rất dốt
+- anh thực sự rất gà
+- anh thực sự rất ngu
+- anh thực sự rất ngốc
+- anh thực sự rất vl
+- anh thực sự rất xàm
+- anh thực sự rất xấu mù
+- anh thực sự rất đần
+- anh thực sự vl
+- anh thực sự xàm
+- anh thực sự xấu mù
+- anh thực sự đần
+- anh trên cả dốt
+- anh trên cả gà
+- anh trên cả ngu
+- anh trên cả ngốc
+- anh trên cả vl
+- anh trên cả xàm
+- anh trên cả xấu mù
+- anh trên cả đần
+- anh vl
+- anh vl hơn những gì mình nghĩ
+- anh vl hơn những gì tôi tưởng
+- anh vl lắm
+- anh vl như bò
+- anh vl như chó
+- anh vl như cờ hó
+- anh vl như dog
+- anh vl như heo
+- anh vl như lợn
+- anh vl như trâu
+- anh vl như vịt
+- anh vl nhỉ
+- anh vl phết
+- anh vl quá
+- anh vl thật
+- anh vl thế
+- anh vl vãi
+- anh vl vậy
+- anh vl à
+- anh vl đấy
+- anh xàm
+- anh xàm hơn những gì mình nghĩ
+- anh xàm hơn những gì tôi tưởng
+- anh xàm lắm
+- anh xàm như bò
+- anh xàm như chó
+- anh xàm như cờ hó
+- anh xàm như dog
+- anh xàm như heo
+- anh xàm như lợn
+- anh xàm như trâu
+- anh xàm như vịt
+- anh xàm nhỉ
+- anh xàm phết
+- anh xàm quá
+- anh xàm thật
+- anh xàm thế
+- anh xàm vãi
+- anh xàm vậy
+- anh xàm à
+- anh xàm đấy
+- anh xấu mù
+- anh xấu mù hơn những gì mình nghĩ
+- anh xấu mù hơn những gì tôi tưởng
+- anh xấu mù lắm
+- anh xấu mù như bò
+- anh xấu mù như chó
+- anh xấu mù như cờ hó
+- anh xấu mù như dog
+- anh xấu mù như heo
+- anh xấu mù như lợn
+- anh xấu mù như trâu
+- anh xấu mù như vịt
+- anh xấu mù nhỉ
+- anh xấu mù phết
+- anh xấu mù quá
+- anh xấu mù thật
+- anh xấu mù thế
+- anh xấu mù vãi
+- anh xấu mù vậy
+- anh xấu mù à
+- anh xấu mù đấy
+- anh đần
+- anh đần hơn những gì mình nghĩ
+- anh đần hơn những gì tôi tưởng
+- anh đần lắm
+- anh đần như bò
+- anh đần như chó
+- anh đần như cờ hó
+- anh đần như dog
+- anh đần như heo
+- anh đần như lợn
+- anh đần như trâu
+- anh đần như vịt
+- anh đần nhỉ
+- anh đần phết
+- anh đần quá
+- anh đần thật
+- anh đần thế
+- anh đần vãi
+- anh đần vậy
+- anh đần à
+- anh đần đấy
+- bạn dùng chán thế
+- bạn dốt
+- bạn dốt hơn những gì mình nghĩ
+- bạn dốt hơn những gì tôi tưởng
+- bạn dốt lắm
+- bạn dốt như bò
+- bạn dốt như chó
+- bạn dốt như cờ hó
+- bạn dốt như dog
+- bạn dốt như heo
+- bạn dốt như lợn
+- bạn dốt như trâu
+- bạn dốt như vịt
+- bạn dốt nhỉ
+- bạn dốt phết
+- bạn dốt quá
+- bạn dốt thật
+- bạn dốt thế
+- bạn dốt vãi
+- bạn dốt vậy
+- bạn dốt à
+- bạn dốt đấy
+- bạn gà
+- bạn gà hơn những gì mình nghĩ
+- bạn gà hơn những gì tôi tưởng
+- bạn gà lắm
+- bạn gà như bò
+- bạn gà như chó
+- bạn gà như cờ hó
+- bạn gà như dog
+- bạn gà như heo
+- bạn gà như lợn
+- bạn gà như trâu
+- bạn gà như vịt
+- bạn gà nhỉ
+- bạn gà phết
+- bạn gà quá
+- bạn gà thật
+- bạn gà thế
+- bạn gà vãi
+- bạn gà vậy
+- bạn gà à
+- bạn gà đấy
+- bạn hơi bị dốt
+- bạn hơi bị gà
+- bạn hơi bị ngu
+- bạn hơi bị ngốc
+- bạn hơi bị vl
+- bạn hơi bị xàm
+- bạn hơi bị xấu mù
+- bạn hơi bị đần
+- bạn khó dùng quá
+- bạn ngu
+- bạn ngu hơn những gì mình nghĩ
+- bạn ngu hơn những gì tôi tưởng
+- bạn ngu lắm
+- bạn ngu như bò
+- bạn ngu như chó
+- bạn ngu như cờ hó
+- bạn ngu như dog
+- bạn ngu như heo
+- bạn ngu như lợn
+- bạn ngu như trâu
+- bạn ngu như vịt
+- bạn ngu nhỉ
+- bạn ngu phết
+- bạn ngu quá
+- bạn ngu thật
+- bạn ngu thế
+- bạn ngu vãi
+- bạn ngu vậy
+- bạn ngu à
+- bạn ngu đấy
+- bạn ngốc
+- bạn ngốc hơn những gì mình nghĩ
+- bạn ngốc hơn những gì tôi tưởng
+- bạn ngốc lắm
+- bạn ngốc như bò
+- bạn ngốc như chó
+- bạn ngốc như cờ hó
+- bạn ngốc như dog
+- bạn ngốc như heo
+- bạn ngốc như lợn
+- bạn ngốc như trâu
+- bạn ngốc như vịt
+- bạn ngốc nhỉ
+- bạn ngốc phết
+- bạn ngốc quá
+- bạn ngốc thật
+- bạn ngốc thế
+- bạn ngốc vãi
+- bạn ngốc vậy
+- bạn ngốc à
+- bạn ngốc đấy
+- bạn quá dốt
+- bạn quá gà
+- bạn quá là dốt
+- bạn quá là gà
+- bạn quá là ngu
+- bạn quá là ngốc
+- bạn quá là vl
+- bạn quá là xàm
+- bạn quá là xấu mù
+- bạn quá là đần
+- bạn quá ngu
+- bạn quá ngốc
+- bạn quá vl
+- bạn quá xàm
+- bạn quá xấu mù
+- bạn quá đần
+- bạn rất dốt
+- bạn rất gà
+- bạn rất là dốt
+- bạn rất là gà
+- bạn rất là ngu
+- bạn rất là ngốc
+- bạn rất là vl
+- bạn rất là xàm
+- bạn rất là xấu mù
+- bạn rất là đần
+- bạn rất ngu
+- bạn rất ngốc
+- bạn rất vl
+- bạn rất xàm
+- bạn rất xấu mù
+- bạn rất đần
+- bạn thật dốt
+- bạn thật gà
+- bạn thật là dốt
+- bạn thật là gà
+- bạn thật là ngu
+- bạn thật là ngốc
+- bạn thật là vl
+- bạn thật là xàm
+- bạn thật là xấu mù
+- bạn thật là đần
+- bạn thật ngu
+- bạn thật ngốc
+- bạn thật quá dốt
+- bạn thật quá gà
+- bạn thật quá ngu
+- bạn thật quá ngốc
+- bạn thật quá vl
+- bạn thật quá xàm
+- bạn thật quá xấu mù
+- bạn thật quá đần
+- bạn thật vl
+- bạn thật xàm
+- bạn thật xấu mù
+- bạn thật đần
+- bạn thực sự dốt
+- bạn thực sự gà
+- bạn thực sự ngu
+- bạn thực sự ngốc
+- bạn thực sự quá dốt
+- bạn thực sự quá gà
+- bạn thực sự quá ngu
+- bạn thực sự quá ngốc
+- bạn thực sự quá vl
+- bạn thực sự quá xàm
+- bạn thực sự quá xấu mù
+- bạn thực sự quá đần
+- bạn thực sự rất dốt
+- bạn thực sự rất gà
+- bạn thực sự rất ngu
+- bạn thực sự rất ngốc
+- bạn thực sự rất vl
+- bạn thực sự rất xàm
+- bạn thực sự rất xấu mù
+- bạn thực sự rất đần
+- bạn thực sự vl
+- bạn thực sự xàm
+- bạn thực sự xấu mù
+- bạn thực sự đần
+- bạn trên cả dốt
+- bạn trên cả gà
+- bạn trên cả ngu
+- bạn trên cả ngốc
+- bạn trên cả vl
+- bạn trên cả xàm
+- bạn trên cả xấu mù
+- bạn trên cả đần
+- bạn vl
+- bạn vl hơn những gì mình nghĩ
+- bạn vl hơn những gì tôi tưởng
+- bạn vl lắm
+- bạn vl như bò
+- bạn vl như chó
+- bạn vl như cờ hó
+- bạn vl như dog
+- bạn vl như heo
+- bạn vl như lợn
+- bạn vl như trâu
+- bạn vl như vịt
+- bạn vl nhỉ
+- bạn vl phết
+- bạn vl quá
+- bạn vl thật
+- bạn vl thế
+- bạn vl vãi
+- bạn vl vậy
+- bạn vl à
+- bạn vl đấy
+- bạn xàm
+- bạn xàm hơn những gì mình nghĩ
+- bạn xàm hơn những gì tôi tưởng
+- bạn xàm lắm
+- bạn xàm như bò
+- bạn xàm như chó
+- bạn xàm như cờ hó
+- bạn xàm như dog
+- bạn xàm như heo
+- bạn xàm như lợn
+- bạn xàm như trâu
+- bạn xàm như vịt
+- bạn xàm nhỉ
+- bạn xàm phết
+- bạn xàm quá
+- bạn xàm thật
+- bạn xàm thế
+- bạn xàm vãi
+- bạn xàm vậy
+- bạn xàm à
+- bạn xàm đấy
+- bạn xấu mù
+- bạn xấu mù hơn những gì mình nghĩ
+- bạn xấu mù hơn những gì tôi tưởng
+- bạn xấu mù lắm
+- bạn xấu mù như bò
+- bạn xấu mù như chó
+- bạn xấu mù như cờ hó
+- bạn xấu mù như dog
+- bạn xấu mù như heo
+- bạn xấu mù như lợn
+- bạn xấu mù như trâu
+- bạn xấu mù như vịt
+- bạn xấu mù nhỉ
+- bạn xấu mù phết
+- bạn xấu mù quá
+- bạn xấu mù thật
+- bạn xấu mù thế
+- bạn xấu mù vãi
+- bạn xấu mù vậy
+- bạn xấu mù à
+- bạn xấu mù đấy
+- bạn đần
+- bạn đần hơn những gì mình nghĩ
+- bạn đần hơn những gì tôi tưởng
+- bạn đần lắm
+- bạn đần như bò
+- bạn đần như chó
+- bạn đần như cờ hó
+- bạn đần như dog
+- bạn đần như heo
+- bạn đần như lợn
+- bạn đần như trâu
+- bạn đần như vịt
+- bạn đần nhỉ
+- bạn đần phết
+- bạn đần quá
+- bạn đần thật
+- bạn đần thế
+- bạn đần vãi
+- bạn đần vậy
+- bạn đần à
+- bạn đần đấy
+- cậu dùng chán thế
+- cậu dốt
+- cậu dốt hơn những gì mình nghĩ
+- cậu dốt hơn những gì tôi tưởng
+- cậu dốt lắm
+- cậu dốt như bò
+- cậu dốt như chó
+- cậu dốt như cờ hó
+- cậu dốt như dog
+- cậu dốt như heo
+- cậu dốt như lợn
+- cậu dốt như trâu
+- cậu dốt như vịt
+- cậu dốt nhỉ
+- cậu dốt phết
+- cậu dốt quá
+- cậu dốt thật
+- cậu dốt thế
+- cậu dốt vãi
+- cậu dốt vậy
+- cậu dốt à
+- cậu dốt đấy
+- cậu gà
+- cậu gà hơn những gì mình nghĩ
+- cậu gà hơn những gì tôi tưởng
+- cậu gà lắm
+- cậu gà như bò
+- cậu gà như chó
+- cậu gà như cờ hó
+- cậu gà như dog
+- cậu gà như heo
+- cậu gà như lợn
+- cậu gà như trâu
+- cậu gà như vịt
+- cậu gà nhỉ
+- cậu gà phết
+- cậu gà quá
+- cậu gà thật
+- cậu gà thế
+- cậu gà vãi
+- cậu gà vậy
+- cậu gà à
+- cậu gà đấy
+- cậu hơi bị dốt
+- cậu hơi bị gà
+- cậu hơi bị ngu
+- cậu hơi bị ngốc
+- cậu hơi bị vl
+- cậu hơi bị xàm
+- cậu hơi bị xấu mù
+- cậu hơi bị đần
+- cậu khó dùng quá
+- cậu ngu
+- cậu ngu hơn những gì mình nghĩ
+- cậu ngu hơn những gì tôi tưởng
+- cậu ngu lắm
+- cậu ngu như bò
+- cậu ngu như chó
+- cậu ngu như cờ hó
+- cậu ngu như dog
+- cậu ngu như heo
+- cậu ngu như lợn
+- cậu ngu như trâu
+- cậu ngu như vịt
+- cậu ngu nhỉ
+- cậu ngu phết
+- cậu ngu quá
+- cậu ngu thật
+- cậu ngu thế
+- cậu ngu vãi
+- cậu ngu vậy
+- cậu ngu à
+- cậu ngu đấy
+- cậu ngốc
+- cậu ngốc hơn những gì mình nghĩ
+- cậu ngốc hơn những gì tôi tưởng
+- cậu ngốc lắm
+- cậu ngốc như bò
+- cậu ngốc như chó
+- cậu ngốc như cờ hó
+- cậu ngốc như dog
+- cậu ngốc như heo
+- cậu ngốc như lợn
+- cậu ngốc như trâu
+- cậu ngốc như vịt
+- cậu ngốc nhỉ
+- cậu ngốc phết
+- cậu ngốc quá
+- cậu ngốc thật
+- cậu ngốc thế
+- cậu ngốc vãi
+- cậu ngốc vậy
+- cậu ngốc à
+- cậu ngốc đấy
+- cậu quá dốt
+- cậu quá gà
+- cậu quá là dốt
+- cậu quá là gà
+- cậu quá là ngu
+- cậu quá là ngốc
+- cậu quá là vl
+- cậu quá là xàm
+- cậu quá là xấu mù
+- cậu quá là đần
+- cậu quá ngu
+- cậu quá ngốc
+- cậu quá vl
+- cậu quá xàm
+- cậu quá xấu mù
+- cậu quá đần
+- cậu rất dốt
+- cậu rất gà
+- cậu rất là dốt
+- cậu rất là gà
+- cậu rất là ngu
+- cậu rất là ngốc
+- cậu rất là vl
+- cậu rất là xàm
+- cậu rất là xấu mù
+- cậu rất là đần
+- cậu rất ngu
+- cậu rất ngốc
+- cậu rất vl
+- cậu rất xàm
+- cậu rất xấu mù
+- cậu rất đần
+- cậu thật dốt
+- cậu thật gà
+- cậu thật là dốt
+- cậu thật là gà
+- cậu thật là ngu
+- cậu thật là ngốc
+- cậu thật là vl
+- cậu thật là xàm
+- cậu thật là xấu mù
+- cậu thật là đần
+- cậu thật ngu
+- cậu thật ngốc
+- cậu thật quá dốt
+- cậu thật quá gà
+- cậu thật quá ngu
+- cậu thật quá ngốc
+- cậu thật quá vl
+- cậu thật quá xàm
+- cậu thật quá xấu mù
+- cậu thật quá đần
+- cậu thật vl
+- cậu thật xàm
+- cậu thật xấu mù
+- cậu thật đần
+- cậu thực sự dốt
+- cậu thực sự gà
+- cậu thực sự ngu
+- cậu thực sự ngốc
+- cậu thực sự quá dốt
+- cậu thực sự quá gà
+- cậu thực sự quá ngu
+- cậu thực sự quá ngốc
+- cậu thực sự quá vl
+- cậu thực sự quá xàm
+- cậu thực sự quá xấu mù
+- cậu thực sự quá đần
+- cậu thực sự rất dốt
+- cậu thực sự rất gà
+- cậu thực sự rất ngu
+- cậu thực sự rất ngốc
+- cậu thực sự rất vl
+- cậu thực sự rất xàm
+- cậu thực sự rất xấu mù
+- cậu thực sự rất đần
+- cậu thực sự vl
+- cậu thực sự xàm
+- cậu thực sự xấu mù
+- cậu thực sự đần
+- cậu trên cả dốt
+- cậu trên cả gà
+- cậu trên cả ngu
+- cậu trên cả ngốc
+- cậu trên cả vl
+- cậu trên cả xàm
+- cậu trên cả xấu mù
+- cậu trên cả đần
+- cậu vl
+- cậu vl hơn những gì mình nghĩ
+- cậu vl hơn những gì tôi tưởng
+- cậu vl lắm
+- cậu vl như bò
+- cậu vl như chó
+- cậu vl như cờ hó
+- cậu vl như dog
+- cậu vl như heo
+- cậu vl như lợn
+- cậu vl như trâu
+- cậu vl như vịt
+- cậu vl nhỉ
+- cậu vl phết
+- cậu vl quá
+- cậu vl thật
+- cậu vl thế
+- cậu vl vãi
+- cậu vl vậy
+- cậu vl à
+- cậu vl đấy
+- cậu xàm
+- cậu xàm hơn những gì mình nghĩ
+- cậu xàm hơn những gì tôi tưởng
+- cậu xàm lắm
+- cậu xàm như bò
+- cậu xàm như chó
+- cậu xàm như cờ hó
+- cậu xàm như dog
+- cậu xàm như heo
+- cậu xàm như lợn
+- cậu xàm như trâu
+- cậu xàm như vịt
+- cậu xàm nhỉ
+- cậu xàm phết
+- cậu xàm quá
+- cậu xàm thật
+- cậu xàm thế
+- cậu xàm vãi
+- cậu xàm vậy
+- cậu xàm à
+- cậu xàm đấy
+- cậu xấu mù
+- cậu xấu mù hơn những gì mình nghĩ
+- cậu xấu mù hơn những gì tôi tưởng
+- cậu xấu mù lắm
+- cậu xấu mù như bò
+- cậu xấu mù như chó
+- cậu xấu mù như cờ hó
+- cậu xấu mù như dog
+- cậu xấu mù như heo
+- cậu xấu mù như lợn
+- cậu xấu mù như trâu
+- cậu xấu mù như vịt
+- cậu xấu mù nhỉ
+- cậu xấu mù phết
+- cậu xấu mù quá
+- cậu xấu mù thật
+- cậu xấu mù thế
+- cậu xấu mù vãi
+- cậu xấu mù vậy
+- cậu xấu mù à
+- cậu xấu mù đấy
+- cậu đần
+- cậu đần hơn những gì mình nghĩ
+- cậu đần hơn những gì tôi tưởng
+- cậu đần lắm
+- cậu đần như bò
+- cậu đần như chó
+- cậu đần như cờ hó
+- cậu đần như dog
+- cậu đần như heo
+- cậu đần như lợn
+- cậu đần như trâu
+- cậu đần như vịt
+- cậu đần nhỉ
+- cậu đần phết
+- cậu đần quá
+- cậu đần thật
+- cậu đần thế
+- cậu đần vãi
+- cậu đần vậy
+- cậu đần à
+- cậu đần đấy
+- dùng chán thế
+- dốt như bò
+- dốt như chó
+- dốt như cờ hó
+- dốt như dog
+- dốt như heo
+- dốt như lợn
+- dốt như trâu
+- dốt như vịt
+- e dùng chán thế
+- e dốt
+- e dốt hơn những gì mình nghĩ
+- e dốt hơn những gì tôi tưởng
+- e dốt lắm
+- e dốt như bò
+- e dốt như chó
+- e dốt như cờ hó
+- e dốt như dog
+- e dốt như heo
+- e dốt như lợn
+- e dốt như trâu
+- e dốt như vịt
+- e dốt nhỉ
+- e dốt phết
+- e dốt quá
+- e dốt thật
+- e dốt thế
+- e dốt vãi
+- e dốt vậy
+- e dốt à
+- e dốt đấy
+- e gà
+- e gà hơn những gì mình nghĩ
+- e gà hơn những gì tôi tưởng
+- e gà lắm
+- e gà như bò
+- e gà như chó
+- e gà như cờ hó
+- e gà như dog
+- e gà như heo
+- e gà như lợn
+- e gà như trâu
+- e gà như vịt
+- e gà nhỉ
+- e gà phết
+- e gà quá
+- e gà thật
+- e gà thế
+- e gà vãi
+- e gà vậy
+- e gà à
+- e gà đấy
+- e hơi bị dốt
+- e hơi bị gà
+- e hơi bị ngu
+- e hơi bị ngốc
+- e hơi bị vl
+- e hơi bị xàm
+- e hơi bị xấu mù
+- e hơi bị đần
+- e khó dùng quá
+- e ngu
+- e ngu hơn những gì mình nghĩ
+- e ngu hơn những gì tôi tưởng
+- e ngu lắm
+- e ngu như bò
+- e ngu như chó
+- e ngu như cờ hó
+- e ngu như dog
+- e ngu như heo
+- e ngu như lợn
+- e ngu như trâu
+- e ngu như vịt
+- e ngu nhỉ
+- e ngu phết
+- e ngu quá
+- e ngu thật
+- e ngu thế
+- e ngu vãi
+- e ngu vậy
+- e ngu à
+- e ngu đấy
+- e ngốc
+- e ngốc hơn những gì mình nghĩ
+- e ngốc hơn những gì tôi tưởng
+- e ngốc lắm
+- e ngốc như bò
+- e ngốc như chó
+- e ngốc như cờ hó
+- e ngốc như dog
+- e ngốc như heo
+- e ngốc như lợn
+- e ngốc như trâu
+- e ngốc như vịt
+- e ngốc nhỉ
+- e ngốc phết
+- e ngốc quá
+- e ngốc thật
+- e ngốc thế
+- e ngốc vãi
+- e ngốc vậy
+- e ngốc à
+- e ngốc đấy
+- e quá dốt
+- e quá gà
+- e quá là dốt
+- e quá là gà
+- e quá là ngu
+- e quá là ngốc
+- e quá là vl
+- e quá là xàm
+- e quá là xấu mù
+- e quá là đần
+- e quá ngu
+- e quá ngốc
+- e quá vl
+- e quá xàm
+- e quá xấu mù
+- e quá đần
+- e rất dốt
+- e rất gà
+- e rất là dốt
+- e rất là gà
+- e rất là ngu
+- e rất là ngốc
+- e rất là vl
+- e rất là xàm
+- e rất là xấu mù
+- e rất là đần
+- e rất ngu
+- e rất ngốc
+- e rất vl
+- e rất xàm
+- e rất xấu mù
+- e rất đần
+- e thật dốt
+- e thật gà
+- e thật là dốt
+- e thật là gà
+- e thật là ngu
+- e thật là ngốc
+- e thật là vl
+- e thật là xàm
+- e thật là xấu mù
+- e thật là đần
+- e thật ngu
+- e thật ngốc
+- e thật quá dốt
+- e thật quá gà
+- e thật quá ngu
+- e thật quá ngốc
+- e thật quá vl
+- e thật quá xàm
+- e thật quá xấu mù
+- e thật quá đần
+- e thật vl
+- e thật xàm
+- e thật xấu mù
+- e thật đần
+- e thực sự dốt
+- e thực sự gà
+- e thực sự ngu
+- e thực sự ngốc
+- e thực sự quá dốt
+- e thực sự quá gà
+- e thực sự quá ngu
+- e thực sự quá ngốc
+- e thực sự quá vl
+- e thực sự quá xàm
+- e thực sự quá xấu mù
+- e thực sự quá đần
+- e thực sự rất dốt
+- e thực sự rất gà
+- e thực sự rất ngu
+- e thực sự rất ngốc
+- e thực sự rất vl
+- e thực sự rất xàm
+- e thực sự rất xấu mù
+- e thực sự rất đần
+- e thực sự vl
+- e thực sự xàm
+- e thực sự xấu mù
+- e thực sự đần
+- e trên cả dốt
+- e trên cả gà
+- e trên cả ngu
+- e trên cả ngốc
+- e trên cả vl
+- e trên cả xàm
+- e trên cả xấu mù
+- e trên cả đần
+- e vl
+- e vl hơn những gì mình nghĩ
+- e vl hơn những gì tôi tưởng
+- e vl lắm
+- e vl như bò
+- e vl như chó
+- e vl như cờ hó
+- e vl như dog
+- e vl như heo
+- e vl như lợn
+- e vl như trâu
+- e vl như vịt
+- e vl nhỉ
+- e vl phết
+- e vl quá
+- e vl thật
+- e vl thế
+- e vl vãi
+- e vl vậy
+- e vl à
+- e vl đấy
+- e xàm
+- e xàm hơn những gì mình nghĩ
+- e xàm hơn những gì tôi tưởng
+- e xàm lắm
+- e xàm như bò
+- e xàm như chó
+- e xàm như cờ hó
+- e xàm như dog
+- e xàm như heo
+- e xàm như lợn
+- e xàm như trâu
+- e xàm như vịt
+- e xàm nhỉ
+- e xàm phết
+- e xàm quá
+- e xàm thật
+- e xàm thế
+- e xàm vãi
+- e xàm vậy
+- e xàm à
+- e xàm đấy
+- e xấu mù
+- e xấu mù hơn những gì mình nghĩ
+- e xấu mù hơn những gì tôi tưởng
+- e xấu mù lắm
+- e xấu mù như bò
+- e xấu mù như chó
+- e xấu mù như cờ hó
+- e xấu mù như dog
+- e xấu mù như heo
+- e xấu mù như lợn
+- e xấu mù như trâu
+- e xấu mù như vịt
+- e xấu mù nhỉ
+- e xấu mù phết
+- e xấu mù quá
+- e xấu mù thật
+- e xấu mù thế
+- e xấu mù vãi
+- e xấu mù vậy
+- e xấu mù à
+- e xấu mù đấy
+- e đần
+- e đần hơn những gì mình nghĩ
+- e đần hơn những gì tôi tưởng
+- e đần lắm
+- e đần như bò
+- e đần như chó
+- e đần như cờ hó
+- e đần như dog
+- e đần như heo
+- e đần như lợn
+- e đần như trâu
+- e đần như vịt
+- e đần nhỉ
+- e đần phết
+- e đần quá
+- e đần thật
+- e đần thế
+- e đần vãi
+- e đần vậy
+- e đần à
+- e đần đấy
+- em dùng chán thế
+- em dốt
+- em dốt hơn những gì mình nghĩ
+- em dốt hơn những gì tôi tưởng
+- em dốt lắm
+- em dốt như bò
+- em dốt như chó
+- em dốt như cờ hó
+- em dốt như dog
+- em dốt như heo
+- em dốt như lợn
+- em dốt như trâu
+- em dốt như vịt
+- em dốt nhỉ
+- em dốt phết
+- em dốt quá
+- em dốt thật
+- em dốt thế
+- em dốt vãi
+- em dốt vậy
+- em dốt à
+- em dốt đấy
+- em gà
+- em gà hơn những gì mình nghĩ
+- em gà hơn những gì tôi tưởng
+- em gà lắm
+- em gà như bò
+- em gà như chó
+- em gà như cờ hó
+- em gà như dog
+- em gà như heo
+- em gà như lợn
+- em gà như trâu
+- em gà như vịt
+- em gà nhỉ
+- em gà phết
+- em gà quá
+- em gà thật
+- em gà thế
+- em gà vãi
+- em gà vậy
+- em gà à
+- em gà đấy
+- em hơi bị dốt
+- em hơi bị gà
+- em hơi bị ngu
+- em hơi bị ngốc
+- em hơi bị vl
+- em hơi bị xàm
+- em hơi bị xấu mù
+- em hơi bị đần
+- em khó dùng quá
+- em ngu
+- em ngu hơn những gì mình nghĩ
+- em ngu hơn những gì tôi tưởng
+- em ngu lắm
+- em ngu như bò
+- em ngu như chó
+- em ngu như cờ hó
+- em ngu như dog
+- em ngu như heo
+- em ngu như lợn
+- em ngu như trâu
+- em ngu như vịt
+- em ngu nhỉ
+- em ngu phết
+- em ngu quá
+- em ngu thật
+- em ngu thế
+- em ngu vãi
+- em ngu vậy
+- em ngu à
+- em ngu đấy
+- em ngốc
+- em ngốc hơn những gì mình nghĩ
+- em ngốc hơn những gì tôi tưởng
+- em ngốc lắm
+- em ngốc như bò
+- em ngốc như chó
+- em ngốc như cờ hó
+- em ngốc như dog
+- em ngốc như heo
+- em ngốc như lợn
+- em ngốc như trâu
+- em ngốc như vịt
+- em ngốc nhỉ
+- em ngốc phết
+- em ngốc quá
+- em ngốc thật
+- em ngốc thế
+- em ngốc vãi
+- em ngốc vậy
+- em ngốc à
+- em ngốc đấy
+- em quá dốt
+- em quá gà
+- em quá là dốt
+- em quá là gà
+- em quá là ngu
+- em quá là ngốc
+- em quá là vl
+- em quá là xàm
+- em quá là xấu mù
+- em quá là đần
+- em quá ngu
+- em quá ngốc
+- em quá vl
+- em quá xàm
+- em quá xấu mù
+- em quá đần
+- em rất dốt
+- em rất gà
+- em rất là dốt
+- em rất là gà
+- em rất là ngu
+- em rất là ngốc
+- em rất là vl
+- em rất là xàm
+- em rất là xấu mù
+- em rất là đần
+- em rất ngu
+- em rất ngốc
+- em rất vl
+- em rất xàm
+- em rất xấu mù
+- em rất đần
+- em thật dốt
+- em thật gà
+- em thật là dốt
+- em thật là gà
+- em thật là ngu
+- em thật là ngốc
+- em thật là vl
+- em thật là xàm
+- em thật là xấu mù
+- em thật là đần
+- em thật ngu
+- em thật ngốc
+- em thật quá dốt
+- em thật quá gà
+- em thật quá ngu
+- em thật quá ngốc
+- em thật quá vl
+- em thật quá xàm
+- em thật quá xấu mù
+- em thật quá đần
+- em thật vl
+- em thật xàm
+- em thật xấu mù
+- em thật đần
+- em thực sự dốt
+- em thực sự gà
+- em thực sự ngu
+- em thực sự ngốc
+- em thực sự quá dốt
+- em thực sự quá gà
+- em thực sự quá ngu
+- em thực sự quá ngốc
+- em thực sự quá vl
+- em thực sự quá xàm
+- em thực sự quá xấu mù
+- em thực sự quá đần
+- em thực sự rất dốt
+- em thực sự rất gà
+- em thực sự rất ngu
+- em thực sự rất ngốc
+- em thực sự rất vl
+- em thực sự rất xàm
+- em thực sự rất xấu mù
+- em thực sự rất đần
+- em thực sự vl
+- em thực sự xàm
+- em thực sự xấu mù
+- em thực sự đần
+- em trên cả dốt
+- em trên cả gà
+- em trên cả ngu
+- em trên cả ngốc
+- em trên cả vl
+- em trên cả xàm
+- em trên cả xấu mù
+- em trên cả đần
+- em vl
+- em vl hơn những gì mình nghĩ
+- em vl hơn những gì tôi tưởng
+- em vl lắm
+- em vl như bò
+- em vl như chó
+- em vl như cờ hó
+- em vl như dog
+- em vl như heo
+- em vl như lợn
+- em vl như trâu
+- em vl như vịt
+- em vl nhỉ
+- em vl phết
+- em vl quá
+- em vl thật
+- em vl thế
+- em vl vãi
+- em vl vậy
+- em vl à
+- em vl đấy
+- em xàm
+- em xàm hơn những gì mình nghĩ
+- em xàm hơn những gì tôi tưởng
+- em xàm lắm
+- em xàm như bò
+- em xàm như chó
+- em xàm như cờ hó
+- em xàm như dog
+- em xàm như heo
+- em xàm như lợn
+- em xàm như trâu
+- em xàm như vịt
+- em xàm nhỉ
+- em xàm phết
+- em xàm quá
+- em xàm thật
+- em xàm thế
+- em xàm vãi
+- em xàm vậy
+- em xàm à
+- em xàm đấy
+- em xấu mù
+- em xấu mù hơn những gì mình nghĩ
+- em xấu mù hơn những gì tôi tưởng
+- em xấu mù lắm
+- em xấu mù như bò
+- em xấu mù như chó
+- em xấu mù như cờ hó
+- em xấu mù như dog
+- em xấu mù như heo
+- em xấu mù như lợn
+- em xấu mù như trâu
+- em xấu mù như vịt
+- em xấu mù nhỉ
+- em xấu mù phết
+- em xấu mù quá
+- em xấu mù thật
+- em xấu mù thế
+- em xấu mù vãi
+- em xấu mù vậy
+- em xấu mù à
+- em xấu mù đấy
+- em đần
+- em đần hơn những gì mình nghĩ
+- em đần hơn những gì tôi tưởng
+- em đần lắm
+- em đần như bò
+- em đần như chó
+- em đần như cờ hó
+- em đần như dog
+- em đần như heo
+- em đần như lợn
+- em đần như trâu
+- em đần như vịt
+- em đần nhỉ
+- em đần phết
+- em đần quá
+- em đần thật
+- em đần thế
+- em đần vãi
+- em đần vậy
+- em đần à
+- em đần đấy
+- gà như bò
+- gà như chó
+- gà như cờ hó
+- gà như dog
+- gà như heo
+- gà như lợn
+- gà như trâu
+- gà như vịt
+- hơi bị dốt
+- hơi bị gà
+- hơi bị ngu
+- hơi bị ngốc
+- hơi bị vl
+- hơi bị xàm
+- hơi bị xấu mù
+- hơi bị đần
+- khó dùng quá
+- mày dùng chán thế
+- mày dốt
+- mày dốt hơn những gì mình nghĩ
+- mày dốt hơn những gì tôi tưởng
+- mày dốt lắm
+- mày dốt như bò
+- mày dốt như chó
+- mày dốt như cờ hó
+- mày dốt như dog
+- mày dốt như heo
+- mày dốt như lợn
+- mày dốt như trâu
+- mày dốt như vịt
+- mày dốt nhỉ
+- mày dốt phết
+- mày dốt quá
+- mày dốt thật
+- mày dốt thế
+- mày dốt vãi
+- mày dốt vậy
+- mày dốt à
+- mày dốt đấy
+- mày gà
+- mày gà hơn những gì mình nghĩ
+- mày gà hơn những gì tôi tưởng
+- mày gà lắm
+- mày gà như bò
+- mày gà như chó
+- mày gà như cờ hó
+- mày gà như dog
+- mày gà như heo
+- mày gà như lợn
+- mày gà như trâu
+- mày gà như vịt
+- mày gà nhỉ
+- mày gà phết
+- mày gà quá
+- mày gà thật
+- mày gà thế
+- mày gà vãi
+- mày gà vậy
+- mày gà à
+- mày gà đấy
+- mày hơi bị dốt
+- mày hơi bị gà
+- mày hơi bị ngu
+- mày hơi bị ngốc
+- mày hơi bị vl
+- mày hơi bị xàm
+- mày hơi bị xấu mù
+- mày hơi bị đần
+- mày khó dùng quá
+- mày ngu
+- mày ngu hơn những gì mình nghĩ
+- mày ngu hơn những gì tôi tưởng
+- mày ngu lắm
+- mày ngu như bò
+- mày ngu như chó
+- mày ngu như cờ hó
+- mày ngu như dog
+- mày ngu như heo
+- mày ngu như lợn
+- mày ngu như trâu
+- mày ngu như vịt
+- mày ngu nhỉ
+- mày ngu phết
+- mày ngu quá
+- mày ngu thật
+- mày ngu thế
+- mày ngu vãi
+- mày ngu vậy
+- mày ngu à
+- mày ngu đấy
+- mày ngốc
+- mày ngốc hơn những gì mình nghĩ
+- mày ngốc hơn những gì tôi tưởng
+- mày ngốc lắm
+- mày ngốc như bò
+- mày ngốc như chó
+- mày ngốc như cờ hó
+- mày ngốc như dog
+- mày ngốc như heo
+- mày ngốc như lợn
+- mày ngốc như trâu
+- mày ngốc như vịt
+- mày ngốc nhỉ
+- mày ngốc phết
+- mày ngốc quá
+- mày ngốc thật
+- mày ngốc thế
+- mày ngốc vãi
+- mày ngốc vậy
+- mày ngốc à
+- mày ngốc đấy
+- mày quá dốt
+- mày quá gà
+- mày quá là dốt
+- mày quá là gà
+- mày quá là ngu
+- mày quá là ngốc
+- mày quá là vl
+- mày quá là xàm
+- mày quá là xấu mù
+- mày quá là đần
+- mày quá ngu
+- mày quá ngốc
+- mày quá vl
+- mày quá xàm
+- mày quá xấu mù
+- mày quá đần
+- mày rất dốt
+- mày rất gà
+- mày rất là dốt
+- mày rất là gà
+- mày rất là ngu
+- mày rất là ngốc
+- mày rất là vl
+- mày rất là xàm
+- mày rất là xấu mù
+- mày rất là đần
+- mày rất ngu
+- mày rất ngốc
+- mày rất vl
+- mày rất xàm
+- mày rất xấu mù
+- mày rất đần
+- mày thật dốt
+- mày thật gà
+- mày thật là dốt
+- mày thật là gà
+- mày thật là ngu
+- mày thật là ngốc
+- mày thật là vl
+- mày thật là xàm
+- mày thật là xấu mù
+- mày thật là đần
+- mày thật ngu
+- mày thật ngốc
+- mày thật quá dốt
+- mày thật quá gà
+- mày thật quá ngu
+- mày thật quá ngốc
+- mày thật quá vl
+- mày thật quá xàm
+- mày thật quá xấu mù
+- mày thật quá đần
+- mày thật vl
+- mày thật xàm
+- mày thật xấu mù
+- mày thật đần
+- mày thực sự dốt
+- mày thực sự gà
+- mày thực sự ngu
+- mày thực sự ngốc
+- mày thực sự quá dốt
+- mày thực sự quá gà
+- mày thực sự quá ngu
+- mày thực sự quá ngốc
+- mày thực sự quá vl
+- mày thực sự quá xàm
+- mày thực sự quá xấu mù
+- mày thực sự quá đần
+- mày thực sự rất dốt
+- mày thực sự rất gà
+- mày thực sự rất ngu
+- mày thực sự rất ngốc
+- mày thực sự rất vl
+- mày thực sự rất xàm
+- mày thực sự rất xấu mù
+- mày thực sự rất đần
+- mày thực sự vl
+- mày thực sự xàm
+- mày thực sự xấu mù
+- mày thực sự đần
+- mày trên cả dốt
+- mày trên cả gà
+- mày trên cả ngu
+- mày trên cả ngốc
+- mày trên cả vl
+- mày trên cả xàm
+- mày trên cả xấu mù
+- mày trên cả đần
+- mày vl
+- mày vl hơn những gì mình nghĩ
+- mày vl hơn những gì tôi tưởng
+- mày vl lắm
+- mày vl như bò
+- mày vl như chó
+- mày vl như cờ hó
+- mày vl như dog
+- mày vl như heo
+- mày vl như lợn
+- mày vl như trâu
+- mày vl như vịt
+- mày vl nhỉ
+- mày vl phết
+- mày vl quá
+- mày vl thật
+- mày vl thế
+- mày vl vãi
+- mày vl vậy
+- mày vl à
+- mày vl đấy
+- mày xàm
+- mày xàm hơn những gì mình nghĩ
+- mày xàm hơn những gì tôi tưởng
+- mày xàm lắm
+- mày xàm như bò
+- mày xàm như chó
+- mày xàm như cờ hó
+- mày xàm như dog
+- mày xàm như heo
+- mày xàm như lợn
+- mày xàm như trâu
+- mày xàm như vịt
+- mày xàm nhỉ
+- mày xàm phết
+- mày xàm quá
+- mày xàm thật
+- mày xàm thế
+- mày xàm vãi
+- mày xàm vậy
+- mày xàm à
+- mày xàm đấy
+- mày xấu mù
+- mày xấu mù hơn những gì mình nghĩ
+- mày xấu mù hơn những gì tôi tưởng
+- mày xấu mù lắm
+- mày xấu mù như bò
+- mày xấu mù như chó
+- mày xấu mù như cờ hó
+- mày xấu mù như dog
+- mày xấu mù như heo
+- mày xấu mù như lợn
+- mày xấu mù như trâu
+- mày xấu mù như vịt
+- mày xấu mù nhỉ
+- mày xấu mù phết
+- mày xấu mù quá
+- mày xấu mù thật
+- mày xấu mù thế
+- mày xấu mù vãi
+- mày xấu mù vậy
+- mày xấu mù à
+- mày xấu mù đấy
+- mày đần
+- mày đần hơn những gì mình nghĩ
+- mày đần hơn những gì tôi tưởng
+- mày đần lắm
+- mày đần như bò
+- mày đần như chó
+- mày đần như cờ hó
+- mày đần như dog
+- mày đần như heo
+- mày đần như lợn
+- mày đần như trâu
+- mày đần như vịt
+- mày đần nhỉ
+- mày đần phết
+- mày đần quá
+- mày đần thật
+- mày đần thế
+- mày đần vãi
+- mày đần vậy
+- mày đần à
+- mày đần đấy
+- ngu như bò
+- ngu như chó
+- ngu như cờ hó
+- ngu như dog
+- ngu như heo
+- ngu như lợn
+- ngu như trâu
+- ngu như vịt
+- ngốc như bò
+- ngốc như chó
+- ngốc như cờ hó
+- ngốc như dog
+- ngốc như heo
+- ngốc như lợn
+- ngốc như trâu
+- ngốc như vịt
+- quá dốt
+- quá gà
+- quá là dốt
+- quá là gà
+- quá là ngu
+- quá là ngốc
+- quá là vl
+- quá là xàm
+- quá là xấu mù
+- quá là đần
+- quá ngu
+- quá ngốc
+- quá vl
+- quá xàm
+- quá xấu mù
+- quá đần
+- rất dốt
+- rất gà
+- rất là dốt
+- rất là gà
+- rất là ngu
+- rất là ngốc
+- rất là vl
+- rất là xàm
+- rất là xấu mù
+- rất là đần
+- rất ngu
+- rất ngốc
+- rất vl
+- rất xàm
+- rất xấu mù
+- rất đần
+- thật dốt
+- thật gà
+- thật là dốt
+- thật là gà
+- thật là ngu
+- thật là ngốc
+- thật là vl
+- thật là xàm
+- thật là xấu mù
+- thật là đần
+- thật ngu
+- thật ngốc
+- thật quá dốt
+- thật quá gà
+- thật quá ngu
+- thật quá ngốc
+- thật quá vl
+- thật quá xàm
+- thật quá xấu mù
+- thật quá đần
+- thật vl
+- thật xàm
+- thật xấu mù
+- thật đần
+- thực sự dốt
+- thực sự gà
+- thực sự ngu
+- thực sự ngốc
+- thực sự quá dốt
+- thực sự quá gà
+- thực sự quá ngu
+- thực sự quá ngốc
+- thực sự quá vl
+- thực sự quá xàm
+- thực sự quá xấu mù
+- thực sự quá đần
+- thực sự rất dốt
+- thực sự rất gà
+- thực sự rất ngu
+- thực sự rất ngốc
+- thực sự rất vl
+- thực sự rất xàm
+- thực sự rất xấu mù
+- thực sự rất đần
+- thực sự vl
+- thực sự xàm
+- thực sự xấu mù
+- thực sự đần
+- trên cả dốt
+- trên cả gà
+- trên cả ngu
+- trên cả ngốc
+- trên cả vl
+- trên cả xàm
+- trên cả xấu mù
+- trên cả đần
+- vl như bò
+- vl như chó
+- vl như cờ hó
+- vl như dog
+- vl như heo
+- vl như lợn
+- vl như trâu
+- vl như vịt
+- xàm như bò
+- xàm như chó
+- xàm như cờ hó
+- xàm như dog
+- xàm như heo
+- xàm như lợn
+- xàm như trâu
+- xàm như vịt
+- xấu mù như bò
+- xấu mù như chó
+- xấu mù như cờ hó
+- xấu mù như dog
+- xấu mù như heo
+- xấu mù như lợn
+- xấu mù như trâu
+- xấu mù như vịt
+- ô dùng chán thế
+- ô dốt
+- ô dốt hơn những gì mình nghĩ
+- ô dốt hơn những gì tôi tưởng
+- ô dốt lắm
+- ô dốt như bò
+- ô dốt như chó
+- ô dốt như cờ hó
+- ô dốt như dog
+- ô dốt như heo
+- ô dốt như lợn
+- ô dốt như trâu
+- ô dốt như vịt
+- ô dốt nhỉ
+- ô dốt phết
+- ô dốt quá
+- ô dốt thật
+- ô dốt thế
+- ô dốt vãi
+- ô dốt vậy
+- ô dốt à
+- ô dốt đấy
+- ô gà
+- ô gà hơn những gì mình nghĩ
+- ô gà hơn những gì tôi tưởng
+- ô gà lắm
+- ô gà như bò
+- ô gà như chó
+- ô gà như cờ hó
+- ô gà như dog
+- ô gà như heo
+- ô gà như lợn
+- ô gà như trâu
+- ô gà như vịt
+- ô gà nhỉ
+- ô gà phết
+- ô gà quá
+- ô gà thật
+- ô gà thế
+- ô gà vãi
+- ô gà vậy
+- ô gà à
+- ô gà đấy
+- ô hơi bị dốt
+- ô hơi bị gà
+- ô hơi bị ngu
+- ô hơi bị ngốc
+- ô hơi bị vl
+- ô hơi bị xàm
+- ô hơi bị xấu mù
+- ô hơi bị đần
+- ô khó dùng quá
+- ô ngu
+- ô ngu hơn những gì mình nghĩ
+- ô ngu hơn những gì tôi tưởng
+- ô ngu lắm
+- ô ngu như bò
+- ô ngu như chó
+- ô ngu như cờ hó
+- ô ngu như dog
+- ô ngu như heo
+- ô ngu như lợn
+- ô ngu như trâu
+- ô ngu như vịt
+- ô ngu nhỉ
+- ô ngu phết
+- ô ngu quá
+- ô ngu thật
+- ô ngu thế
+- ô ngu vãi
+- ô ngu vậy
+- ô ngu à
+- ô ngu đấy
+- ô ngốc
+- ô ngốc hơn những gì mình nghĩ
+- ô ngốc hơn những gì tôi tưởng
+- ô ngốc lắm
+- ô ngốc như bò
+- ô ngốc như chó
+- ô ngốc như cờ hó
+- ô ngốc như dog
+- ô ngốc như heo
+- ô ngốc như lợn
+- ô ngốc như trâu
+- ô ngốc như vịt
+- ô ngốc nhỉ
+- ô ngốc phết
+- ô ngốc quá
+- ô ngốc thật
+- ô ngốc thế
+- ô ngốc vãi
+- ô ngốc vậy
+- ô ngốc à
+- ô ngốc đấy
+- ô quá dốt
+- ô quá gà
+- ô quá là dốt
+- ô quá là gà
+- ô quá là ngu
+- ô quá là ngốc
+- ô quá là vl
+- ô quá là xàm
+- ô quá là xấu mù
+- ô quá là đần
+- ô quá ngu
+- ô quá ngốc
+- ô quá vl
+- ô quá xàm
+- ô quá xấu mù
+- ô quá đần
+- ô rất dốt
+- ô rất gà
+- ô rất là dốt
+- ô rất là gà
+- ô rất là ngu
+- ô rất là ngốc
+- ô rất là vl
+- ô rất là xàm
+- ô rất là xấu mù
+- ô rất là đần
+- ô rất ngu
+- ô rất ngốc
+- ô rất vl
+- ô rất xàm
+- ô rất xấu mù
+- ô rất đần
+- ô thật dốt
+- ô thật gà
+- ô thật là dốt
+- ô thật là gà
+- ô thật là ngu
+- ô thật là ngốc
+- ô thật là vl
+- ô thật là xàm
+- ô thật là xấu mù
+- ô thật là đần
+- ô thật ngu
+- ô thật ngốc
+- ô thật quá dốt
+- ô thật quá gà
+- ô thật quá ngu
+- ô thật quá ngốc
+- ô thật quá vl
+- ô thật quá xàm
+- ô thật quá xấu mù
+- ô thật quá đần
+- ô thật vl
+- ô thật xàm
+- ô thật xấu mù
+- ô thật đần
+- ô thực sự dốt
+- ô thực sự gà
+- ô thực sự ngu
+- ô thực sự ngốc
+- ô thực sự quá dốt
+- ô thực sự quá gà
+- ô thực sự quá ngu
+- ô thực sự quá ngốc
+- ô thực sự quá vl
+- ô thực sự quá xàm
+- ô thực sự quá xấu mù
+- ô thực sự quá đần
+- ô thực sự rất dốt
+- ô thực sự rất gà
+- ô thực sự rất ngu
+- ô thực sự rất ngốc
+- ô thực sự rất vl
+- ô thực sự rất xàm
+- ô thực sự rất xấu mù
+- ô thực sự rất đần
+- ô thực sự vl
+- ô thực sự xàm
+- ô thực sự xấu mù
+- ô thực sự đần
+- ô trên cả dốt
+- ô trên cả gà
+- ô trên cả ngu
+- ô trên cả ngốc
+- ô trên cả vl
+- ô trên cả xàm
+- ô trên cả xấu mù
+- ô trên cả đần
+- ô vl
+- ô vl hơn những gì mình nghĩ
+- ô vl hơn những gì tôi tưởng
+- ô vl lắm
+- ô vl như bò
+- ô vl như chó
+- ô vl như cờ hó
+- ô vl như dog
+- ô vl như heo
+- ô vl như lợn
+- ô vl như trâu
+- ô vl như vịt
+- ô vl nhỉ
+- ô vl phết
+- ô vl quá
+- ô vl thật
+- ô vl thế
+- ô vl vãi
+- ô vl vậy
+- ô vl à
+- ô vl đấy
+- ô xàm
+- ô xàm hơn những gì mình nghĩ
+- ô xàm hơn những gì tôi tưởng
+- ô xàm lắm
+- ô xàm như bò
+- ô xàm như chó
+- ô xàm như cờ hó
+- ô xàm như dog
+- ô xàm như heo
+- ô xàm như lợn
+- ô xàm như trâu
+- ô xàm như vịt
+- ô xàm nhỉ
+- ô xàm phết
+- ô xàm quá
+- ô xàm thật
+- ô xàm thế
+- ô xàm vãi
+- ô xàm vậy
+- ô xàm à
+- ô xàm đấy
+- ô xấu mù
+- ô xấu mù hơn những gì mình nghĩ
+- ô xấu mù hơn những gì tôi tưởng
+- ô xấu mù lắm
+- ô xấu mù như bò
+- ô xấu mù như chó
+- ô xấu mù như cờ hó
+- ô xấu mù như dog
+- ô xấu mù như heo
+- ô xấu mù như lợn
+- ô xấu mù như trâu
+- ô xấu mù như vịt
+- ô xấu mù nhỉ
+- ô xấu mù phết
+- ô xấu mù quá
+- ô xấu mù thật
+- ô xấu mù thế
+- ô xấu mù vãi
+- ô xấu mù vậy
+- ô xấu mù à
+- ô xấu mù đấy
+- ô đần
+- ô đần hơn những gì mình nghĩ
+- ô đần hơn những gì tôi tưởng
+- ô đần lắm
+- ô đần như bò
+- ô đần như chó
+- ô đần như cờ hó
+- ô đần như dog
+- ô đần như heo
+- ô đần như lợn
+- ô đần như trâu
+- ô đần như vịt
+- ô đần nhỉ
+- ô đần phết
+- ô đần quá
+- ô đần thật
+- ô đần thế
+- ô đần vãi
+- ô đần vậy
+- ô đần à
+- ô đần đấy
+- ông dùng chán thế
+- ông dốt
+- ông dốt hơn những gì mình nghĩ
+- ông dốt hơn những gì tôi tưởng
+- ông dốt lắm
+- ông dốt như bò
+- ông dốt như chó
+- ông dốt như cờ hó
+- ông dốt như dog
+- ông dốt như heo
+- ông dốt như lợn
+- ông dốt như trâu
+- ông dốt như vịt
+- ông dốt nhỉ
+- ông dốt phết
+- ông dốt quá
+- ông dốt thật
+- ông dốt thế
+- ông dốt vãi
+- ông dốt vậy
+- ông dốt à
+- ông dốt đấy
+- ông gà
+- ông gà hơn những gì mình nghĩ
+- ông gà hơn những gì tôi tưởng
+- ông gà lắm
+- ông gà như bò
+- ông gà như chó
+- ông gà như cờ hó
+- ông gà như dog
+- ông gà như heo
+- ông gà như lợn
+- ông gà như trâu
+- ông gà như vịt
+- ông gà nhỉ
+- ông gà phết
+- ông gà quá
+- ông gà thật
+- ông gà thế
+- ông gà vãi
+- ông gà vậy
+- ông gà à
+- ông gà đấy
+- ông hơi bị dốt
+- ông hơi bị gà
+- ông hơi bị ngu
+- ông hơi bị ngốc
+- ông hơi bị vl
+- ông hơi bị xàm
+- ông hơi bị xấu mù
+- ông hơi bị đần
+- ông khó dùng quá
+- ông ngu
+- ông ngu hơn những gì mình nghĩ
+- ông ngu hơn những gì tôi tưởng
+- ông ngu lắm
+- ông ngu như bò
+- ông ngu như chó
+- ông ngu như cờ hó
+- ông ngu như dog
+- ông ngu như heo
+- ông ngu như lợn
+- ông ngu như trâu
+- ông ngu như vịt
+- ông ngu nhỉ
+- ông ngu phết
+- ông ngu quá
+- ông ngu thật
+- ông ngu thế
+- ông ngu vãi
+- ông ngu vậy
+- ông ngu à
+- ông ngu đấy
+- ông ngốc
+- ông ngốc hơn những gì mình nghĩ
+- ông ngốc hơn những gì tôi tưởng
+- ông ngốc lắm
+- ông ngốc như bò
+- ông ngốc như chó
+- ông ngốc như cờ hó
+- ông ngốc như dog
+- ông ngốc như heo
+- ông ngốc như lợn
+- ông ngốc như trâu
+- ông ngốc như vịt
+- ông ngốc nhỉ
+- ông ngốc phết
+- ông ngốc quá
+- ông ngốc thật
+- ông ngốc thế
+- ông ngốc vãi
+- ông ngốc vậy
+- ông ngốc à
+- ông ngốc đấy
+- ông quá dốt
+- ông quá gà
+- ông quá là dốt
+- ông quá là gà
+- ông quá là ngu
+- ông quá là ngốc
+- ông quá là vl
+- ông quá là xàm
+- ông quá là xấu mù
+- ông quá là đần
+- ông quá ngu
+- ông quá ngốc
+- ông quá vl
+- ông quá xàm
+- ông quá xấu mù
+- ông quá đần
+- ông rất dốt
+- ông rất gà
+- ông rất là dốt
+- ông rất là gà
+- ông rất là ngu
+- ông rất là ngốc
+- ông rất là vl
+- ông rất là xàm
+- ông rất là xấu mù
+- ông rất là đần
+- ông rất ngu
+- ông rất ngốc
+- ông rất vl
+- ông rất xàm
+- ông rất xấu mù
+- ông rất đần
+- ông thật dốt
+- ông thật gà
+- ông thật là dốt
+- ông thật là gà
+- ông thật là ngu
+- ông thật là ngốc
+- ông thật là vl
+- ông thật là xàm
+- ông thật là xấu mù
+- ông thật là đần
+- ông thật ngu
+- ông thật ngốc
+- ông thật quá dốt
+- ông thật quá gà
+- ông thật quá ngu
+- ông thật quá ngốc
+- ông thật quá vl
+- ông thật quá xàm
+- ông thật quá xấu mù
+- ông thật quá đần
+- ông thật vl
+- ông thật xàm
+- ông thật xấu mù
+- ông thật đần
+- ông thực sự dốt
+- ông thực sự gà
+- ông thực sự ngu
+- ông thực sự ngốc
+- ông thực sự quá dốt
+- ông thực sự quá gà
+- ông thực sự quá ngu
+- ông thực sự quá ngốc
+- ông thực sự quá vl
+- ông thực sự quá xàm
+- ông thực sự quá xấu mù
+- ông thực sự quá đần
+- ông thực sự rất dốt
+- ông thực sự rất gà
+- ông thực sự rất ngu
+- ông thực sự rất ngốc
+- ông thực sự rất vl
+- ông thực sự rất xàm
+- ông thực sự rất xấu mù
+- ông thực sự rất đần
+- ông thực sự vl
+- ông thực sự xàm
+- ông thực sự xấu mù
+- ông thực sự đần
+- ông trên cả dốt
+- ông trên cả gà
+- ông trên cả ngu
+- ông trên cả ngốc
+- ông trên cả vl
+- ông trên cả xàm
+- ông trên cả xấu mù
+- ông trên cả đần
+- ông vl
+- ông vl hơn những gì mình nghĩ
+- ông vl hơn những gì tôi tưởng
+- ông vl lắm
+- ông vl như bò
+- ông vl như chó
+- ông vl như cờ hó
+- ông vl như dog
+- ông vl như heo
+- ông vl như lợn
+- ông vl như trâu
+- ông vl như vịt
+- ông vl nhỉ
+- ông vl phết
+- ông vl quá
+- ông vl thật
+- ông vl thế
+- ông vl vãi
+- ông vl vậy
+- ông vl à
+- ông vl đấy
+- ông xàm
+- ông xàm hơn những gì mình nghĩ
+- ông xàm hơn những gì tôi tưởng
+- ông xàm lắm
+- ông xàm như bò
+- ông xàm như chó
+- ông xàm như cờ hó
+- ông xàm như dog
+- ông xàm như heo
+- ông xàm như lợn
+- ông xàm như trâu
+- ông xàm như vịt
+- ông xàm nhỉ
+- ông xàm phết
+- ông xàm quá
+- ông xàm thật
+- ông xàm thế
+- ông xàm vãi
+- ông xàm vậy
+- ông xàm à
+- ông xàm đấy
+- ông xấu mù
+- ông xấu mù hơn những gì mình nghĩ
+- ông xấu mù hơn những gì tôi tưởng
+- ông xấu mù lắm
+- ông xấu mù như bò
+- ông xấu mù như chó
+- ông xấu mù như cờ hó
+- ông xấu mù như dog
+- ông xấu mù như heo
+- ông xấu mù như lợn
+- ông xấu mù như trâu
+- ông xấu mù như vịt
+- ông xấu mù nhỉ
+- ông xấu mù phết
+- ông xấu mù quá
+- ông xấu mù thật
+- ông xấu mù thế
+- ông xấu mù vãi
+- ông xấu mù vậy
+- ông xấu mù à
+- ông xấu mù đấy
+- ông đần
+- ông đần hơn những gì mình nghĩ
+- ông đần hơn những gì tôi tưởng
+- ông đần lắm
+- ông đần như bò
+- ông đần như chó
+- ông đần như cờ hó
+- ông đần như dog
+- ông đần như heo
+- ông đần như lợn
+- ông đần như trâu
+- ông đần như vịt
+- ông đần nhỉ
+- ông đần phết
+- ông đần quá
+- ông đần thật
+- ông đần thế
+- ông đần vãi
+- ông đần vậy
+- ông đần à
+- ông đần đấy
+- đại ca dùng chán thế
+- đại ca dốt
+- đại ca dốt hơn những gì mình nghĩ
+- đại ca dốt hơn những gì tôi tưởng
+- đại ca dốt lắm
+- đại ca dốt như bò
+- đại ca dốt như chó
+- đại ca dốt như cờ hó
+- đại ca dốt như dog
+- đại ca dốt như heo
+- đại ca dốt như lợn
+- đại ca dốt như trâu
+- đại ca dốt như vịt
+- đại ca dốt nhỉ
+- đại ca dốt phết
+- đại ca dốt quá
+- đại ca dốt thật
+- đại ca dốt thế
+- đại ca dốt vãi
+- đại ca dốt vậy
+- đại ca dốt à
+- đại ca dốt đấy
+- đại ca gà
+- đại ca gà hơn những gì mình nghĩ
+- đại ca gà hơn những gì tôi tưởng
+- đại ca gà lắm
+- đại ca gà như bò
+- đại ca gà như chó
+- đại ca gà như cờ hó
+- đại ca gà như dog
+- đại ca gà như heo
+- đại ca gà như lợn
+- đại ca gà như trâu
+- đại ca gà như vịt
+- đại ca gà nhỉ
+- đại ca gà phết
+- đại ca gà quá
+- đại ca gà thật
+- đại ca gà thế
+- đại ca gà vãi
+- đại ca gà vậy
+- đại ca gà à
+- đại ca gà đấy
+- đại ca hơi bị dốt
+- đại ca hơi bị gà
+- đại ca hơi bị ngu
+- đại ca hơi bị ngốc
+- đại ca hơi bị vl
+- đại ca hơi bị xàm
+- đại ca hơi bị xấu mù
+- đại ca hơi bị đần
+- đại ca khó dùng quá
+- đại ca ngu
+- đại ca ngu hơn những gì mình nghĩ
+- đại ca ngu hơn những gì tôi tưởng
+- đại ca ngu lắm
+- đại ca ngu như bò
+- đại ca ngu như chó
+- đại ca ngu như cờ hó
+- đại ca ngu như dog
+- đại ca ngu như heo
+- đại ca ngu như lợn
+- đại ca ngu như trâu
+- đại ca ngu như vịt
+- đại ca ngu nhỉ
+- đại ca ngu phết
+- đại ca ngu quá
+- đại ca ngu thật
+- đại ca ngu thế
+- đại ca ngu vãi
+- đại ca ngu vậy
+- đại ca ngu à
+- đại ca ngu đấy
+- đại ca ngốc
+- đại ca ngốc hơn những gì mình nghĩ
+- đại ca ngốc hơn những gì tôi tưởng
+- đại ca ngốc lắm
+- đại ca ngốc như bò
+- đại ca ngốc như chó
+- đại ca ngốc như cờ hó
+- đại ca ngốc như dog
+- đại ca ngốc như heo
+- đại ca ngốc như lợn
+- đại ca ngốc như trâu
+- đại ca ngốc như vịt
+- đại ca ngốc nhỉ
+- đại ca ngốc phết
+- đại ca ngốc quá
+- đại ca ngốc thật
+- đại ca ngốc thế
+- đại ca ngốc vãi
+- đại ca ngốc vậy
+- đại ca ngốc à
+- đại ca ngốc đấy
+- đại ca quá dốt
+- đại ca quá gà
+- đại ca quá là dốt
+- đại ca quá là gà
+- đại ca quá là ngu
+- đại ca quá là ngốc
+- đại ca quá là vl
+- đại ca quá là xàm
+- đại ca quá là xấu mù
+- đại ca quá là đần
+- đại ca quá ngu
+- đại ca quá ngốc
+- đại ca quá vl
+- đại ca quá xàm
+- đại ca quá xấu mù
+- đại ca quá đần
+- đại ca rất dốt
+- đại ca rất gà
+- đại ca rất là dốt
+- đại ca rất là gà
+- đại ca rất là ngu
+- đại ca rất là ngốc
+- đại ca rất là vl
+- đại ca rất là xàm
+- đại ca rất là xấu mù
+- đại ca rất là đần
+- đại ca rất ngu
+- đại ca rất ngốc
+- đại ca rất vl
+- đại ca rất xàm
+- đại ca rất xấu mù
+- đại ca rất đần
+- đại ca thật dốt
+- đại ca thật gà
+- đại ca thật là dốt
+- đại ca thật là gà
+- đại ca thật là ngu
+- đại ca thật là ngốc
+- đại ca thật là vl
+- đại ca thật là xàm
+- đại ca thật là xấu mù
+- đại ca thật là đần
+- đại ca thật ngu
+- đại ca thật ngốc
+- đại ca thật quá dốt
+- đại ca thật quá gà
+- đại ca thật quá ngu
+- đại ca thật quá ngốc
+- đại ca thật quá vl
+- đại ca thật quá xàm
+- đại ca thật quá xấu mù
+- đại ca thật quá đần
+- đại ca thật vl
+- đại ca thật xàm
+- đại ca thật xấu mù
+- đại ca thật đần
+- đại ca thực sự dốt
+- đại ca thực sự gà
+- đại ca thực sự ngu
+- đại ca thực sự ngốc
+- đại ca thực sự quá dốt
+- đại ca thực sự quá gà
+- đại ca thực sự quá ngu
+- đại ca thực sự quá ngốc
+- đại ca thực sự quá vl
+- đại ca thực sự quá xàm
+- đại ca thực sự quá xấu mù
+- đại ca thực sự quá đần
+- đại ca thực sự rất dốt
+- đại ca thực sự rất gà
+- đại ca thực sự rất ngu
+- đại ca thực sự rất ngốc
+- đại ca thực sự rất vl
+- đại ca thực sự rất xàm
+- đại ca thực sự rất xấu mù
+- đại ca thực sự rất đần
+- đại ca thực sự vl
+- đại ca thực sự xàm
+- đại ca thực sự xấu mù
+- đại ca thực sự đần
+- đại ca trên cả dốt
+- đại ca trên cả gà
+- đại ca trên cả ngu
+- đại ca trên cả ngốc
+- đại ca trên cả vl
+- đại ca trên cả xàm
+- đại ca trên cả xấu mù
+- đại ca trên cả đần
+- đại ca vl
+- đại ca vl hơn những gì mình nghĩ
+- đại ca vl hơn những gì tôi tưởng
+- đại ca vl lắm
+- đại ca vl như bò
+- đại ca vl như chó
+- đại ca vl như cờ hó
+- đại ca vl như dog
+- đại ca vl như heo
+- đại ca vl như lợn
+- đại ca vl như trâu
+- đại ca vl như vịt
+- đại ca vl nhỉ
+- đại ca vl phết
+- đại ca vl quá
+- đại ca vl thật
+- đại ca vl thế
+- đại ca vl vãi
+- đại ca vl vậy
+- đại ca vl à
+- đại ca vl đấy
+- đại ca xàm
+- đại ca xàm hơn những gì mình nghĩ
+- đại ca xàm hơn những gì tôi tưởng
+- đại ca xàm lắm
+- đại ca xàm như bò
+- đại ca xàm như chó
+- đại ca xàm như cờ hó
+- đại ca xàm như dog
+- đại ca xàm như heo
+- đại ca xàm như lợn
+- đại ca xàm như trâu
+- đại ca xàm như vịt
+- đại ca xàm nhỉ
+- đại ca xàm phết
+- đại ca xàm quá
+- đại ca xàm thật
+- đại ca xàm thế
+- đại ca xàm vãi
+- đại ca xàm vậy
+- đại ca xàm à
+- đại ca xàm đấy
+- đại ca xấu mù
+- đại ca xấu mù hơn những gì mình nghĩ
+- đại ca xấu mù hơn những gì tôi tưởng
+- đại ca xấu mù lắm
+- đại ca xấu mù như bò
+- đại ca xấu mù như chó
+- đại ca xấu mù như cờ hó
+- đại ca xấu mù như dog
+- đại ca xấu mù như heo
+- đại ca xấu mù như lợn
+- đại ca xấu mù như trâu
+- đại ca xấu mù như vịt
+- đại ca xấu mù nhỉ
+- đại ca xấu mù phết
+- đại ca xấu mù quá
+- đại ca xấu mù thật
+- đại ca xấu mù thế
+- đại ca xấu mù vãi
+- đại ca xấu mù vậy
+- đại ca xấu mù à
+- đại ca xấu mù đấy
+- đại ca đần
+- đại ca đần hơn những gì mình nghĩ
+- đại ca đần hơn những gì tôi tưởng
+- đại ca đần lắm
+- đại ca đần như bò
+- đại ca đần như chó
+- đại ca đần như cờ hó
+- đại ca đần như dog
+- đại ca đần như heo
+- đại ca đần như lợn
+- đại ca đần như trâu
+- đại ca đần như vịt
+- đại ca đần nhỉ
+- đại ca đần phết
+- đại ca đần quá
+- đại ca đần thật
+- đại ca đần thế
+- đại ca đần vãi
+- đại ca đần vậy
+- đại ca đần à
+- đại ca đần đấy
+- đần như bò
+- đần như chó
+- đần như cờ hó
+- đần như dog
+- đần như heo
+- đần như lợn
+- đần như trâu
+- đần như vịt
+- đồng chí dùng chán thế
+- đồng chí dốt
+- đồng chí dốt hơn những gì mình nghĩ
+- đồng chí dốt hơn những gì tôi tưởng
+- đồng chí dốt lắm
+- đồng chí dốt như bò
+- đồng chí dốt như chó
+- đồng chí dốt như cờ hó
+- đồng chí dốt như dog
+- đồng chí dốt như heo
+- đồng chí dốt như lợn
+- đồng chí dốt như trâu
+- đồng chí dốt như vịt
+- đồng chí dốt nhỉ
+- đồng chí dốt phết
+- đồng chí dốt quá
+- đồng chí dốt thật
+- đồng chí dốt thế
+- đồng chí dốt vãi
+- đồng chí dốt vậy
+- đồng chí dốt à
+- đồng chí dốt đấy
+- đồng chí gà
+- đồng chí gà hơn những gì mình nghĩ
+- đồng chí gà hơn những gì tôi tưởng
+- đồng chí gà lắm
+- đồng chí gà như bò
+- đồng chí gà như chó
+- đồng chí gà như cờ hó
+- đồng chí gà như dog
+- đồng chí gà như heo
+- đồng chí gà như lợn
+- đồng chí gà như trâu
+- đồng chí gà như vịt
+- đồng chí gà nhỉ
+- đồng chí gà phết
+- đồng chí gà quá
+- đồng chí gà thật
+- đồng chí gà thế
+- đồng chí gà vãi
+- đồng chí gà vậy
+- đồng chí gà à
+- đồng chí gà đấy
+- đồng chí hơi bị dốt
+- đồng chí hơi bị gà
+- đồng chí hơi bị ngu
+- đồng chí hơi bị ngốc
+- đồng chí hơi bị vl
+- đồng chí hơi bị xàm
+- đồng chí hơi bị xấu mù
+- đồng chí hơi bị đần
+- đồng chí khó dùng quá
+- đồng chí ngu
+- đồng chí ngu hơn những gì mình nghĩ
+- đồng chí ngu hơn những gì tôi tưởng
+- đồng chí ngu lắm
+- đồng chí ngu như bò
+- đồng chí ngu như chó
+- đồng chí ngu như cờ hó
+- đồng chí ngu như dog
+- đồng chí ngu như heo
+- đồng chí ngu như lợn
+- đồng chí ngu như trâu
+- đồng chí ngu như vịt
+- đồng chí ngu nhỉ
+- đồng chí ngu phết
+- đồng chí ngu quá
+- đồng chí ngu thật
+- đồng chí ngu thế
+- đồng chí ngu vãi
+- đồng chí ngu vậy
+- đồng chí ngu à
+- đồng chí ngu đấy
+- đồng chí ngốc
+- đồng chí ngốc hơn những gì mình nghĩ
+- đồng chí ngốc hơn những gì tôi tưởng
+- đồng chí ngốc lắm
+- đồng chí ngốc như bò
+- đồng chí ngốc như chó
+- đồng chí ngốc như cờ hó
+- đồng chí ngốc như dog
+- đồng chí ngốc như heo
+- đồng chí ngốc như lợn
+- đồng chí ngốc như trâu
+- đồng chí ngốc như vịt
+- đồng chí ngốc nhỉ
+- đồng chí ngốc phết
+- đồng chí ngốc quá
+- đồng chí ngốc thật
+- đồng chí ngốc thế
+- đồng chí ngốc vãi
+- đồng chí ngốc vậy
+- đồng chí ngốc à
+- đồng chí ngốc đấy
+- đồng chí quá dốt
+- đồng chí quá gà
+- đồng chí quá là dốt
+- đồng chí quá là gà
+- đồng chí quá là ngu
+- đồng chí quá là ngốc
+- đồng chí quá là vl
+- đồng chí quá là xàm
+- đồng chí quá là xấu mù
+- đồng chí quá là đần
+- đồng chí quá ngu
+- đồng chí quá ngốc
+- đồng chí quá vl
+- đồng chí quá xàm
+- đồng chí quá xấu mù
+- đồng chí quá đần
+- đồng chí rất dốt
+- đồng chí rất gà
+- đồng chí rất là dốt
+- đồng chí rất là gà
+- đồng chí rất là ngu
+- đồng chí rất là ngốc
+- đồng chí rất là vl
+- đồng chí rất là xàm
+- đồng chí rất là xấu mù
+- đồng chí rất là đần
+- đồng chí rất ngu
+- đồng chí rất ngốc
+- đồng chí rất vl
+- đồng chí rất xàm
+- đồng chí rất xấu mù
+- đồng chí rất đần
+- đồng chí thật dốt
+- đồng chí thật gà
+- đồng chí thật là dốt
+- đồng chí thật là gà
+- đồng chí thật là ngu
+- đồng chí thật là ngốc
+- đồng chí thật là vl
+- đồng chí thật là xàm
+- đồng chí thật là xấu mù
+- đồng chí thật là đần
+- đồng chí thật ngu
+- đồng chí thật ngốc
+- đồng chí thật quá dốt
+- đồng chí thật quá gà
+- đồng chí thật quá ngu
+- đồng chí thật quá ngốc
+- đồng chí thật quá vl
+- đồng chí thật quá xàm
+- đồng chí thật quá xấu mù
+- đồng chí thật quá đần
+- đồng chí thật vl
+- đồng chí thật xàm
+
+## intent:bye
+- bb
+- bb a
+- bb anh
+- bb bạn
+- bb cậu
+- bb e
+- bb em
+- bb mày
+- bb ô
+- bb ông
+- bb đại ca
+- bb đồng chí
+- biến
+- biến a
+- biến anh
+- biến bạn
+- biến cậu
+- biến e
+- biến em
+- biến mày
+- biến ô
+- biến ông
+- biến đại ca
+- biến đồng chí
+- bye
+- bye a
+- bye anh
+- bye bye
+- bye bye a
+- bye bye anh
+- bye bye bạn
+- bye bye cậu
+- bye bye e
+- bye bye em
+- bye bye mày
+- bye bye ô
+- bye bye ông
+- bye bye đại ca
+- bye bye đồng chí
+- bye bạn
+- bye cậu
+- bye e
+- bye em
+- bye mày
+- bye ô
+- bye ông
+- bye đại ca
+- bye đồng chí
+- cút
+- cút a
+- cút anh
+- cút bạn
+- cút cậu
+- cút e
+- cút em
+- cút mày
+- cút ô
+- cút ông
+- cút đại ca
+- cút đồng chí
+- good bye
+- good bye a
+- good bye anh
+- good bye bạn
+- good bye cậu
+- good bye e
+- good bye em
+- good bye mày
+- good bye ô
+- good bye ông
+- good bye đại ca
+- good bye đồng chí
+- good night
+- good night a
+- good night anh
+- good night bạn
+- good night cậu
+- good night e
+- good night em
+- good night mày
+- good night ô
+- good night ông
+- good night đại ca
+- good night đồng chí
+- goodbye
+- goodbye a
+- goodbye anh
+- goodbye bạn
+- goodbye cậu
+- goodbye e
+- goodbye em
+- goodbye mày
+- goodbye ô
+- goodbye ông
+- goodbye đại ca
+- goodbye đồng chí
+- hẹn gặp lại
+- hẹn gặp lại a
+- hẹn gặp lại anh
+- hẹn gặp lại bạn
+- hẹn gặp lại cậu
+- hẹn gặp lại e
+- hẹn gặp lại em
+- hẹn gặp lại mày
+- hẹn gặp lại ô
+- hẹn gặp lại ông
+- hẹn gặp lại đại ca
+- hẹn gặp lại đồng chí
+- next
+- next a
+- next anh
+- next bạn
+- next cậu
+- next e
+- next em
+- next mày
+- next ô
+- next ông
+- next đi
+- next đi a
+- next đi anh
+- next đi bạn
+- next đi cậu
+- next đi e
+- next đi em
+- next đi mày
+- next đi ô
+- next đi ông
+- next đi đại ca
+- next đi đồng chí
+- next đại ca
+- next đồng chí
+- pp
+- pp a
+- pp anh
+- pp bạn
+- pp cậu
+- pp e
+- pp em
+- pp mày
+- pp ô
+- pp ông
+- pp đại ca
+- pp đồng chí
+- see you again
+- see you again a
+- see you again anh
+- see you again bạn
+- see you again cậu
+- see you again e
+- see you again em
+- see you again mày
+- see you again ô
+- see you again ông
+- see you again đại ca
+- see you again đồng chí
+- tạm biệt
+- tạm biệt a
+- tạm biệt anh
+- tạm biệt bạn
+- tạm biệt cậu
+- tạm biệt e
+- tạm biệt em
+- tạm biệt mày
+- tạm biệt ô
+- tạm biệt ông
+- tạm biệt đại ca
+- tạm biệt đồng chí
+
+## intent:call
+- a ơi
+- anh ơi
+- bạn ơi
+- cậu ơi
+- e ơi
+- em ơi
+- mày ơi
+- này
+- này a
+- này a ơi
+- này anh
+- này anh bảo
+- này anh ơi
+- này bạn
+- này bạn ơi
+- này bọn tao bảo
+- này chị bảo
+- này cậu
+- này cậu ơi
+- này e
+- này e ơi
+- này em
+- này em bảo
+- này em ơi
+- này mày
+- này mày ơi
+- này mình bảo
+- này t bảo
+- này tao bảo
+- này tui bảo
+- này tôi bảo
+- này tớ bảo
+- này ô
+- này ô ơi
+- này ông
+- này ông ơi
+- này đại ca
+- này đại ca ơi
+- này đồng chí
+- này đồng chí ơi
+- ô ơi
+- ông ơi
+- đại ca ơi
+- đồng chí ơi
+
+## intent:compliment
+- dễ thương
+- dễ thương hơn những gì mình nghĩ
+- dễ thương hơn những gì tôi tưởng
+- dễ thương lắm
+- dễ thương nhỉ
+- dễ thương phết
+- dễ thương quá
+- dễ thương thật
+- dễ thương thế
+- dễ thương vãi
+- dễ thương vậy
+- dễ thương à
+- dễ thương đấy
+- giỏi
+- giỏi hơn những gì mình nghĩ
+- giỏi hơn những gì tôi tưởng
+- giỏi lắm
+- giỏi nhỉ
+- giỏi phết
+- giỏi quá
+- giỏi thật
+- giỏi thế
+- giỏi vãi
+- giỏi vậy
+- giỏi à
+- giỏi đấy
+- hay
+- hay hơn những gì mình nghĩ
+- hay hơn những gì tôi tưởng
+- hay lắm
+- hay nhỉ
+- hay phết
+- hay quá
+- hay thật
+- hay thế
+- hay vãi
+- hay vậy
+- hay à
+- hay đấy
+- khá
+- khá hơn những gì mình nghĩ
+- khá hơn những gì tôi tưởng
+- khá lắm
+- khá nhỉ
+- khá phết
+- khá quá
+- khá thật
+- khá thế
+- khá vãi
+- khá vậy
+- khá à
+- khá đấy
+- khôn
+- khôn hơn những gì mình nghĩ
+- khôn hơn những gì tôi tưởng
+- khôn lắm
+- khôn nhỉ
+- khôn phết
+- khôn quá
+- khôn thật
+- khôn thế
+- khôn vãi
+- khôn vậy
+- khôn à
+- khôn đấy
+- không thể tin nổi
+- không thể tin nổi hơn những gì mình nghĩ
+- không thể tin nổi hơn những gì tôi tưởng
+- không thể tin nổi lắm
+- không thể tin nổi nhỉ
+- không thể tin nổi phết
+- không thể tin nổi quá
+- không thể tin nổi thật
+- không thể tin nổi thế
+- không thể tin nổi vãi
+- không thể tin nổi vậy
+- không thể tin nổi à
+- không thể tin nổi đấy
+- không đến nỗi nào
+- không đến nỗi nào hơn những gì mình nghĩ
+- không đến nỗi nào hơn những gì tôi tưởng
+- không đến nỗi nào lắm
+- không đến nỗi nào nhỉ
+- không đến nỗi nào phết
+- không đến nỗi nào quá
+- không đến nỗi nào thật
+- không đến nỗi nào thế
+- không đến nỗi nào vãi
+- không đến nỗi nào vậy
+- không đến nỗi nào à
+- không đến nỗi nào đấy
+- ngon
+- ngon hơn những gì mình nghĩ
+- ngon hơn những gì tôi tưởng
+- ngon lắm
+- ngon nhỉ
+- ngon phết
+- ngon quá
+- ngon thật
+- ngon thế
+- ngon vãi
+- ngon vậy
+- ngon à
+- ngon đấy
+- thông minh
+- thông minh hơn những gì mình nghĩ
+- thông minh hơn những gì tôi tưởng
+- thông minh lắm
+- thông minh nhỉ
+- thông minh phết
+- thông minh quá
+- thông minh thật
+- thông minh thế
+- thông minh vãi
+- thông minh vậy
+- thông minh à
+- thông minh đấy
+- tuyệt
+- tuyệt hơn những gì mình nghĩ
+- tuyệt hơn những gì tôi tưởng
+- tuyệt lắm
+- tuyệt nhỉ
+- tuyệt phết
+- tuyệt quá
+- tuyệt thật
+- tuyệt thế
+- tuyệt vãi
+- tuyệt vậy
+- tuyệt vời
+- tuyệt vời hơn những gì mình nghĩ
+- tuyệt vời hơn những gì tôi tưởng
+- tuyệt vời lắm
+- tuyệt vời nhỉ
+- tuyệt vời phết
+- tuyệt vời quá
+- tuyệt vời thật
+- tuyệt vời thế
+- tuyệt vời vãi
+- tuyệt vời vậy
+- tuyệt vời à
+- tuyệt vời đấy
+- tuyệt à
+- tuyệt đấy
+- tốt
+- tốt hơn những gì mình nghĩ
+- tốt hơn những gì tôi tưởng
+- tốt lắm
+- tốt nhỉ
+- tốt phết
+- tốt quá
+- tốt thật
+- tốt thế
+- tốt vãi
+- tốt vậy
+- tốt à
+- tốt đấy
+- xinh
+- xinh hơn những gì mình nghĩ
+- xinh hơn những gì tôi tưởng
+- xinh lắm
+- xinh nhỉ
+- xinh phết
+- xinh quá
+- xinh thật
+- xinh thế
+- xinh vãi
+- xinh vậy
+- xinh à
+- xinh đấy
+- xuất sắc
+- xuất sắc hơn những gì mình nghĩ
+- xuất sắc hơn những gì tôi tưởng
+- xuất sắc lắm
+- xuất sắc nhỉ
+- xuất sắc phết
+- xuất sắc quá
+- xuất sắc thật
+- xuất sắc thế
+- xuất sắc vãi
+- xuất sắc vậy
+- xuất sắc à
+- xuất sắc đấy
+- đáng yêu
+- đáng yêu hơn những gì mình nghĩ
+- đáng yêu hơn những gì tôi tưởng
+- đáng yêu lắm
+- đáng yêu nhỉ
+- đáng yêu phết
+- đáng yêu quá
+- đáng yêu thật
+- đáng yêu thế
+- đáng yêu vãi
+- đáng yêu vậy
+- đáng yêu à
+- đáng yêu đấy
+- được
+- được hơn những gì mình nghĩ
+- được hơn những gì tôi tưởng
+- được lắm
+- được nhỉ
+- được phết
+- được quá
+- được thật
+- được thế
+- được vãi
+- được vậy
+- được à
+- được đấy
+- a dễ thương
+- a dễ thương hơn những gì mình nghĩ
+- a dễ thương hơn những gì tôi tưởng
+- a dễ thương lắm
+- a dễ thương nhỉ
+- a dễ thương phết
+- a dễ thương quá
+- a dễ thương thật
+- a dễ thương thế
+- a dễ thương vãi
+- a dễ thương vậy
+- a dễ thương à
+- a dễ thương đấy
+- a giỏi
+- a giỏi hơn những gì mình nghĩ
+- a giỏi hơn những gì tôi tưởng
+- a giỏi lắm
+- a giỏi nhỉ
+- a giỏi phết
+- a giỏi quá
+- a giỏi thật
+- a giỏi thế
+- a giỏi vãi
+- a giỏi vậy
+- a giỏi à
+- a giỏi đấy
+- a hay
+- a hay hơn những gì mình nghĩ
+- a hay hơn những gì tôi tưởng
+- a hay lắm
+- a hay nhỉ
+- a hay phết
+- a hay quá
+- a hay thật
+- a hay thế
+- a hay vãi
+- a hay vậy
+- a hay à
+- a hay đấy
+- a khá
+- a khá hơn những gì mình nghĩ
+- a khá hơn những gì tôi tưởng
+- a khá lắm
+- a khá nhỉ
+- a khá phết
+- a khá quá
+- a khá thật
+- a khá thế
+- a khá vãi
+- a khá vậy
+- a khá à
+- a khá đấy
+- a khôn
+- a khôn hơn những gì mình nghĩ
+- a khôn hơn những gì tôi tưởng
+- a khôn lắm
+- a khôn nhỉ
+- a khôn phết
+- a khôn quá
+- a khôn thật
+- a khôn thế
+- a khôn vãi
+- a khôn vậy
+- a khôn à
+- a khôn đấy
+- a không thể tin nổi
+- a không thể tin nổi hơn những gì mình nghĩ
+- a không thể tin nổi hơn những gì tôi tưởng
+- a không thể tin nổi lắm
+- a không thể tin nổi nhỉ
+- a không thể tin nổi phết
+- a không thể tin nổi quá
+- a không thể tin nổi thật
+- a không thể tin nổi thế
+- a không thể tin nổi vãi
+- a không thể tin nổi vậy
+- a không thể tin nổi à
+- a không thể tin nổi đấy
+- a không đến nỗi nào
+- a không đến nỗi nào hơn những gì mình nghĩ
+- a không đến nỗi nào hơn những gì tôi tưởng
+- a không đến nỗi nào lắm
+- a không đến nỗi nào nhỉ
+- a không đến nỗi nào phết
+- a không đến nỗi nào quá
+- a không đến nỗi nào thật
+- a không đến nỗi nào thế
+- a không đến nỗi nào vãi
+- a không đến nỗi nào vậy
+- a không đến nỗi nào à
+- a không đến nỗi nào đấy
+- a ngon
+- a ngon hơn những gì mình nghĩ
+- a ngon hơn những gì tôi tưởng
+- a ngon lắm
+- a ngon nhỉ
+- a ngon phết
+- a ngon quá
+- a ngon thật
+- a ngon thế
+- a ngon vãi
+- a ngon vậy
+- a ngon à
+- a ngon đấy
+- a thông minh
+- a thông minh hơn những gì mình nghĩ
+- a thông minh hơn những gì tôi tưởng
+- a thông minh lắm
+- a thông minh nhỉ
+- a thông minh phết
+- a thông minh quá
+- a thông minh thật
+- a thông minh thế
+- a thông minh vãi
+- a thông minh vậy
+- a thông minh à
+- a thông minh đấy
+- a tuyệt
+- a tuyệt hơn những gì mình nghĩ
+- a tuyệt hơn những gì tôi tưởng
+- a tuyệt lắm
+- a tuyệt nhỉ
+- a tuyệt phết
+- a tuyệt quá
+- a tuyệt thật
+- a tuyệt thế
+- a tuyệt vãi
+- a tuyệt vậy
+- a tuyệt vời
+- a tuyệt vời hơn những gì mình nghĩ
+- a tuyệt vời hơn những gì tôi tưởng
+- a tuyệt vời lắm
+- a tuyệt vời nhỉ
+- a tuyệt vời phết
+- a tuyệt vời quá
+- a tuyệt vời thật
+- a tuyệt vời thế
+- a tuyệt vời vãi
+- a tuyệt vời vậy
+- a tuyệt vời à
+- a tuyệt vời đấy
+- a tuyệt à
+- a tuyệt đấy
+- a tốt
+- a tốt hơn những gì mình nghĩ
+- a tốt hơn những gì tôi tưởng
+- a tốt lắm
+- a tốt nhỉ
+- a tốt phết
+- a tốt quá
+- a tốt thật
+- a tốt thế
+- a tốt vãi
+- a tốt vậy
+- a tốt à
+- a tốt đấy
+- a xinh
+- a xinh hơn những gì mình nghĩ
+- a xinh hơn những gì tôi tưởng
+- a xinh lắm
+- a xinh nhỉ
+- a xinh phết
+- a xinh quá
+- a xinh thật
+- a xinh thế
+- a xinh vãi
+- a xinh vậy
+- a xinh à
+- a xinh đấy
+- a xuất sắc
+- a xuất sắc hơn những gì mình nghĩ
+- a xuất sắc hơn những gì tôi tưởng
+- a xuất sắc lắm
+- a xuất sắc nhỉ
+- a xuất sắc phết
+- a xuất sắc quá
+- a xuất sắc thật
+- a xuất sắc thế
+- a xuất sắc vãi
+- a xuất sắc vậy
+- a xuất sắc à
+- a xuất sắc đấy
+- a đáng yêu
+- a đáng yêu hơn những gì mình nghĩ
+- a đáng yêu hơn những gì tôi tưởng
+- a đáng yêu lắm
+- a đáng yêu nhỉ
+- a đáng yêu phết
+- a đáng yêu quá
+- a đáng yêu thật
+- a đáng yêu thế
+- a đáng yêu vãi
+- a đáng yêu vậy
+- a đáng yêu à
+- a đáng yêu đấy
+- a được
+- a được hơn những gì mình nghĩ
+- a được hơn những gì tôi tưởng
+- a được lắm
+- a được nhỉ
+- a được phết
+- a được quá
+- a được thật
+- a được thế
+- a được vãi
+- a được vậy
+- a được à
+- a được đấy
+- anh dễ thương
+- anh dễ thương hơn những gì mình nghĩ
+- anh dễ thương hơn những gì tôi tưởng
+- anh dễ thương lắm
+- anh dễ thương nhỉ
+- anh dễ thương phết
+- anh dễ thương quá
+- anh dễ thương thật
+- anh dễ thương thế
+- anh dễ thương vãi
+- anh dễ thương vậy
+- anh dễ thương à
+- anh dễ thương đấy
+- anh giỏi
+- anh giỏi hơn những gì mình nghĩ
+- anh giỏi hơn những gì tôi tưởng
+- anh giỏi lắm
+- anh giỏi nhỉ
+- anh giỏi phết
+- anh giỏi quá
+- anh giỏi thật
+- anh giỏi thế
+- anh giỏi vãi
+- anh giỏi vậy
+- anh giỏi à
+- anh giỏi đấy
+- anh hay
+- anh hay hơn những gì mình nghĩ
+- anh hay hơn những gì tôi tưởng
+- anh hay lắm
+- anh hay nhỉ
+- anh hay phết
+- anh hay quá
+- anh hay thật
+- anh hay thế
+- anh hay vãi
+- anh hay vậy
+- anh hay à
+- anh hay đấy
+- anh khá
+- anh khá hơn những gì mình nghĩ
+- anh khá hơn những gì tôi tưởng
+- anh khá lắm
+- anh khá nhỉ
+- anh khá phết
+- anh khá quá
+- anh khá thật
+- anh khá thế
+- anh khá vãi
+- anh khá vậy
+- anh khá à
+- anh khá đấy
+- anh khôn
+- anh khôn hơn những gì mình nghĩ
+- anh khôn hơn những gì tôi tưởng
+- anh khôn lắm
+- anh khôn nhỉ
+- anh khôn phết
+- anh khôn quá
+- anh khôn thật
+- anh khôn thế
+- anh khôn vãi
+- anh khôn vậy
+- anh khôn à
+- anh khôn đấy
+- anh không thể tin nổi
+- anh không thể tin nổi hơn những gì mình nghĩ
+- anh không thể tin nổi hơn những gì tôi tưởng
+- anh không thể tin nổi lắm
+- anh không thể tin nổi nhỉ
+- anh không thể tin nổi phết
+- anh không thể tin nổi quá
+- anh không thể tin nổi thật
+- anh không thể tin nổi thế
+- anh không thể tin nổi vãi
+- anh không thể tin nổi vậy
+- anh không thể tin nổi à
+- anh không thể tin nổi đấy
+- anh không đến nỗi nào
+- anh không đến nỗi nào hơn những gì mình nghĩ
+- anh không đến nỗi nào hơn những gì tôi tưởng
+- anh không đến nỗi nào lắm
+- anh không đến nỗi nào nhỉ
+- anh không đến nỗi nào phết
+- anh không đến nỗi nào quá
+- anh không đến nỗi nào thật
+- anh không đến nỗi nào thế
+- anh không đến nỗi nào vãi
+- anh không đến nỗi nào vậy
+- anh không đến nỗi nào à
+- anh không đến nỗi nào đấy
+- anh ngon
+- anh ngon hơn những gì mình nghĩ
+- anh ngon hơn những gì tôi tưởng
+- anh ngon lắm
+- anh ngon nhỉ
+- anh ngon phết
+- anh ngon quá
+- anh ngon thật
+- anh ngon thế
+- anh ngon vãi
+- anh ngon vậy
+- anh ngon à
+- anh ngon đấy
+- anh thông minh
+- anh thông minh hơn những gì mình nghĩ
+- anh thông minh hơn những gì tôi tưởng
+- anh thông minh lắm
+- anh thông minh nhỉ
+- anh thông minh phết
+- anh thông minh quá
+- anh thông minh thật
+- anh thông minh thế
+- anh thông minh vãi
+- anh thông minh vậy
+- anh thông minh à
+- anh thông minh đấy
+- anh tuyệt
+- anh tuyệt hơn những gì mình nghĩ
+- anh tuyệt hơn những gì tôi tưởng
+- anh tuyệt lắm
+- anh tuyệt nhỉ
+- anh tuyệt phết
+- anh tuyệt quá
+- anh tuyệt thật
+- anh tuyệt thế
+- anh tuyệt vãi
+- anh tuyệt vậy
+- anh tuyệt vời
+- anh tuyệt vời hơn những gì mình nghĩ
+- anh tuyệt vời hơn những gì tôi tưởng
+- anh tuyệt vời lắm
+- anh tuyệt vời nhỉ
+- anh tuyệt vời phết
+- anh tuyệt vời quá
+- anh tuyệt vời thật
+- anh tuyệt vời thế
+- anh tuyệt vời vãi
+- anh tuyệt vời vậy
+- anh tuyệt vời à
+- anh tuyệt vời đấy
+- anh tuyệt à
+- anh tuyệt đấy
+- anh tốt
+- anh tốt hơn những gì mình nghĩ
+- anh tốt hơn những gì tôi tưởng
+- anh tốt lắm
+- anh tốt nhỉ
+- anh tốt phết
+- anh tốt quá
+- anh tốt thật
+- anh tốt thế
+- anh tốt vãi
+- anh tốt vậy
+- anh tốt à
+- anh tốt đấy
+- anh xinh
+- anh xinh hơn những gì mình nghĩ
+- anh xinh hơn những gì tôi tưởng
+- anh xinh lắm
+- anh xinh nhỉ
+- anh xinh phết
+- anh xinh quá
+- anh xinh thật
+- anh xinh thế
+- anh xinh vãi
+- anh xinh vậy
+- anh xinh à
+- anh xinh đấy
+- anh xuất sắc
+- anh xuất sắc hơn những gì mình nghĩ
+- anh xuất sắc hơn những gì tôi tưởng
+- anh xuất sắc lắm
+- anh xuất sắc nhỉ
+- anh xuất sắc phết
+- anh xuất sắc quá
+- anh xuất sắc thật
+- anh xuất sắc thế
+- anh xuất sắc vãi
+- anh xuất sắc vậy
+- anh xuất sắc à
+- anh xuất sắc đấy
+- anh đáng yêu
+- anh đáng yêu hơn những gì mình nghĩ
+- anh đáng yêu hơn những gì tôi tưởng
+- anh đáng yêu lắm
+- anh đáng yêu nhỉ
+- anh đáng yêu phết
+- anh đáng yêu quá
+- anh đáng yêu thật
+- anh đáng yêu thế
+- anh đáng yêu vãi
+- anh đáng yêu vậy
+- anh đáng yêu à
+- anh đáng yêu đấy
+- anh được
+- anh được hơn những gì mình nghĩ
+- anh được hơn những gì tôi tưởng
+- anh được lắm
+- anh được nhỉ
+- anh được phết
+- anh được quá
+- anh được thật
+- anh được thế
+- anh được vãi
+- anh được vậy
+- anh được à
+- anh được đấy
+- bạn dễ thương
+- bạn dễ thương hơn những gì mình nghĩ
+- bạn dễ thương hơn những gì tôi tưởng
+- bạn dễ thương lắm
+- bạn dễ thương nhỉ
+- bạn dễ thương phết
+- bạn dễ thương quá
+- bạn dễ thương thật
+- bạn dễ thương thế
+- bạn dễ thương vãi
+- bạn dễ thương vậy
+- bạn dễ thương à
+- bạn dễ thương đấy
+- bạn giỏi
+- bạn giỏi hơn những gì mình nghĩ
+- bạn giỏi hơn những gì tôi tưởng
+- bạn giỏi lắm
+- bạn giỏi nhỉ
+- bạn giỏi phết
+- bạn giỏi quá
+- bạn giỏi thật
+- bạn giỏi thế
+- bạn giỏi vãi
+- bạn giỏi vậy
+- bạn giỏi à
+- bạn giỏi đấy
+- bạn hay
+- bạn hay hơn những gì mình nghĩ
+- bạn hay hơn những gì tôi tưởng
+- bạn hay lắm
+- bạn hay nhỉ
+- bạn hay phết
+- bạn hay quá
+- bạn hay thật
+- bạn hay thế
+- bạn hay vãi
+- bạn hay vậy
+- bạn hay à
+- bạn hay đấy
+- bạn khá
+- bạn khá hơn những gì mình nghĩ
+- bạn khá hơn những gì tôi tưởng
+- bạn khá lắm
+- bạn khá nhỉ
+- bạn khá phết
+- bạn khá quá
+- bạn khá thật
+- bạn khá thế
+- bạn khá vãi
+- bạn khá vậy
+- bạn khá à
+- bạn khá đấy
+- bạn khôn
+- bạn khôn hơn những gì mình nghĩ
+- bạn khôn hơn những gì tôi tưởng
+- bạn khôn lắm
+- bạn khôn nhỉ
+- bạn khôn phết
+- bạn khôn quá
+- bạn khôn thật
+- bạn khôn thế
+- bạn khôn vãi
+- bạn khôn vậy
+- bạn khôn à
+- bạn khôn đấy
+- bạn không thể tin nổi
+- bạn không thể tin nổi hơn những gì mình nghĩ
+- bạn không thể tin nổi hơn những gì tôi tưởng
+- bạn không thể tin nổi lắm
+- bạn không thể tin nổi nhỉ
+- bạn không thể tin nổi phết
+- bạn không thể tin nổi quá
+- bạn không thể tin nổi thật
+- bạn không thể tin nổi thế
+- bạn không thể tin nổi vãi
+- bạn không thể tin nổi vậy
+- bạn không thể tin nổi à
+- bạn không thể tin nổi đấy
+- bạn không đến nỗi nào
+- bạn không đến nỗi nào hơn những gì mình nghĩ
+- bạn không đến nỗi nào hơn những gì tôi tưởng
+- bạn không đến nỗi nào lắm
+- bạn không đến nỗi nào nhỉ
+- bạn không đến nỗi nào phết
+- bạn không đến nỗi nào quá
+- bạn không đến nỗi nào thật
+- bạn không đến nỗi nào thế
+- bạn không đến nỗi nào vãi
+- bạn không đến nỗi nào vậy
+- bạn không đến nỗi nào à
+- bạn không đến nỗi nào đấy
+- bạn ngon
+- bạn ngon hơn những gì mình nghĩ
+- bạn ngon hơn những gì tôi tưởng
+- bạn ngon lắm
+- bạn ngon nhỉ
+- bạn ngon phết
+- bạn ngon quá
+- bạn ngon thật
+- bạn ngon thế
+- bạn ngon vãi
+- bạn ngon vậy
+- bạn ngon à
+- bạn ngon đấy
+- bạn thông minh
+- bạn thông minh hơn những gì mình nghĩ
+- bạn thông minh hơn những gì tôi tưởng
+- bạn thông minh lắm
+- bạn thông minh nhỉ
+- bạn thông minh phết
+- bạn thông minh quá
+- bạn thông minh thật
+- bạn thông minh thế
+- bạn thông minh vãi
+- bạn thông minh vậy
+- bạn thông minh à
+- bạn thông minh đấy
+- bạn tuyệt
+- bạn tuyệt hơn những gì mình nghĩ
+- bạn tuyệt hơn những gì tôi tưởng
+- bạn tuyệt lắm
+- bạn tuyệt nhỉ
+- bạn tuyệt phết
+- bạn tuyệt quá
+- bạn tuyệt thật
+- bạn tuyệt thế
+- bạn tuyệt vãi
+- bạn tuyệt vậy
+- bạn tuyệt vời
+- bạn tuyệt vời hơn những gì mình nghĩ
+- bạn tuyệt vời hơn những gì tôi tưởng
+- bạn tuyệt vời lắm
+- bạn tuyệt vời nhỉ
+- bạn tuyệt vời phết
+- bạn tuyệt vời quá
+- bạn tuyệt vời thật
+- bạn tuyệt vời thế
+- bạn tuyệt vời vãi
+- bạn tuyệt vời vậy
+- bạn tuyệt vời à
+- bạn tuyệt vời đấy
+- bạn tuyệt à
+- bạn tuyệt đấy
+- bạn tốt
+- bạn tốt hơn những gì mình nghĩ
+- bạn tốt hơn những gì tôi tưởng
+- bạn tốt lắm
+- bạn tốt nhỉ
+- bạn tốt phết
+- bạn tốt quá
+- bạn tốt thật
+- bạn tốt thế
+- bạn tốt vãi
+- bạn tốt vậy
+- bạn tốt à
+- bạn tốt đấy
+- bạn xinh
+- bạn xinh hơn những gì mình nghĩ
+- bạn xinh hơn những gì tôi tưởng
+- bạn xinh lắm
+- bạn xinh nhỉ
+- bạn xinh phết
+- bạn xinh quá
+- bạn xinh thật
+- bạn xinh thế
+- bạn xinh vãi
+- bạn xinh vậy
+- bạn xinh à
+- bạn xinh đấy
+- bạn xuất sắc
+- bạn xuất sắc hơn những gì mình nghĩ
+- bạn xuất sắc hơn những gì tôi tưởng
+- bạn xuất sắc lắm
+- bạn xuất sắc nhỉ
+- bạn xuất sắc phết
+- bạn xuất sắc quá
+- bạn xuất sắc thật
+- bạn xuất sắc thế
+- bạn xuất sắc vãi
+- bạn xuất sắc vậy
+- bạn xuất sắc à
+- bạn xuất sắc đấy
+- bạn đáng yêu
+- bạn đáng yêu hơn những gì mình nghĩ
+- bạn đáng yêu hơn những gì tôi tưởng
+- bạn đáng yêu lắm
+- bạn đáng yêu nhỉ
+- bạn đáng yêu phết
+- bạn đáng yêu quá
+- bạn đáng yêu thật
+- bạn đáng yêu thế
+- bạn đáng yêu vãi
+- bạn đáng yêu vậy
+- bạn đáng yêu à
+- bạn đáng yêu đấy
+- bạn được
+- bạn được hơn những gì mình nghĩ
+- bạn được hơn những gì tôi tưởng
+- bạn được lắm
+- bạn được nhỉ
+- bạn được phết
+- bạn được quá
+- bạn được thật
+- bạn được thế
+- bạn được vãi
+- bạn được vậy
+- bạn được à
+- bạn được đấy
+- cậu dễ thương
+- cậu dễ thương hơn những gì mình nghĩ
+- cậu dễ thương hơn những gì tôi tưởng
+- cậu dễ thương lắm
+- cậu dễ thương nhỉ
+- cậu dễ thương phết
+- cậu dễ thương quá
+- cậu dễ thương thật
+- cậu dễ thương thế
+- cậu dễ thương vãi
+- cậu dễ thương vậy
+- cậu dễ thương à
+- cậu dễ thương đấy
+- cậu giỏi
+- cậu giỏi hơn những gì mình nghĩ
+- cậu giỏi hơn những gì tôi tưởng
+- cậu giỏi lắm
+- cậu giỏi nhỉ
+- cậu giỏi phết
+- cậu giỏi quá
+- cậu giỏi thật
+- cậu giỏi thế
+- cậu giỏi vãi
+- cậu giỏi vậy
+- cậu giỏi à
+- cậu giỏi đấy
+- cậu hay
+- cậu hay hơn những gì mình nghĩ
+- cậu hay hơn những gì tôi tưởng
+- cậu hay lắm
+- cậu hay nhỉ
+- cậu hay phết
+- cậu hay quá
+- cậu hay thật
+- cậu hay thế
+- cậu hay vãi
+- cậu hay vậy
+- cậu hay à
+- cậu hay đấy
+- cậu khá
+- cậu khá hơn những gì mình nghĩ
+- cậu khá hơn những gì tôi tưởng
+- cậu khá lắm
+- cậu khá nhỉ
+- cậu khá phết
+- cậu khá quá
+- cậu khá thật
+- cậu khá thế
+- cậu khá vãi
+- cậu khá vậy
+- cậu khá à
+- cậu khá đấy
+- cậu khôn
+- cậu khôn hơn những gì mình nghĩ
+- cậu khôn hơn những gì tôi tưởng
+- cậu khôn lắm
+- cậu khôn nhỉ
+- cậu khôn phết
+- cậu khôn quá
+- cậu khôn thật
+- cậu khôn thế
+- cậu khôn vãi
+- cậu khôn vậy
+- cậu khôn à
+- cậu khôn đấy
+- cậu không thể tin nổi
+- cậu không thể tin nổi hơn những gì mình nghĩ
+- cậu không thể tin nổi hơn những gì tôi tưởng
+- cậu không thể tin nổi lắm
+- cậu không thể tin nổi nhỉ
+- cậu không thể tin nổi phết
+- cậu không thể tin nổi quá
+- cậu không thể tin nổi thật
+- cậu không thể tin nổi thế
+- cậu không thể tin nổi vãi
+- cậu không thể tin nổi vậy
+- cậu không thể tin nổi à
+- cậu không thể tin nổi đấy
+- cậu không đến nỗi nào
+- cậu không đến nỗi nào hơn những gì mình nghĩ
+- cậu không đến nỗi nào hơn những gì tôi tưởng
+- cậu không đến nỗi nào lắm
+- cậu không đến nỗi nào nhỉ
+- cậu không đến nỗi nào phết
+- cậu không đến nỗi nào quá
+- cậu không đến nỗi nào thật
+- cậu không đến nỗi nào thế
+- cậu không đến nỗi nào vãi
+- cậu không đến nỗi nào vậy
+- cậu không đến nỗi nào à
+- cậu không đến nỗi nào đấy
+- cậu ngon
+- cậu ngon hơn những gì mình nghĩ
+- cậu ngon hơn những gì tôi tưởng
+- cậu ngon lắm
+- cậu ngon nhỉ
+- cậu ngon phết
+- cậu ngon quá
+- cậu ngon thật
+- cậu ngon thế
+- cậu ngon vãi
+- cậu ngon vậy
+- cậu ngon à
+- cậu ngon đấy
+- cậu thông minh
+- cậu thông minh hơn những gì mình nghĩ
+- cậu thông minh hơn những gì tôi tưởng
+- cậu thông minh lắm
+- cậu thông minh nhỉ
+- cậu thông minh phết
+- cậu thông minh quá
+- cậu thông minh thật
+- cậu thông minh thế
+- cậu thông minh vãi
+- cậu thông minh vậy
+- cậu thông minh à
+- cậu thông minh đấy
+- cậu tuyệt
+- cậu tuyệt hơn những gì mình nghĩ
+- cậu tuyệt hơn những gì tôi tưởng
+- cậu tuyệt lắm
+- cậu tuyệt nhỉ
+- cậu tuyệt phết
+- cậu tuyệt quá
+- cậu tuyệt thật
+- cậu tuyệt thế
+- cậu tuyệt vãi
+- cậu tuyệt vậy
+- cậu tuyệt vời
+- cậu tuyệt vời hơn những gì mình nghĩ
+- cậu tuyệt vời hơn những gì tôi tưởng
+- cậu tuyệt vời lắm
+- cậu tuyệt vời nhỉ
+- cậu tuyệt vời phết
+- cậu tuyệt vời quá
+- cậu tuyệt vời thật
+- cậu tuyệt vời thế
+- cậu tuyệt vời vãi
+- cậu tuyệt vời vậy
+- cậu tuyệt vời à
+- cậu tuyệt vời đấy
+- cậu tuyệt à
+- cậu tuyệt đấy
+- cậu tốt
+- cậu tốt hơn những gì mình nghĩ
+- cậu tốt hơn những gì tôi tưởng
+- cậu tốt lắm
+- cậu tốt nhỉ
+- cậu tốt phết
+- cậu tốt quá
+- cậu tốt thật
+- cậu tốt thế
+- cậu tốt vãi
+- cậu tốt vậy
+- cậu tốt à
+- cậu tốt đấy
+- cậu xinh
+- cậu xinh hơn những gì mình nghĩ
+- cậu xinh hơn những gì tôi tưởng
+- cậu xinh lắm
+- cậu xinh nhỉ
+- cậu xinh phết
+- cậu xinh quá
+- cậu xinh thật
+- cậu xinh thế
+- cậu xinh vãi
+- cậu xinh vậy
+- cậu xinh à
+- cậu xinh đấy
+- cậu xuất sắc
+- cậu xuất sắc hơn những gì mình nghĩ
+- cậu xuất sắc hơn những gì tôi tưởng
+- cậu xuất sắc lắm
+- cậu xuất sắc nhỉ
+- cậu xuất sắc phết
+- cậu xuất sắc quá
+- cậu xuất sắc thật
+- cậu xuất sắc thế
+- cậu xuất sắc vãi
+- cậu xuất sắc vậy
+- cậu xuất sắc à
+- cậu xuất sắc đấy
+- cậu đáng yêu
+- cậu đáng yêu hơn những gì mình nghĩ
+- cậu đáng yêu hơn những gì tôi tưởng
+- cậu đáng yêu lắm
+- cậu đáng yêu nhỉ
+- cậu đáng yêu phết
+- cậu đáng yêu quá
+- cậu đáng yêu thật
+- cậu đáng yêu thế
+- cậu đáng yêu vãi
+- cậu đáng yêu vậy
+- cậu đáng yêu à
+- cậu đáng yêu đấy
+- cậu được
+- cậu được hơn những gì mình nghĩ
+- cậu được hơn những gì tôi tưởng
+- cậu được lắm
+- cậu được nhỉ
+- cậu được phết
+- cậu được quá
+- cậu được thật
+- cậu được thế
+- cậu được vãi
+- cậu được vậy
+- cậu được à
+- cậu được đấy
+- e dễ thương
+- e dễ thương hơn những gì mình nghĩ
+- e dễ thương hơn những gì tôi tưởng
+- e dễ thương lắm
+- e dễ thương nhỉ
+- e dễ thương phết
+- e dễ thương quá
+- e dễ thương thật
+- e dễ thương thế
+- e dễ thương vãi
+- e dễ thương vậy
+- e dễ thương à
+- e dễ thương đấy
+- e giỏi
+- e giỏi hơn những gì mình nghĩ
+- e giỏi hơn những gì tôi tưởng
+- e giỏi lắm
+- e giỏi nhỉ
+- e giỏi phết
+- e giỏi quá
+- e giỏi thật
+- e giỏi thế
+- e giỏi vãi
+- e giỏi vậy
+- e giỏi à
+- e giỏi đấy
+- e hay
+- e hay hơn những gì mình nghĩ
+- e hay hơn những gì tôi tưởng
+- e hay lắm
+- e hay nhỉ
+- e hay phết
+- e hay quá
+- e hay thật
+- e hay thế
+- e hay vãi
+- e hay vậy
+- e hay à
+- e hay đấy
+- e khá
+- e khá hơn những gì mình nghĩ
+- e khá hơn những gì tôi tưởng
+- e khá lắm
+- e khá nhỉ
+- e khá phết
+- e khá quá
+- e khá thật
+- e khá thế
+- e khá vãi
+- e khá vậy
+- e khá à
+- e khá đấy
+- e khôn
+- e khôn hơn những gì mình nghĩ
+- e khôn hơn những gì tôi tưởng
+- e khôn lắm
+- e khôn nhỉ
+- e khôn phết
+- e khôn quá
+- e khôn thật
+- e khôn thế
+- e khôn vãi
+- e khôn vậy
+- e khôn à
+- e khôn đấy
+- e không thể tin nổi
+- e không thể tin nổi hơn những gì mình nghĩ
+- e không thể tin nổi hơn những gì tôi tưởng
+- e không thể tin nổi lắm
+- e không thể tin nổi nhỉ
+- e không thể tin nổi phết
+- e không thể tin nổi quá
+- e không thể tin nổi thật
+- e không thể tin nổi thế
+- e không thể tin nổi vãi
+- e không thể tin nổi vậy
+- e không thể tin nổi à
+- e không thể tin nổi đấy
+- e không đến nỗi nào
+- e không đến nỗi nào hơn những gì mình nghĩ
+- e không đến nỗi nào hơn những gì tôi tưởng
+- e không đến nỗi nào lắm
+- e không đến nỗi nào nhỉ
+- e không đến nỗi nào phết
+- e không đến nỗi nào quá
+- e không đến nỗi nào thật
+- e không đến nỗi nào thế
+- e không đến nỗi nào vãi
+- e không đến nỗi nào vậy
+- e không đến nỗi nào à
+- e không đến nỗi nào đấy
+- e ngon
+- e ngon hơn những gì mình nghĩ
+- e ngon hơn những gì tôi tưởng
+- e ngon lắm
+- e ngon nhỉ
+- e ngon phết
+- e ngon quá
+- e ngon thật
+- e ngon thế
+- e ngon vãi
+- e ngon vậy
+- e ngon à
+- e ngon đấy
+- e thông minh
+- e thông minh hơn những gì mình nghĩ
+- e thông minh hơn những gì tôi tưởng
+- e thông minh lắm
+- e thông minh nhỉ
+- e thông minh phết
+- e thông minh quá
+- e thông minh thật
+- e thông minh thế
+- e thông minh vãi
+- e thông minh vậy
+- e thông minh à
+- e thông minh đấy
+- e tuyệt
+- e tuyệt hơn những gì mình nghĩ
+- e tuyệt hơn những gì tôi tưởng
+- e tuyệt lắm
+- e tuyệt nhỉ
+- e tuyệt phết
+- e tuyệt quá
+- e tuyệt thật
+- e tuyệt thế
+- e tuyệt vãi
+- e tuyệt vậy
+- e tuyệt vời
+- e tuyệt vời hơn những gì mình nghĩ
+- e tuyệt vời hơn những gì tôi tưởng
+- e tuyệt vời lắm
+- e tuyệt vời nhỉ
+- e tuyệt vời phết
+- e tuyệt vời quá
+- e tuyệt vời thật
+- e tuyệt vời thế
+- e tuyệt vời vãi
+- e tuyệt vời vậy
+- e tuyệt vời à
+- e tuyệt vời đấy
+- e tuyệt à
+- e tuyệt đấy
+- e tốt
+- e tốt hơn những gì mình nghĩ
+- e tốt hơn những gì tôi tưởng
+- e tốt lắm
+- e tốt nhỉ
+- e tốt phết
+- e tốt quá
+- e tốt thật
+- e tốt thế
+- e tốt vãi
+- e tốt vậy
+- e tốt à
+- e tốt đấy
+- e xinh
+- e xinh hơn những gì mình nghĩ
+- e xinh hơn những gì tôi tưởng
+- e xinh lắm
+- e xinh nhỉ
+- e xinh phết
+- e xinh quá
+- e xinh thật
+- e xinh thế
+- e xinh vãi
+- e xinh vậy
+- e xinh à
+- e xinh đấy
+- e xuất sắc
+- e xuất sắc hơn những gì mình nghĩ
+- e xuất sắc hơn những gì tôi tưởng
+- e xuất sắc lắm
+- e xuất sắc nhỉ
+- e xuất sắc phết
+- e xuất sắc quá
+- e xuất sắc thật
+- e xuất sắc thế
+- e xuất sắc vãi
+- e xuất sắc vậy
+- e xuất sắc à
+- e xuất sắc đấy
+- e đáng yêu
+- e đáng yêu hơn những gì mình nghĩ
+- e đáng yêu hơn những gì tôi tưởng
+- e đáng yêu lắm
+- e đáng yêu nhỉ
+- e đáng yêu phết
+- e đáng yêu quá
+- e đáng yêu thật
+- e đáng yêu thế
+- e đáng yêu vãi
+- e đáng yêu vậy
+- e đáng yêu à
+- e đáng yêu đấy
+- e được
+- e được hơn những gì mình nghĩ
+- e được hơn những gì tôi tưởng
+- e được lắm
+- e được nhỉ
+- e được phết
+- e được quá
+- e được thật
+- e được thế
+- e được vãi
+- e được vậy
+- e được à
+- e được đấy
+- em dễ thương
+- em dễ thương hơn những gì mình nghĩ
+- em dễ thương hơn những gì tôi tưởng
+- em dễ thương lắm
+- em dễ thương nhỉ
+- em dễ thương phết
+- em dễ thương quá
+- em dễ thương thật
+- em dễ thương thế
+- em dễ thương vãi
+- em dễ thương vậy
+- em dễ thương à
+- em dễ thương đấy
+- em giỏi
+- em giỏi hơn những gì mình nghĩ
+- em giỏi hơn những gì tôi tưởng
+- em giỏi lắm
+- em giỏi nhỉ
+- em giỏi phết
+- em giỏi quá
+- em giỏi thật
+- em giỏi thế
+- em giỏi vãi
+- em giỏi vậy
+- em giỏi à
+- em giỏi đấy
+- em hay
+- em hay hơn những gì mình nghĩ
+- em hay hơn những gì tôi tưởng
+- em hay lắm
+- em hay nhỉ
+- em hay phết
+- em hay quá
+- em hay thật
+- em hay thế
+- em hay vãi
+- em hay vậy
+- em hay à
+- em hay đấy
+- em khá
+- em khá hơn những gì mình nghĩ
+- em khá hơn những gì tôi tưởng
+- em khá lắm
+- em khá nhỉ
+- em khá phết
+- em khá quá
+- em khá thật
+- em khá thế
+- em khá vãi
+- em khá vậy
+- em khá à
+- em khá đấy
+- em khôn
+- em khôn hơn những gì mình nghĩ
+- em khôn hơn những gì tôi tưởng
+- em khôn lắm
+- em khôn nhỉ
+- em khôn phết
+- em khôn quá
+- em khôn thật
+- em khôn thế
+- em khôn vãi
+- em khôn vậy
+- em khôn à
+- em khôn đấy
+- em không thể tin nổi
+- em không thể tin nổi hơn những gì mình nghĩ
+- em không thể tin nổi hơn những gì tôi tưởng
+- em không thể tin nổi lắm
+- em không thể tin nổi nhỉ
+- em không thể tin nổi phết
+- em không thể tin nổi quá
+- em không thể tin nổi thật
+- em không thể tin nổi thế
+- em không thể tin nổi vãi
+- em không thể tin nổi vậy
+- em không thể tin nổi à
+- em không thể tin nổi đấy
+- em không đến nỗi nào
+- em không đến nỗi nào hơn những gì mình nghĩ
+- em không đến nỗi nào hơn những gì tôi tưởng
+- em không đến nỗi nào lắm
+- em không đến nỗi nào nhỉ
+- em không đến nỗi nào phết
+- em không đến nỗi nào quá
+- em không đến nỗi nào thật
+- em không đến nỗi nào thế
+- em không đến nỗi nào vãi
+- em không đến nỗi nào vậy
+- em không đến nỗi nào à
+- em không đến nỗi nào đấy
+- em ngon
+- em ngon hơn những gì mình nghĩ
+- em ngon hơn những gì tôi tưởng
+- em ngon lắm
+- em ngon nhỉ
+- em ngon phết
+- em ngon quá
+- em ngon thật
+- em ngon thế
+- em ngon vãi
+- em ngon vậy
+- em ngon à
+- em ngon đấy
+- em thông minh
+- em thông minh hơn những gì mình nghĩ
+- em thông minh hơn những gì tôi tưởng
+- em thông minh lắm
+- em thông minh nhỉ
+- em thông minh phết
+- em thông minh quá
+- em thông minh thật
+- em thông minh thế
+- em thông minh vãi
+- em thông minh vậy
+- em thông minh à
+- em thông minh đấy
+- em tuyệt
+- em tuyệt hơn những gì mình nghĩ
+- em tuyệt hơn những gì tôi tưởng
+- em tuyệt lắm
+- em tuyệt nhỉ
+- em tuyệt phết
+- em tuyệt quá
+- em tuyệt thật
+- em tuyệt thế
+- em tuyệt vãi
+- em tuyệt vậy
+- em tuyệt vời
+- em tuyệt vời hơn những gì mình nghĩ
+- em tuyệt vời hơn những gì tôi tưởng
+- em tuyệt vời lắm
+- em tuyệt vời nhỉ
+- em tuyệt vời phết
+- em tuyệt vời quá
+- em tuyệt vời thật
+- em tuyệt vời thế
+- em tuyệt vời vãi
+- em tuyệt vời vậy
+- em tuyệt vời à
+- em tuyệt vời đấy
+- em tuyệt à
+- em tuyệt đấy
+- em tốt
+- em tốt hơn những gì mình nghĩ
+- em tốt hơn những gì tôi tưởng
+- em tốt lắm
+- em tốt nhỉ
+- em tốt phết
+- em tốt quá
+- em tốt thật
+- em tốt thế
+- em tốt vãi
+- em tốt vậy
+- em tốt à
+- em tốt đấy
+- em xinh
+- em xinh hơn những gì mình nghĩ
+- em xinh hơn những gì tôi tưởng
+- em xinh lắm
+- em xinh nhỉ
+- em xinh phết
+- em xinh quá
+- em xinh thật
+- em xinh thế
+- em xinh vãi
+- em xinh vậy
+- em xinh à
+- em xinh đấy
+- em xuất sắc
+- em xuất sắc hơn những gì mình nghĩ
+- em xuất sắc hơn những gì tôi tưởng
+- em xuất sắc lắm
+- em xuất sắc nhỉ
+- em xuất sắc phết
+- em xuất sắc quá
+- em xuất sắc thật
+- em xuất sắc thế
+- em xuất sắc vãi
+- em xuất sắc vậy
+- em xuất sắc à
+- em xuất sắc đấy
+- em đáng yêu
+- em đáng yêu hơn những gì mình nghĩ
+- em đáng yêu hơn những gì tôi tưởng
+- em đáng yêu lắm
+- em đáng yêu nhỉ
+- em đáng yêu phết
+- em đáng yêu quá
+- em đáng yêu thật
+- em đáng yêu thế
+- em đáng yêu vãi
+- em đáng yêu vậy
+- em đáng yêu à
+- em đáng yêu đấy
+- em được
+- em được hơn những gì mình nghĩ
+- em được hơn những gì tôi tưởng
+- em được lắm
+- em được nhỉ
+- em được phết
+- em được quá
+- em được thật
+- em được thế
+- em được vãi
+- em được vậy
+- em được à
+- em được đấy
+- mày dễ thương
+- mày dễ thương hơn những gì mình nghĩ
+- mày dễ thương hơn những gì tôi tưởng
+- mày dễ thương lắm
+- mày dễ thương nhỉ
+- mày dễ thương phết
+- mày dễ thương quá
+- mày dễ thương thật
+- mày dễ thương thế
+- mày dễ thương vãi
+- mày dễ thương vậy
+- mày dễ thương à
+- mày dễ thương đấy
+- mày giỏi
+- mày giỏi hơn những gì mình nghĩ
+- mày giỏi hơn những gì tôi tưởng
+- mày giỏi lắm
+- mày giỏi nhỉ
+- mày giỏi phết
+- mày giỏi quá
+- mày giỏi thật
+- mày giỏi thế
+- mày giỏi vãi
+- mày giỏi vậy
+- mày giỏi à
+- mày giỏi đấy
+- mày hay
+- mày hay hơn những gì mình nghĩ
+- mày hay hơn những gì tôi tưởng
+- mày hay lắm
+- mày hay nhỉ
+- mày hay phết
+- mày hay quá
+- mày hay thật
+- mày hay thế
+- mày hay vãi
+- mày hay vậy
+- mày hay à
+- mày hay đấy
+- mày khá
+- mày khá hơn những gì mình nghĩ
+- mày khá hơn những gì tôi tưởng
+- mày khá lắm
+- mày khá nhỉ
+- mày khá phết
+- mày khá quá
+- mày khá thật
+- mày khá thế
+- mày khá vãi
+- mày khá vậy
+- mày khá à
+- mày khá đấy
+- mày khôn
+- mày khôn hơn những gì mình nghĩ
+- mày khôn hơn những gì tôi tưởng
+- mày khôn lắm
+- mày khôn nhỉ
+- mày khôn phết
+- mày khôn quá
+- mày khôn thật
+- mày khôn thế
+- mày khôn vãi
+- mày khôn vậy
+- mày khôn à
+- mày khôn đấy
+- mày không thể tin nổi
+- mày không thể tin nổi hơn những gì mình nghĩ
+- mày không thể tin nổi hơn những gì tôi tưởng
+- mày không thể tin nổi lắm
+- mày không thể tin nổi nhỉ
+- mày không thể tin nổi phết
+- mày không thể tin nổi quá
+- mày không thể tin nổi thật
+- mày không thể tin nổi thế
+- mày không thể tin nổi vãi
+- mày không thể tin nổi vậy
+- mày không thể tin nổi à
+- mày không thể tin nổi đấy
+- mày không đến nỗi nào
+- mày không đến nỗi nào hơn những gì mình nghĩ
+- mày không đến nỗi nào hơn những gì tôi tưởng
+- mày không đến nỗi nào lắm
+- mày không đến nỗi nào nhỉ
+- mày không đến nỗi nào phết
+- mày không đến nỗi nào quá
+- mày không đến nỗi nào thật
+- mày không đến nỗi nào thế
+- mày không đến nỗi nào vãi
+- mày không đến nỗi nào vậy
+- mày không đến nỗi nào à
+- mày không đến nỗi nào đấy
+- mày ngon
+- mày ngon hơn những gì mình nghĩ
+- mày ngon hơn những gì tôi tưởng
+- mày ngon lắm
+- mày ngon nhỉ
+- mày ngon phết
+- mày ngon quá
+- mày ngon thật
+- mày ngon thế
+- mày ngon vãi
+- mày ngon vậy
+- mày ngon à
+- mày ngon đấy
+- mày thông minh
+- mày thông minh hơn những gì mình nghĩ
+- mày thông minh hơn những gì tôi tưởng
+- mày thông minh lắm
+- mày thông minh nhỉ
+- mày thông minh phết
+- mày thông minh quá
+- mày thông minh thật
+- mày thông minh thế
+- mày thông minh vãi
+- mày thông minh vậy
+- mày thông minh à
+- mày thông minh đấy
+- mày tuyệt
+- mày tuyệt hơn những gì mình nghĩ
+- mày tuyệt hơn những gì tôi tưởng
+- mày tuyệt lắm
+- mày tuyệt nhỉ
+- mày tuyệt phết
+- mày tuyệt quá
+- mày tuyệt thật
+- mày tuyệt thế
+- mày tuyệt vãi
+- mày tuyệt vậy
+- mày tuyệt vời
+- mày tuyệt vời hơn những gì mình nghĩ
+- mày tuyệt vời hơn những gì tôi tưởng
+- mày tuyệt vời lắm
+- mày tuyệt vời nhỉ
+- mày tuyệt vời phết
+- mày tuyệt vời quá
+- mày tuyệt vời thật
+- mày tuyệt vời thế
+- mày tuyệt vời vãi
+- mày tuyệt vời vậy
+- mày tuyệt vời à
+- mày tuyệt vời đấy
+- mày tuyệt à
+- mày tuyệt đấy
+- mày tốt
+- mày tốt hơn những gì mình nghĩ
+- mày tốt hơn những gì tôi tưởng
+- mày tốt lắm
+- mày tốt nhỉ
+- mày tốt phết
+- mày tốt quá
+- mày tốt thật
+- mày tốt thế
+- mày tốt vãi
+- mày tốt vậy
+- mày tốt à
+- mày tốt đấy
+- mày xinh
+- mày xinh hơn những gì mình nghĩ
+- mày xinh hơn những gì tôi tưởng
+- mày xinh lắm
+- mày xinh nhỉ
+- mày xinh phết
+- mày xinh quá
+- mày xinh thật
+- mày xinh thế
+- mày xinh vãi
+- mày xinh vậy
+- mày xinh à
+- mày xinh đấy
+- mày xuất sắc
+- mày xuất sắc hơn những gì mình nghĩ
+- mày xuất sắc hơn những gì tôi tưởng
+- mày xuất sắc lắm
+- mày xuất sắc nhỉ
+- mày xuất sắc phết
+- mày xuất sắc quá
+- mày xuất sắc thật
+- mày xuất sắc thế
+- mày xuất sắc vãi
+- mày xuất sắc vậy
+- mày xuất sắc à
+- mày xuất sắc đấy
+- mày đáng yêu
+- mày đáng yêu hơn những gì mình nghĩ
+- mày đáng yêu hơn những gì tôi tưởng
+- mày đáng yêu lắm
+- mày đáng yêu nhỉ
+- mày đáng yêu phết
+- mày đáng yêu quá
+- mày đáng yêu thật
+- mày đáng yêu thế
+- mày đáng yêu vãi
+- mày đáng yêu vậy
+- mày đáng yêu à
+- mày đáng yêu đấy
+- mày được
+- mày được hơn những gì mình nghĩ
+- mày được hơn những gì tôi tưởng
+- mày được lắm
+- mày được nhỉ
+- mày được phết
+- mày được quá
+- mày được thật
+- mày được thế
+- mày được vãi
+- mày được vậy
+- mày được à
+- mày được đấy
+- ô dễ thương
+- ô dễ thương hơn những gì mình nghĩ
+- ô dễ thương hơn những gì tôi tưởng
+- ô dễ thương lắm
+- ô dễ thương nhỉ
+- ô dễ thương phết
+- ô dễ thương quá
+- ô dễ thương thật
+- ô dễ thương thế
+- ô dễ thương vãi
+- ô dễ thương vậy
+- ô dễ thương à
+- ô dễ thương đấy
+- ô giỏi
+- ô giỏi hơn những gì mình nghĩ
+- ô giỏi hơn những gì tôi tưởng
+- ô giỏi lắm
+- ô giỏi nhỉ
+- ô giỏi phết
+- ô giỏi quá
+- ô giỏi thật
+- ô giỏi thế
+- ô giỏi vãi
+- ô giỏi vậy
+- ô giỏi à
+- ô giỏi đấy
+- ô hay
+- ô hay hơn những gì mình nghĩ
+- ô hay hơn những gì tôi tưởng
+- ô hay lắm
+- ô hay nhỉ
+- ô hay phết
+- ô hay quá
+- ô hay thật
+- ô hay thế
+- ô hay vãi
+- ô hay vậy
+- ô hay à
+- ô hay đấy
+- ô khá
+- ô khá hơn những gì mình nghĩ
+- ô khá hơn những gì tôi tưởng
+- ô khá lắm
+- ô khá nhỉ
+- ô khá phết
+- ô khá quá
+- ô khá thật
+- ô khá thế
+- ô khá vãi
+- ô khá vậy
+- ô khá à
+- ô khá đấy
+- ô khôn
+- ô khôn hơn những gì mình nghĩ
+- ô khôn hơn những gì tôi tưởng
+- ô khôn lắm
+- ô khôn nhỉ
+- ô khôn phết
+- ô khôn quá
+- ô khôn thật
+- ô khôn thế
+- ô khôn vãi
+- ô khôn vậy
+- ô khôn à
+- ô khôn đấy
+- ô không thể tin nổi
+- ô không thể tin nổi hơn những gì mình nghĩ
+- ô không thể tin nổi hơn những gì tôi tưởng
+- ô không thể tin nổi lắm
+- ô không thể tin nổi nhỉ
+- ô không thể tin nổi phết
+- ô không thể tin nổi quá
+- ô không thể tin nổi thật
+- ô không thể tin nổi thế
+- ô không thể tin nổi vãi
+- ô không thể tin nổi vậy
+- ô không thể tin nổi à
+- ô không thể tin nổi đấy
+- ô không đến nỗi nào
+- ô không đến nỗi nào hơn những gì mình nghĩ
+- ô không đến nỗi nào hơn những gì tôi tưởng
+- ô không đến nỗi nào lắm
+- ô không đến nỗi nào nhỉ
+- ô không đến nỗi nào phết
+- ô không đến nỗi nào quá
+- ô không đến nỗi nào thật
+- ô không đến nỗi nào thế
+- ô không đến nỗi nào vãi
+- ô không đến nỗi nào vậy
+- ô không đến nỗi nào à
+- ô không đến nỗi nào đấy
+- ô ngon
+- ô ngon hơn những gì mình nghĩ
+- ô ngon hơn những gì tôi tưởng
+- ô ngon lắm
+- ô ngon nhỉ
+- ô ngon phết
+- ô ngon quá
+- ô ngon thật
+- ô ngon thế
+- ô ngon vãi
+- ô ngon vậy
+- ô ngon à
+- ô ngon đấy
+- ô thông minh
+- ô thông minh hơn những gì mình nghĩ
+- ô thông minh hơn những gì tôi tưởng
+- ô thông minh lắm
+- ô thông minh nhỉ
+- ô thông minh phết
+- ô thông minh quá
+- ô thông minh thật
+- ô thông minh thế
+- ô thông minh vãi
+- ô thông minh vậy
+- ô thông minh à
+- ô thông minh đấy
+- ô tuyệt
+- ô tuyệt hơn những gì mình nghĩ
+- ô tuyệt hơn những gì tôi tưởng
+- ô tuyệt lắm
+- ô tuyệt nhỉ
+- ô tuyệt phết
+- ô tuyệt quá
+- ô tuyệt thật
+- ô tuyệt thế
+- ô tuyệt vãi
+- ô tuyệt vậy
+- ô tuyệt vời
+- ô tuyệt vời hơn những gì mình nghĩ
+- ô tuyệt vời hơn những gì tôi tưởng
+- ô tuyệt vời lắm
+- ô tuyệt vời nhỉ
+- ô tuyệt vời phết
+- ô tuyệt vời quá
+- ô tuyệt vời thật
+- ô tuyệt vời thế
+- ô tuyệt vời vãi
+- ô tuyệt vời vậy
+- ô tuyệt vời à
+- ô tuyệt vời đấy
+- ô tuyệt à
+- ô tuyệt đấy
+- ô tốt
+- ô tốt hơn những gì mình nghĩ
+- ô tốt hơn những gì tôi tưởng
+- ô tốt lắm
+- ô tốt nhỉ
+- ô tốt phết
+- ô tốt quá
+- ô tốt thật
+- ô tốt thế
+- ô tốt vãi
+- ô tốt vậy
+- ô tốt à
+- ô tốt đấy
+- ô xinh
+- ô xinh hơn những gì mình nghĩ
+- ô xinh hơn những gì tôi tưởng
+- ô xinh lắm
+- ô xinh nhỉ
+- ô xinh phết
+- ô xinh quá
+- ô xinh thật
+- ô xinh thế
+- ô xinh vãi
+- ô xinh vậy
+- ô xinh à
+- ô xinh đấy
+- ô xuất sắc
+- ô xuất sắc hơn những gì mình nghĩ
+- ô xuất sắc hơn những gì tôi tưởng
+- ô xuất sắc lắm
+- ô xuất sắc nhỉ
+- ô xuất sắc phết
+- ô xuất sắc quá
+- ô xuất sắc thật
+- ô xuất sắc thế
+- ô xuất sắc vãi
+- ô xuất sắc vậy
+- ô xuất sắc à
+- ô xuất sắc đấy
+- ô đáng yêu
+- ô đáng yêu hơn những gì mình nghĩ
+- ô đáng yêu hơn những gì tôi tưởng
+- ô đáng yêu lắm
+- ô đáng yêu nhỉ
+- ô đáng yêu phết
+- ô đáng yêu quá
+- ô đáng yêu thật
+- ô đáng yêu thế
+- ô đáng yêu vãi
+- ô đáng yêu vậy
+- ô đáng yêu à
+- ô đáng yêu đấy
+- ô được
+- ô được hơn những gì mình nghĩ
+- ô được hơn những gì tôi tưởng
+- ô được lắm
+- ô được nhỉ
+- ô được phết
+- ô được quá
+- ô được thật
+- ô được thế
+- ô được vãi
+- ô được vậy
+- ô được à
+- ô được đấy
+- ông dễ thương
+- ông dễ thương hơn những gì mình nghĩ
+- ông dễ thương hơn những gì tôi tưởng
+- ông dễ thương lắm
+- ông dễ thương nhỉ
+- ông dễ thương phết
+- ông dễ thương quá
+- ông dễ thương thật
+- ông dễ thương thế
+- ông dễ thương vãi
+- ông dễ thương vậy
+- ông dễ thương à
+- ông dễ thương đấy
+- ông giỏi
+- ông giỏi hơn những gì mình nghĩ
+- ông giỏi hơn những gì tôi tưởng
+- ông giỏi lắm
+- ông giỏi nhỉ
+- ông giỏi phết
+- ông giỏi quá
+- ông giỏi thật
+- ông giỏi thế
+- ông giỏi vãi
+- ông giỏi vậy
+- ông giỏi à
+- ông giỏi đấy
+- ông hay
+- ông hay hơn những gì mình nghĩ
+- ông hay hơn những gì tôi tưởng
+- ông hay lắm
+- ông hay nhỉ
+- ông hay phết
+- ông hay quá
+- ông hay thật
+- ông hay thế
+- ông hay vãi
+- ông hay vậy
+- ông hay à
+- ông hay đấy
+- ông khá
+- ông khá hơn những gì mình nghĩ
+- ông khá hơn những gì tôi tưởng
+- ông khá lắm
+- ông khá nhỉ
+- ông khá phết
+- ông khá quá
+- ông khá thật
+- ông khá thế
+- ông khá vãi
+- ông khá vậy
+- ông khá à
+- ông khá đấy
+- ông khôn
+- ông khôn hơn những gì mình nghĩ
+- ông khôn hơn những gì tôi tưởng
+- ông khôn lắm
+- ông khôn nhỉ
+- ông khôn phết
+- ông khôn quá
+- ông khôn thật
+- ông khôn thế
+- ông khôn vãi
+- ông khôn vậy
+- ông khôn à
+- ông khôn đấy
+- ông không thể tin nổi
+- ông không thể tin nổi hơn những gì mình nghĩ
+- ông không thể tin nổi hơn những gì tôi tưởng
+- ông không thể tin nổi lắm
+- ông không thể tin nổi nhỉ
+- ông không thể tin nổi phết
+- ông không thể tin nổi quá
+- ông không thể tin nổi thật
+- ông không thể tin nổi thế
+- ông không thể tin nổi vãi
+- ông không thể tin nổi vậy
+- ông không thể tin nổi à
+- ông không thể tin nổi đấy
+- ông không đến nỗi nào
+- ông không đến nỗi nào hơn những gì mình nghĩ
+- ông không đến nỗi nào hơn những gì tôi tưởng
+- ông không đến nỗi nào lắm
+- ông không đến nỗi nào nhỉ
+- ông không đến nỗi nào phết
+- ông không đến nỗi nào quá
+- ông không đến nỗi nào thật
+- ông không đến nỗi nào thế
+- ông không đến nỗi nào vãi
+- ông không đến nỗi nào vậy
+- ông không đến nỗi nào à
+- ông không đến nỗi nào đấy
+- ông ngon
+- ông ngon hơn những gì mình nghĩ
+- ông ngon hơn những gì tôi tưởng
+- ông ngon lắm
+- ông ngon nhỉ
+- ông ngon phết
+- ông ngon quá
+- ông ngon thật
+- ông ngon thế
+- ông ngon vãi
+- ông ngon vậy
+- ông ngon à
+- ông ngon đấy
+- ông thông minh
+- ông thông minh hơn những gì mình nghĩ
+- ông thông minh hơn những gì tôi tưởng
+- ông thông minh lắm
+- ông thông minh nhỉ
+- ông thông minh phết
+- ông thông minh quá
+- ông thông minh thật
+- ông thông minh thế
+- ông thông minh vãi
+- ông thông minh vậy
+- ông thông minh à
+- ông thông minh đấy
+- ông tuyệt
+- ông tuyệt hơn những gì mình nghĩ
+- ông tuyệt hơn những gì tôi tưởng
+- ông tuyệt lắm
+- ông tuyệt nhỉ
+- ông tuyệt phết
+- ông tuyệt quá
+- ông tuyệt thật
+- ông tuyệt thế
+- ông tuyệt vãi
+- ông tuyệt vậy
+- ông tuyệt vời
+- ông tuyệt vời hơn những gì mình nghĩ
+- ông tuyệt vời hơn những gì tôi tưởng
+- ông tuyệt vời lắm
+- ông tuyệt vời nhỉ
+- ông tuyệt vời phết
+- ông tuyệt vời quá
+- ông tuyệt vời thật
+- ông tuyệt vời thế
+- ông tuyệt vời vãi
+- ông tuyệt vời vậy
+- ông tuyệt vời à
+- ông tuyệt vời đấy
+- ông tuyệt à
+- ông tuyệt đấy
+- ông tốt
+- ông tốt hơn những gì mình nghĩ
+- ông tốt hơn những gì tôi tưởng
+- ông tốt lắm
+- ông tốt nhỉ
+- ông tốt phết
+- ông tốt quá
+- ông tốt thật
+- ông tốt thế
+- ông tốt vãi
+- ông tốt vậy
+- ông tốt à
+- ông tốt đấy
+- ông xinh
+- ông xinh hơn những gì mình nghĩ
+- ông xinh hơn những gì tôi tưởng
+- ông xinh lắm
+- ông xinh nhỉ
+- ông xinh phết
+- ông xinh quá
+- ông xinh thật
+- ông xinh thế
+- ông xinh vãi
+- ông xinh vậy
+- ông xinh à
+- ông xinh đấy
+- ông xuất sắc
+- ông xuất sắc hơn những gì mình nghĩ
+- ông xuất sắc hơn những gì tôi tưởng
+- ông xuất sắc lắm
+- ông xuất sắc nhỉ
+- ông xuất sắc phết
+- ông xuất sắc quá
+- ông xuất sắc thật
+- ông xuất sắc thế
+- ông xuất sắc vãi
+- ông xuất sắc vậy
+- ông xuất sắc à
+- ông xuất sắc đấy
+- ông đáng yêu
+- ông đáng yêu hơn những gì mình nghĩ
+- ông đáng yêu hơn những gì tôi tưởng
+- ông đáng yêu lắm
+- ông đáng yêu nhỉ
+- ông đáng yêu phết
+- ông đáng yêu quá
+- ông đáng yêu thật
+- ông đáng yêu thế
+- ông đáng yêu vãi
+- ông đáng yêu vậy
+- ông đáng yêu à
+- ông đáng yêu đấy
+- ông được
+- ông được hơn những gì mình nghĩ
+- ông được hơn những gì tôi tưởng
+- ông được lắm
+- ông được nhỉ
+- ông được phết
+- ông được quá
+- ông được thật
+- ông được thế
+- ông được vãi
+- ông được vậy
+- ông được à
+- ông được đấy
+- đại ca dễ thương
+- đại ca dễ thương hơn những gì mình nghĩ
+- đại ca dễ thương hơn những gì tôi tưởng
+- đại ca dễ thương lắm
+- đại ca dễ thương nhỉ
+- đại ca dễ thương phết
+- đại ca dễ thương quá
+- đại ca dễ thương thật
+- đại ca dễ thương thế
+- đại ca dễ thương vãi
+- đại ca dễ thương vậy
+- đại ca dễ thương à
+- đại ca dễ thương đấy
+- đại ca giỏi
+- đại ca giỏi hơn những gì mình nghĩ
+- đại ca giỏi hơn những gì tôi tưởng
+- đại ca giỏi lắm
+- đại ca giỏi nhỉ
+- đại ca giỏi phết
+- đại ca giỏi quá
+- đại ca giỏi thật
+- đại ca giỏi thế
+- đại ca giỏi vãi
+- đại ca giỏi vậy
+- đại ca giỏi à
+- đại ca giỏi đấy
+- đại ca hay
+- đại ca hay hơn những gì mình nghĩ
+- đại ca hay hơn những gì tôi tưởng
+- đại ca hay lắm
+- đại ca hay nhỉ
+- đại ca hay phết
+- đại ca hay quá
+- đại ca hay thật
+- đại ca hay thế
+- đại ca hay vãi
+- đại ca hay vậy
+- đại ca hay à
+- đại ca hay đấy
+- đại ca khá
+- đại ca khá hơn những gì mình nghĩ
+- đại ca khá hơn những gì tôi tưởng
+- đại ca khá lắm
+- đại ca khá nhỉ
+- đại ca khá phết
+- đại ca khá quá
+- đại ca khá thật
+- đại ca khá thế
+- đại ca khá vãi
+- đại ca khá vậy
+- đại ca khá à
+- đại ca khá đấy
+- đại ca khôn
+- đại ca khôn hơn những gì mình nghĩ
+- đại ca khôn hơn những gì tôi tưởng
+- đại ca khôn lắm
+- đại ca khôn nhỉ
+- đại ca khôn phết
+- đại ca khôn quá
+- đại ca khôn thật
+- đại ca khôn thế
+- đại ca khôn vãi
+- đại ca khôn vậy
+- đại ca khôn à
+- đại ca khôn đấy
+- đại ca không thể tin nổi
+- đại ca không thể tin nổi hơn những gì mình nghĩ
+- đại ca không thể tin nổi hơn những gì tôi tưởng
+- đại ca không thể tin nổi lắm
+- đại ca không thể tin nổi nhỉ
+- đại ca không thể tin nổi phết
+- đại ca không thể tin nổi quá
+- đại ca không thể tin nổi thật
+- đại ca không thể tin nổi thế
+- đại ca không thể tin nổi vãi
+- đại ca không thể tin nổi vậy
+- đại ca không thể tin nổi à
+- đại ca không thể tin nổi đấy
+- đại ca không đến nỗi nào
+- đại ca không đến nỗi nào hơn những gì mình nghĩ
+- đại ca không đến nỗi nào hơn những gì tôi tưởng
+- đại ca không đến nỗi nào lắm
+- đại ca không đến nỗi nào nhỉ
+- đại ca không đến nỗi nào phết
+- đại ca không đến nỗi nào quá
+- đại ca không đến nỗi nào thật
+- đại ca không đến nỗi nào thế
+- đại ca không đến nỗi nào vãi
+- đại ca không đến nỗi nào vậy
+- đại ca không đến nỗi nào à
+- đại ca không đến nỗi nào đấy
+- đại ca ngon
+- đại ca ngon hơn những gì mình nghĩ
+- đại ca ngon hơn những gì tôi tưởng
+- đại ca ngon lắm
+- đại ca ngon nhỉ
+- đại ca ngon phết
+- đại ca ngon quá
+- đại ca ngon thật
+- đại ca ngon thế
+- đại ca ngon vãi
+- đại ca ngon vậy
+- đại ca ngon à
+- đại ca ngon đấy
+- đại ca thông minh
+- đại ca thông minh hơn những gì mình nghĩ
+- đại ca thông minh hơn những gì tôi tưởng
+- đại ca thông minh lắm
+- đại ca thông minh nhỉ
+- đại ca thông minh phết
+- đại ca thông minh quá
+- đại ca thông minh thật
+- đại ca thông minh thế
+- đại ca thông minh vãi
+- đại ca thông minh vậy
+- đại ca thông minh à
+- đại ca thông minh đấy
+- đại ca tuyệt
+- đại ca tuyệt hơn những gì mình nghĩ
+- đại ca tuyệt hơn những gì tôi tưởng
+- đại ca tuyệt lắm
+- đại ca tuyệt nhỉ
+- đại ca tuyệt phết
+- đại ca tuyệt quá
+- đại ca tuyệt thật
+- đại ca tuyệt thế
+- đại ca tuyệt vãi
+- đại ca tuyệt vậy
+- đại ca tuyệt vời
+- đại ca tuyệt vời hơn những gì mình nghĩ
+- đại ca tuyệt vời hơn những gì tôi tưởng
+- đại ca tuyệt vời lắm
+- đại ca tuyệt vời nhỉ
+- đại ca tuyệt vời phết
+- đại ca tuyệt vời quá
+- đại ca tuyệt vời thật
+- đại ca tuyệt vời thế
+- đại ca tuyệt vời vãi
+- đại ca tuyệt vời vậy
+- đại ca tuyệt vời à
+- đại ca tuyệt vời đấy
+- đại ca tuyệt à
+- đại ca tuyệt đấy
+- đại ca tốt
+- đại ca tốt hơn những gì mình nghĩ
+- đại ca tốt hơn những gì tôi tưởng
+- đại ca tốt lắm
+- đại ca tốt nhỉ
+- đại ca tốt phết
+- đại ca tốt quá
+- đại ca tốt thật
+- đại ca tốt thế
+- đại ca tốt vãi
+- đại ca tốt vậy
+- đại ca tốt à
+- đại ca tốt đấy
+- đại ca xinh
+- đại ca xinh hơn những gì mình nghĩ
+- đại ca xinh hơn những gì tôi tưởng
+- đại ca xinh lắm
+- đại ca xinh nhỉ
+- đại ca xinh phết
+- đại ca xinh quá
+- đại ca xinh thật
+- đại ca xinh thế
+- đại ca xinh vãi
+- đại ca xinh vậy
+- đại ca xinh à
+- đại ca xinh đấy
+- đại ca xuất sắc
+- đại ca xuất sắc hơn những gì mình nghĩ
+- đại ca xuất sắc hơn những gì tôi tưởng
+- đại ca xuất sắc lắm
+- đại ca xuất sắc nhỉ
+- đại ca xuất sắc phết
+- đại ca xuất sắc quá
+- đại ca xuất sắc thật
+- đại ca xuất sắc thế
+- đại ca xuất sắc vãi
+- đại ca xuất sắc vậy
+- đại ca xuất sắc à
+- đại ca xuất sắc đấy
+- đại ca đáng yêu
+- đại ca đáng yêu hơn những gì mình nghĩ
+- đại ca đáng yêu hơn những gì tôi tưởng
+- đại ca đáng yêu lắm
+- đại ca đáng yêu nhỉ
+- đại ca đáng yêu phết
+- đại ca đáng yêu quá
+- đại ca đáng yêu thật
+- đại ca đáng yêu thế
+- đại ca đáng yêu vãi
+- đại ca đáng yêu vậy
+- đại ca đáng yêu à
+- đại ca đáng yêu đấy
+- đại ca được
+- đại ca được hơn những gì mình nghĩ
+- đại ca được hơn những gì tôi tưởng
+- đại ca được lắm
+- đại ca được nhỉ
+- đại ca được phết
+- đại ca được quá
+- đại ca được thật
+- đại ca được thế
+- đại ca được vãi
+- đại ca được vậy
+- đại ca được à
+- đại ca được đấy
+- đồng chí dễ thương
+- đồng chí dễ thương hơn những gì mình nghĩ
+- đồng chí dễ thương hơn những gì tôi tưởng
+- đồng chí dễ thương lắm
+- đồng chí dễ thương nhỉ
+- đồng chí dễ thương phết
+- đồng chí dễ thương quá
+- đồng chí dễ thương thật
+- đồng chí dễ thương thế
+- đồng chí dễ thương vãi
+- đồng chí dễ thương vậy
+- đồng chí dễ thương à
+- đồng chí dễ thương đấy
+- đồng chí giỏi
+- đồng chí giỏi hơn những gì mình nghĩ
+- đồng chí giỏi hơn những gì tôi tưởng
+- đồng chí giỏi lắm
+- đồng chí giỏi nhỉ
+- đồng chí giỏi phết
+- đồng chí giỏi quá
+- đồng chí giỏi thật
+- đồng chí giỏi thế
+- đồng chí giỏi vãi
+- đồng chí giỏi vậy
+- đồng chí giỏi à
+- đồng chí giỏi đấy
+- đồng chí hay
+- đồng chí hay hơn những gì mình nghĩ
+- đồng chí hay hơn những gì tôi tưởng
+- đồng chí hay lắm
+- đồng chí hay nhỉ
+- đồng chí hay phết
+- đồng chí hay quá
+- đồng chí hay thật
+- đồng chí hay thế
+- đồng chí hay vãi
+- đồng chí hay vậy
+- đồng chí hay à
+- đồng chí hay đấy
+- đồng chí khá
+- đồng chí khá hơn những gì mình nghĩ
+- đồng chí khá hơn những gì tôi tưởng
+- đồng chí khá lắm
+- đồng chí khá nhỉ
+- đồng chí khá phết
+- đồng chí khá quá
+- đồng chí khá thật
+- đồng chí khá thế
+- đồng chí khá vãi
+- đồng chí khá vậy
+- đồng chí khá à
+- đồng chí khá đấy
+- đồng chí khôn
+- đồng chí khôn hơn những gì mình nghĩ
+- đồng chí khôn hơn những gì tôi tưởng
+- đồng chí khôn lắm
+- đồng chí khôn nhỉ
+- đồng chí khôn phết
+- đồng chí khôn quá
+- đồng chí khôn thật
+- đồng chí khôn thế
+- đồng chí khôn vãi
+- đồng chí khôn vậy
+- đồng chí khôn à
+- đồng chí khôn đấy
+- đồng chí không thể tin nổi
+- đồng chí không thể tin nổi hơn những gì mình nghĩ
+- đồng chí không thể tin nổi hơn những gì tôi tưởng
+- đồng chí không thể tin nổi lắm
+- đồng chí không thể tin nổi nhỉ
+- đồng chí không thể tin nổi phết
+- đồng chí không thể tin nổi quá
+- đồng chí không thể tin nổi thật
+- đồng chí không thể tin nổi thế
+- đồng chí không thể tin nổi vãi
+- đồng chí không thể tin nổi vậy
+- đồng chí không thể tin nổi à
+- đồng chí không thể tin nổi đấy
+- đồng chí không đến nỗi nào
+- đồng chí không đến nỗi nào hơn những gì mình nghĩ
+- đồng chí không đến nỗi nào hơn những gì tôi tưởng
+- đồng chí không đến nỗi nào lắm
+- đồng chí không đến nỗi nào nhỉ
+- đồng chí không đến nỗi nào phết
+- đồng chí không đến nỗi nào quá
+- đồng chí không đến nỗi nào thật
+- đồng chí không đến nỗi nào thế
+- đồng chí không đến nỗi nào vãi
+- đồng chí không đến nỗi nào vậy
+- đồng chí không đến nỗi nào à
+- đồng chí không đến nỗi nào đấy
+- đồng chí ngon
+- đồng chí ngon hơn những gì mình nghĩ
+- đồng chí ngon hơn những gì tôi tưởng
+- đồng chí ngon lắm
+- đồng chí ngon nhỉ
+- đồng chí ngon phết
+- đồng chí ngon quá
+- đồng chí ngon thật
+- đồng chí ngon thế
+- đồng chí ngon vãi
+- đồng chí ngon vậy
+- đồng chí ngon à
+- đồng chí ngon đấy
+- đồng chí thông minh
+- đồng chí thông minh hơn những gì mình nghĩ
+- đồng chí thông minh hơn những gì tôi tưởng
+- đồng chí thông minh lắm
+- đồng chí thông minh nhỉ
+- đồng chí thông minh phết
+- đồng chí thông minh quá
+- đồng chí thông minh thật
+- đồng chí thông minh thế
+- đồng chí thông minh vãi
+- đồng chí thông minh vậy
+- đồng chí thông minh à
+- đồng chí thông minh đấy
+- đồng chí tuyệt
+- đồng chí tuyệt hơn những gì mình nghĩ
+- đồng chí tuyệt hơn những gì tôi tưởng
+- đồng chí tuyệt lắm
+- đồng chí tuyệt nhỉ
+- đồng chí tuyệt phết
+- đồng chí tuyệt quá
+- đồng chí tuyệt thật
+- đồng chí tuyệt thế
+- đồng chí tuyệt vãi
+- đồng chí tuyệt vậy
+- đồng chí tuyệt vời
+- đồng chí tuyệt vời hơn những gì mình nghĩ
+- đồng chí tuyệt vời hơn những gì tôi tưởng
+- đồng chí tuyệt vời lắm
+- đồng chí tuyệt vời nhỉ
+- đồng chí tuyệt vời phết
+- đồng chí tuyệt vời quá
+- đồng chí tuyệt vời thật
+- đồng chí tuyệt vời thế
+- đồng chí tuyệt vời vãi
+- đồng chí tuyệt vời vậy
+- đồng chí tuyệt vời à
+- đồng chí tuyệt vời đấy
+- đồng chí tuyệt à
+- đồng chí tuyệt đấy
+- đồng chí tốt
+- đồng chí tốt hơn những gì mình nghĩ
+- đồng chí tốt hơn những gì tôi tưởng
+- đồng chí tốt lắm
+- đồng chí tốt nhỉ
+- đồng chí tốt phết
+- đồng chí tốt quá
+- đồng chí tốt thật
+- đồng chí tốt thế
+- đồng chí tốt vãi
+- đồng chí tốt vậy
+- đồng chí tốt à
+- đồng chí tốt đấy
+- đồng chí xinh
+- đồng chí xinh hơn những gì mình nghĩ
+- đồng chí xinh hơn những gì tôi tưởng
+- đồng chí xinh lắm
+- đồng chí xinh nhỉ
+- đồng chí xinh phết
+- đồng chí xinh quá
+- đồng chí xinh thật
+- đồng chí xinh thế
+- đồng chí xinh vãi
+- đồng chí xinh vậy
+- đồng chí xinh à
+- đồng chí xinh đấy
+- đồng chí xuất sắc
+- đồng chí xuất sắc hơn những gì mình nghĩ
+- đồng chí xuất sắc hơn những gì tôi tưởng
+- đồng chí xuất sắc lắm
+- đồng chí xuất sắc nhỉ
+- đồng chí xuất sắc phết
+- đồng chí xuất sắc quá
+- đồng chí xuất sắc thật
+- đồng chí xuất sắc thế
+- đồng chí xuất sắc vãi
+- đồng chí xuất sắc vậy
+- đồng chí xuất sắc à
+- đồng chí xuất sắc đấy
+- đồng chí đáng yêu
+- đồng chí đáng yêu hơn những gì mình nghĩ
+- đồng chí đáng yêu hơn những gì tôi tưởng
+- đồng chí đáng yêu lắm
+- đồng chí đáng yêu nhỉ
+- đồng chí đáng yêu phết
+- đồng chí đáng yêu quá
+- đồng chí đáng yêu thật
+- đồng chí đáng yêu thế
+- đồng chí đáng yêu vãi
+- đồng chí đáng yêu vậy
+- đồng chí đáng yêu à
+- đồng chí đáng yêu đấy
+- đồng chí được
+- đồng chí được hơn những gì mình nghĩ
+- đồng chí được hơn những gì tôi tưởng
+- đồng chí được lắm
+- đồng chí được nhỉ
+- đồng chí được phết
+- đồng chí được quá
+- đồng chí được thật
+- đồng chí được thế
+- đồng chí được vãi
+- đồng chí được vậy
+- đồng chí được à
+- đồng chí được đấy
+
+## intent:feel_boring
+- buồn quá
+- buồn vãi
+- chán quá
+- chán vãi
+- chán đời quá
+- chán đời vãi
+- anh buồn quá
+- anh buồn vãi
+- anh chán quá
+- anh chán vãi
+- anh chán đời quá
+- anh chán đời vãi
+- bọn tao buồn quá
+- bọn tao buồn vãi
+- bọn tao chán quá
+- bọn tao chán vãi
+- bọn tao chán đời quá
+- bọn tao chán đời vãi
+- chị buồn quá
+- chị buồn vãi
+- chị chán quá
+- chị chán vãi
+- chị chán đời quá
+- chị chán đời vãi
+- em buồn quá
+- em buồn vãi
+- em chán quá
+- em chán vãi
+- em chán đời quá
+- em chán đời vãi
+- mình buồn quá
+- mình buồn vãi
+- mình chán quá
+- mình chán vãi
+- mình chán đời quá
+- mình chán đời vãi
+- t buồn quá
+- t buồn vãi
+- t chán quá
+- t chán vãi
+- t chán đời quá
+- t chán đời vãi
+- tao buồn quá
+- tao buồn vãi
+- tao chán quá
+- tao chán vãi
+- tao chán đời quá
+- tao chán đời vãi
+- tui buồn quá
+- tui buồn vãi
+- tui chán quá
+- tui chán vãi
+- tui chán đời quá
+- tui chán đời vãi
+- tôi buồn quá
+- tôi buồn vãi
+- tôi chán quá
+- tôi chán vãi
+- tôi chán đời quá
+- tôi chán đời vãi
+- tớ buồn quá
+- tớ buồn vãi
+- tớ chán quá
+- tớ chán vãi
+- tớ chán đời quá
+- tớ chán đời vãi
+
+## intent:feel_hungry
+- đói quá
+- đói vãi
+- anh đói quá
+- anh đói vãi
+- bọn tao đói quá
+- bọn tao đói vãi
+- chị đói quá
+- chị đói vãi
+- em đói quá
+- em đói vãi
+- mình đói quá
+- mình đói vãi
+- t đói quá
+- t đói vãi
+- tao đói quá
+- tao đói vãi
+- tui đói quá
+- tui đói vãi
+- tôi đói quá
+- tôi đói vãi
+- tớ đói quá
+- tớ đói vãi
+
+## intent:feel_sleep
+- buồn ngủ quá
+- buồn ngủ vãi
+- anh buồn ngủ quá
+- anh buồn ngủ vãi
+- bọn tao buồn ngủ quá
+- bọn tao buồn ngủ vãi
+- chị buồn ngủ quá
+- chị buồn ngủ vãi
+- em buồn ngủ quá
+- em buồn ngủ vãi
+- mình buồn ngủ quá
+- mình buồn ngủ vãi
+- t buồn ngủ quá
+- t buồn ngủ vãi
+- tao buồn ngủ quá
+- tao buồn ngủ vãi
+- tui buồn ngủ quá
+- tui buồn ngủ vãi
+- tôi buồn ngủ quá
+- tôi buồn ngủ vãi
+- tớ buồn ngủ quá
+- tớ buồn ngủ vãi
+
+## intent:feel_tired
+- anh không khỏe
+- anh không được khỏe
+- anh ko khỏe
+- bọn tao không khỏe
+- bọn tao không được khỏe
+- mệt mỏi quá
+- mệt mỏi vãi
+- mệt quá
+- mệt vãi
+- anh mệt mỏi quá
+- anh mệt mỏi vãi
+- anh mệt quá
+- anh mệt vãi
+- bọn tao ko khỏe
+- bọn tao mệt mỏi quá
+- bọn tao mệt mỏi vãi
+- bọn tao mệt quá
+- bọn tao mệt vãi
+- chị không khỏe
+- chị không được khỏe
+- chị ko khỏe
+- chị mệt mỏi quá
+- chị mệt mỏi vãi
+- chị mệt quá
+- chị mệt vãi
+- em không khỏe
+- em không được khỏe
+- em ko khỏe
+- em mệt mỏi quá
+- em mệt mỏi vãi
+- em mệt quá
+- em mệt vãi
+- không khỏe
+- không được khỏe
+- ko khỏe
+- mình không khỏe
+- mình không được khỏe
+- mình ko khỏe
+- mình mệt mỏi quá
+- mình mệt mỏi vãi
+- mình mệt quá
+- mình mệt vãi
+- t không khỏe
+- t không được khỏe
+- t ko khỏe
+- t mệt mỏi quá
+- t mệt mỏi vãi
+- t mệt quá
+- t mệt vãi
+- tao không khỏe
+- tao không được khỏe
+- tao ko khỏe
+- tao mệt mỏi quá
+- tao mệt mỏi vãi
+- tao mệt quá
+- tao mệt vãi
+- tui không khỏe
+- tui không được khỏe
+- tui ko khỏe
+- tui mệt mỏi quá
+- tui mệt mỏi vãi
+- tui mệt quá
+- tui mệt vãi
+- tôi không khỏe
+- tôi không được khỏe
+- tôi ko khỏe
+- tôi mệt mỏi quá
+- tôi mệt mỏi vãi
+- tôi mệt quá
+- tôi mệt vãi
+- tớ không khỏe
+- tớ không được khỏe
+- tớ ko khỏe
+- tớ mệt mỏi quá
+- tớ mệt mỏi vãi
+- tớ mệt quá
+- tớ mệt vãi
+
+## intent:greeting
+- alo
+- alo a
+- alo anh
+- alo bạn
+- alo cậu
+- alo e
+- alo em
+- alo mày
+- alo ô
+- alo ông
+- alo đại ca
+- alo đồng chí
+- chao xìn
+- chao xìn a
+- chao xìn anh
+- chao xìn bạn
+- chao xìn cậu
+- chao xìn e
+- chao xìn em
+- chao xìn mày
+- chao xìn ô
+- chao xìn ông
+- chao xìn đại ca
+- chao xìn đồng chí
+- chào
+- chào a
+- chào anh
+- chào buổi chiều
+- chào buổi chiều a
+- chào buổi chiều anh
+- chào buổi chiều bạn
+- chào buổi chiều cậu
+- chào buổi chiều e
+- chào buổi chiều em
+- chào buổi chiều mày
+- chào buổi chiều ô
+- chào buổi chiều ông
+- chào buổi chiều đại ca
+- chào buổi chiều đồng chí
+- chào buổi sáng
+- chào buổi sáng a
+- chào buổi sáng anh
+- chào buổi sáng bạn
+- chào buổi sáng cậu
+- chào buổi sáng e
+- chào buổi sáng em
+- chào buổi sáng mày
+- chào buổi sáng ô
+- chào buổi sáng ông
+- chào buổi sáng đại ca
+- chào buổi sáng đồng chí
+- chào buổi trưa
+- chào buổi trưa a
+- chào buổi trưa anh
+- chào buổi trưa bạn
+- chào buổi trưa cậu
+- chào buổi trưa e
+- chào buổi trưa em
+- chào buổi trưa mày
+- chào buổi trưa ô
+- chào buổi trưa ông
+- chào buổi trưa đại ca
+- chào buổi trưa đồng chí
+- chào buổi tối
+- chào buổi tối a
+- chào buổi tối anh
+- chào buổi tối bạn
+- chào buổi tối cậu
+- chào buổi tối e
+- chào buổi tối em
+- chào buổi tối mày
+- chào buổi tối ô
+- chào buổi tối ông
+- chào buổi tối đại ca
+- chào buổi tối đồng chí
+- chào bạn
+- chào cậu
+- chào e
+- chào em
+- chào mày
+- chào ô
+- chào ông
+- chào đại ca
+- chào đồng chí
+- good afternoon
+- good afternoon a
+- good afternoon anh
+- good afternoon bạn
+- good afternoon cậu
+- good afternoon e
+- good afternoon em
+- good afternoon mày
+- good afternoon ô
+- good afternoon ông
+- good afternoon đại ca
+- good afternoon đồng chí
+- good evening
+- good evening a
+- good evening anh
+- good evening bạn
+- good evening cậu
+- good evening e
+- good evening em
+- good evening mày
+- good evening ô
+- good evening ông
+- good evening đại ca
+- good evening đồng chí
+- good morning
+- good morning a
+- good morning anh
+- good morning bạn
+- good morning cậu
+- good morning e
+- good morning em
+- good morning mày
+- good morning ô
+- good morning ông
+- good morning đại ca
+- good morning đồng chí
+- hello
+- hello a
+- hello anh
+- hello bạn
+- hello cậu
+- hello e
+- hello em
+- hello mày
+- hello ô
+- hello ông
+- hello đại ca
+- hello đồng chí
+- hey
+- hey a
+- hey anh
+- hey bạn
+- hey cậu
+- hey e
+- hey em
+- hey mày
+- hey ô
+- hey ông
+- hey đại ca
+- hey đồng chí
+- hi
+- hi a
+- hi anh
+- hi bạn
+- hi cậu
+- hi e
+- hi em
+- hi mày
+- hi ô
+- hi ông
+- hi đại ca
+- hi đồng chí
+- ngày mới tốt lành
+- ngày mới tốt lành a
+- ngày mới tốt lành anh
+- ngày mới tốt lành bạn
+- ngày mới tốt lành cậu
+- ngày mới tốt lành e
+- ngày mới tốt lành em
+- ngày mới tốt lành mày
+- ngày mới tốt lành ô
+- ngày mới tốt lành ông
+- ngày mới tốt lành đại ca
+- ngày mới tốt lành đồng chí
+- này
+- này a
+- này anh
+- này bạn
+- này cậu
+- này e
+- này em
+- này mày
+- này ô
+- này ông
+- này đại ca
+- này đồng chí
+- xin chào
+- xin chào a
+- xin chào anh
+- xin chào bạn
+- xin chào cậu
+- xin chào e
+- xin chào em
+- xin chào mày
+- xin chào ô
+- xin chào ông
+- xin chào đại ca
+- xin chào đồng chí
+- ê
+- ê a
+- ê anh
+- ê bạn
+- ê cậu
+- ê e
+- ê em
+- ê mày
+- ê ô
+- ê ông
+- ê đại ca
+- ê đồng chí
+
+## intent:say_love
+- mến
+- mến a
+- mến anh
+- mến bạn
+- mến cậu
+- mến e
+- mến em
+- mến mày
+- mến ô
+- mến ông
+- mến đại ca
+- mến đồng chí
+- thích
+- thích a
+- thích anh
+- thích bạn
+- thích cậu
+- thích e
+- thích em
+- thích mày
+- thích ô
+- thích ông
+- thích đại ca
+- thích đồng chí
+- thương
+- thương a
+- thương anh
+- thương bạn
+- thương cậu
+- thương e
+- thương em
+- thương mày
+- thương ô
+- thương ông
+- thương đại ca
+- thương đồng chí
+- yêu
+- yêu a
+- yêu anh
+- yêu bạn
+- yêu cậu
+- yêu e
+- yêu em
+- yêu mày
+- yêu ô
+- yêu ông
+- yêu đại ca
+- yêu đồng chí
+- anh mến
+- anh mến a
+- anh mến anh
+- anh mến bạn
+- anh mến cậu
+- anh mến e
+- anh mến em
+- anh mến mày
+- anh mến ô
+- anh mến ông
+- anh mến đại ca
+- anh mến đồng chí
+- anh thích
+- anh thích a
+- anh thích anh
+- anh thích bạn
+- anh thích cậu
+- anh thích e
+- anh thích em
+- anh thích mày
+- anh thích ô
+- anh thích ông
+- anh thích đại ca
+- anh thích đồng chí
+- anh thương
+- anh thương a
+- anh thương anh
+- anh thương bạn
+- anh thương cậu
+- anh thương e
+- anh thương em
+- anh thương mày
+- anh thương ô
+- anh thương ông
+- anh thương đại ca
+- anh thương đồng chí
+- anh yêu
+- anh yêu a
+- anh yêu anh
+- anh yêu bạn
+- anh yêu cậu
+- anh yêu e
+- anh yêu em
+- anh yêu mày
+- anh yêu ô
+- anh yêu ông
+- anh yêu đại ca
+- anh yêu đồng chí
+- bọn tao mến
+- bọn tao mến a
+- bọn tao mến anh
+- bọn tao mến bạn
+- bọn tao mến cậu
+- bọn tao mến e
+- bọn tao mến em
+- bọn tao mến mày
+- bọn tao mến ô
+- bọn tao mến ông
+- bọn tao mến đại ca
+- bọn tao mến đồng chí
+- bọn tao thích
+- bọn tao thích a
+- bọn tao thích anh
+- bọn tao thích bạn
+- bọn tao thích cậu
+- bọn tao thích e
+- bọn tao thích em
+- bọn tao thích mày
+- bọn tao thích ô
+- bọn tao thích ông
+- bọn tao thích đại ca
+- bọn tao thích đồng chí
+- bọn tao thương
+- bọn tao thương a
+- bọn tao thương anh
+- bọn tao thương bạn
+- bọn tao thương cậu
+- bọn tao thương e
+- bọn tao thương em
+- bọn tao thương mày
+- bọn tao thương ô
+- bọn tao thương ông
+- bọn tao thương đại ca
+- bọn tao thương đồng chí
+- bọn tao yêu
+- bọn tao yêu a
+- bọn tao yêu anh
+- bọn tao yêu bạn
+- bọn tao yêu cậu
+- bọn tao yêu e
+- bọn tao yêu em
+- bọn tao yêu mày
+- bọn tao yêu ô
+- bọn tao yêu ông
+- bọn tao yêu đại ca
+- bọn tao yêu đồng chí
+- chị mến
+- chị mến a
+- chị mến anh
+- chị mến bạn
+- chị mến cậu
+- chị mến e
+- chị mến em
+- chị mến mày
+- chị mến ô
+- chị mến ông
+- chị mến đại ca
+- chị mến đồng chí
+- chị thích
+- chị thích a
+- chị thích anh
+- chị thích bạn
+- chị thích cậu
+- chị thích e
+- chị thích em
+- chị thích mày
+- chị thích ô
+- chị thích ông
+- chị thích đại ca
+- chị thích đồng chí
+- chị thương
+- chị thương a
+- chị thương anh
+- chị thương bạn
+- chị thương cậu
+- chị thương e
+- chị thương em
+- chị thương mày
+- chị thương ô
+- chị thương ông
+- chị thương đại ca
+- chị thương đồng chí
+- chị yêu
+- chị yêu a
+- chị yêu anh
+- chị yêu bạn
+- chị yêu cậu
+- chị yêu e
+- chị yêu em
+- chị yêu mày
+- chị yêu ô
+- chị yêu ông
+- chị yêu đại ca
+- chị yêu đồng chí
+- em mến
+- em mến a
+- em mến anh
+- em mến bạn
+- em mến cậu
+- em mến e
+- em mến em
+- em mến mày
+- em mến ô
+- em mến ông
+- em mến đại ca
+- em mến đồng chí
+- em thích
+- em thích a
+- em thích anh
+- em thích bạn
+- em thích cậu
+- em thích e
+- em thích em
+- em thích mày
+- em thích ô
+- em thích ông
+- em thích đại ca
+- em thích đồng chí
+- em thương
+- em thương a
+- em thương anh
+- em thương bạn
+- em thương cậu
+- em thương e
+- em thương em
+- em thương mày
+- em thương ô
+- em thương ông
+- em thương đại ca
+- em thương đồng chí
+- em yêu
+- em yêu a
+- em yêu anh
+- em yêu bạn
+- em yêu cậu
+- em yêu e
+- em yêu em
+- em yêu mày
+- em yêu ô
+- em yêu ông
+- em yêu đại ca
+- em yêu đồng chí
+- mình mến
+- mình mến a
+- mình mến anh
+- mình mến bạn
+- mình mến cậu
+- mình mến e
+- mình mến em
+- mình mến mày
+- mình mến ô
+- mình mến ông
+- mình mến đại ca
+- mình mến đồng chí
+- mình thích
+- mình thích a
+- mình thích anh
+- mình thích bạn
+- mình thích cậu
+- mình thích e
+- mình thích em
+- mình thích mày
+- mình thích ô
+- mình thích ông
+- mình thích đại ca
+- mình thích đồng chí
+- mình thương
+- mình thương a
+- mình thương anh
+- mình thương bạn
+- mình thương cậu
+- mình thương e
+- mình thương em
+- mình thương mày
+- mình thương ô
+- mình thương ông
+- mình thương đại ca
+- mình thương đồng chí
+- mình yêu
+- mình yêu a
+- mình yêu anh
+- mình yêu bạn
+- mình yêu cậu
+- mình yêu e
+- mình yêu em
+- mình yêu mày
+- mình yêu ô
+- mình yêu ông
+- mình yêu đại ca
+- mình yêu đồng chí
+- t mến
+- t mến a
+- t mến anh
+- t mến bạn
+- t mến cậu
+- t mến e
+- t mến em
+- t mến mày
+- t mến ô
+- t mến ông
+- t mến đại ca
+- t mến đồng chí
+- t thích
+- t thích a
+- t thích anh
+- t thích bạn
+- t thích cậu
+- t thích e
+- t thích em
+- t thích mày
+- t thích ô
+- t thích ông
+- t thích đại ca
+- t thích đồng chí
+- t thương
+- t thương a
+- t thương anh
+- t thương bạn
+- t thương cậu
+- t thương e
+- t thương em
+- t thương mày
+- t thương ô
+- t thương ông
+- t thương đại ca
+- t thương đồng chí
+- t yêu
+- t yêu a
+- t yêu anh
+- t yêu bạn
+- t yêu cậu
+- t yêu e
+- t yêu em
+- t yêu mày
+- t yêu ô
+- t yêu ông
+- t yêu đại ca
+- t yêu đồng chí
+- tao mến
+- tao mến a
+- tao mến anh
+- tao mến bạn
+- tao mến cậu
+- tao mến e
+- tao mến em
+- tao mến mày
+- tao mến ô
+- tao mến ông
+- tao mến đại ca
+- tao mến đồng chí
+- tao thích
+- tao thích a
+- tao thích anh
+- tao thích bạn
+- tao thích cậu
+- tao thích e
+- tao thích em
+- tao thích mày
+- tao thích ô
+- tao thích ông
+- tao thích đại ca
+- tao thích đồng chí
+- tao thương
+- tao thương a
+- tao thương anh
+- tao thương bạn
+- tao thương cậu
+- tao thương e
+- tao thương em
+- tao thương mày
+- tao thương ô
+- tao thương ông
+- tao thương đại ca
+- tao thương đồng chí
+- tao yêu
+- tao yêu a
+- tao yêu anh
+- tao yêu bạn
+- tao yêu cậu
+- tao yêu e
+- tao yêu em
+- tao yêu mày
+- tao yêu ô
+- tao yêu ông
+- tao yêu đại ca
+- tao yêu đồng chí
+- tui mến
+- tui mến a
+- tui mến anh
+- tui mến bạn
+- tui mến cậu
+- tui mến e
+- tui mến em
+- tui mến mày
+- tui mến ô
+- tui mến ông
+- tui mến đại ca
+- tui mến đồng chí
+- tui thích
+- tui thích a
+- tui thích anh
+- tui thích bạn
+- tui thích cậu
+- tui thích e
+- tui thích em
+- tui thích mày
+- tui thích ô
+- tui thích ông
+- tui thích đại ca
+- tui thích đồng chí
+- tui thương
+- tui thương a
+- tui thương anh
+- tui thương bạn
+- tui thương cậu
+- tui thương e
+- tui thương em
+- tui thương mày
+- tui thương ô
+- tui thương ông
+- tui thương đại ca
+- tui thương đồng chí
+- tui yêu
+- tui yêu a
+- tui yêu anh
+- tui yêu bạn
+- tui yêu cậu
+- tui yêu e
+- tui yêu em
+- tui yêu mày
+- tui yêu ô
+- tui yêu ông
+- tui yêu đại ca
+- tui yêu đồng chí
+- tôi mến
+- tôi mến a
+- tôi mến anh
+- tôi mến bạn
+- tôi mến cậu
+- tôi mến e
+- tôi mến em
+- tôi mến mày
+- tôi mến ô
+- tôi mến ông
+- tôi mến đại ca
+- tôi mến đồng chí
+- tôi thích
+- tôi thích a
+- tôi thích anh
+- tôi thích bạn
+- tôi thích cậu
+- tôi thích e
+- tôi thích em
+- tôi thích mày
+- tôi thích ô
+- tôi thích ông
+- tôi thích đại ca
+- tôi thích đồng chí
+- tôi thương
+- tôi thương a
+- tôi thương anh
+- tôi thương bạn
+- tôi thương cậu
+- tôi thương e
+- tôi thương em
+- tôi thương mày
+- tôi thương ô
+- tôi thương ông
+- tôi thương đại ca
+- tôi thương đồng chí
+- tôi yêu
+- tôi yêu a
+- tôi yêu anh
+- tôi yêu bạn
+- tôi yêu cậu
+- tôi yêu e
+- tôi yêu em
+- tôi yêu mày
+- tôi yêu ô
+- tôi yêu ông
+- tôi yêu đại ca
+- tôi yêu đồng chí
+- tớ mến
+- tớ mến a
+- tớ mến anh
+- tớ mến bạn
+- tớ mến cậu
+- tớ mến e
+- tớ mến em
+- tớ mến mày
+- tớ mến ô
+- tớ mến ông
+- tớ mến đại ca
+- tớ mến đồng chí
+- tớ thích
+- tớ thích a
+- tớ thích anh
+- tớ thích bạn
+- tớ thích cậu
+- tớ thích e
+- tớ thích em
+- tớ thích mày
+- tớ thích ô
+- tớ thích ông
+- tớ thích đại ca
+- tớ thích đồng chí
+- tớ thương
+- tớ thương a
+- tớ thương anh
+- tớ thương bạn
+- tớ thương cậu
+- tớ thương e
+- tớ thương em
+- tớ thương mày
+- tớ thương ô
+- tớ thương ông
+- tớ thương đại ca
+- tớ thương đồng chí
+- tớ yêu
+- tớ yêu a
+- tớ yêu anh
+- tớ yêu bạn
+- tớ yêu cậu
+- tớ yêu e
+- tớ yêu em
+- tớ yêu mày
+- tớ yêu ô
+- tớ yêu ông
+- tớ yêu đại ca
+- tớ yêu đồng chí
+
+## intent:thanks
+- cám ơn
+- cám ơn a
+- cám ơn anh
+- cám ơn bạn
+- cám ơn cậu
+- cám ơn e
+- cám ơn em
+- cám ơn mày
+- cám ơn ô
+- cám ơn ông
+- cám ơn đại ca
+- cám ơn đồng chí
+- cảm ơn
+- cảm ơn a
+- cảm ơn anh
+- cảm ơn bạn
+- cảm ơn cậu
+- cảm ơn e
+- cảm ơn em
+- cảm ơn mày
+- cảm ơn nhiều
+- cảm ơn nhiều a
+- cảm ơn nhiều anh
+- cảm ơn nhiều bạn
+- cảm ơn nhiều cậu
+- cảm ơn nhiều e
+- cảm ơn nhiều em
+- cảm ơn nhiều mày
+- cảm ơn nhiều ô
+- cảm ơn nhiều ông
+- cảm ơn nhiều đại ca
+- cảm ơn nhiều đồng chí
+- cảm ơn ô
+- cảm ơn ông
+- cảm ơn đại ca
+- cảm ơn đồng chí
+- thank you
+- thank you a
+- thank you anh
+- thank you bạn
+- thank you cậu
+- thank you e
+- thank you em
+- thank you mày
+- thank you very much
+- thank you very much a
+- thank you very much anh
+- thank you very much bạn
+- thank you very much cậu
+- thank you very much e
+- thank you very much em
+- thank you very much mày
+- thank you very much ô
+- thank you very much ông
+- thank you very much đại ca
+- thank you very much đồng chí
+- thank you ô
+- thank you ông
+- thank you đại ca
+- thank you đồng chí
+- thanks
+- thanks a
+- thanks anh
+- thanks bạn
+- thanks cậu
+- thanks e
+- thanks em
+- thanks mày
+- thanks ô
+- thanks ông
+- thanks đại ca
+- thanks đồng chí
+
+## intent:ask_date
+- hôm nay là ngày bao nhiêu
+- hôm nay là ngày bao nhiêu nhỉ
+- hôm nay là ngày bao nhiêu rồi
+- hôm nay là ngày bao nhiêu thế
+- hôm nay là ngày bao nhiêu vậy
+- hôm nay là ngày gì
+- hôm nay là ngày gì nhỉ
+- hôm nay là ngày gì rồi
+- hôm nay là ngày gì thế
+- hôm nay là ngày gì vậy
+- hôm nay là ngày mấy
+- hôm nay là ngày mấy nhỉ
+- hôm nay là ngày mấy rồi
+- hôm nay là ngày mấy thế
+- hôm nay là ngày mấy vậy
+- hôm nay là ngày nào
+- hôm nay là ngày nào nhỉ
+- hôm nay là ngày nào rồi
+- hôm nay là ngày nào thế
+- hôm nay là ngày nào vậy
+- hôm nay ngày bao nhiêu
+- hôm nay ngày bao nhiêu nhỉ
+- hôm nay ngày bao nhiêu rồi
+- hôm nay ngày bao nhiêu thế
+- hôm nay ngày bao nhiêu vậy
+- hôm nay ngày gì
+- hôm nay ngày gì nhỉ
+- hôm nay ngày gì rồi
+- hôm nay ngày gì thế
+- hôm nay ngày gì vậy
+- hôm nay ngày mấy
+- hôm nay ngày mấy nhỉ
+- hôm nay ngày mấy rồi
+- hôm nay ngày mấy thế
+- hôm nay ngày mấy vậy
+- hôm nay ngày nào
+- hôm nay ngày nào nhỉ
+- hôm nay ngày nào rồi
+- hôm nay ngày nào thế
+- hôm nay ngày nào vậy
+- ngày bao nhiêu
+- ngày bao nhiêu nhỉ
+- ngày bao nhiêu rồi
+- ngày bao nhiêu thế
+- ngày bao nhiêu vậy
+- ngày gì
+- ngày gì nhỉ
+- ngày gì rồi
+- ngày gì thế
+- ngày gì vậy
+- ngày mấy
+- ngày mấy nhỉ
+- ngày mấy rồi
+- ngày mấy thế
+- ngày mấy vậy
+- ngày nào
+- ngày nào nhỉ
+- ngày nào rồi
+- ngày nào thế
+- ngày nào vậy
+
+## intent:ask_day
+- bây giờ là thứ mấy
+- bây giờ là thứ mấy nhỉ
+- bây giờ là thứ mấy rồi
+- bây giờ là thứ mấy thế
+- bây giờ là thứ mấy vậy
+- bây giờ thứ mấy
+- bây giờ thứ mấy nhỉ
+- bây giờ thứ mấy rồi
+- bây giờ thứ mấy thế
+- bây giờ thứ mấy vậy
+- hiện tại là thứ mấy
+- hiện tại là thứ mấy nhỉ
+- hiện tại là thứ mấy rồi
+- hiện tại là thứ mấy thế
+- hiện tại là thứ mấy vậy
+- hiện tại thứ mấy
+- hiện tại thứ mấy nhỉ
+- hiện tại thứ mấy rồi
+- hiện tại thứ mấy thế
+- hiện tại thứ mấy vậy
+- hôm nay là thứ mấy
+- hôm nay là thứ mấy nhỉ
+- hôm nay là thứ mấy rồi
+- hôm nay là thứ mấy thế
+- hôm nay là thứ mấy vậy
+- hôm nay thứ mấy
+- hôm nay thứ mấy nhỉ
+- hôm nay thứ mấy rồi
+- hôm nay thứ mấy thế
+- hôm nay thứ mấy vậy
+- thứ mấy
+- thứ mấy nhỉ
+- thứ mấy rồi
+- thứ mấy thế
+- thứ mấy vậy
+
+## intent:ask_month
+- bây giờ là tháng bao nhiêu
+- bây giờ là tháng bao nhiêu nhỉ
+- bây giờ là tháng bao nhiêu rồi
+- bây giờ là tháng bao nhiêu thế
+- bây giờ là tháng bao nhiêu vậy
+- bây giờ là tháng gì
+- bây giờ là tháng gì nhỉ
+- bây giờ là tháng gì rồi
+- bây giờ là tháng gì thế
+- bây giờ là tháng gì vậy
+- bây giờ là tháng mấy
+- bây giờ là tháng mấy nhỉ
+- bây giờ là tháng mấy rồi
+- bây giờ là tháng mấy thế
+- bây giờ là tháng mấy vậy
+- bây giờ là tháng nào
+- bây giờ là tháng nào nhỉ
+- bây giờ là tháng nào rồi
+- bây giờ là tháng nào thế
+- bây giờ là tháng nào vậy
+- bây giờ tháng bao nhiêu
+- bây giờ tháng bao nhiêu nhỉ
+- bây giờ tháng bao nhiêu rồi
+- bây giờ tháng bao nhiêu thế
+- bây giờ tháng bao nhiêu vậy
+- bây giờ tháng gì
+- bây giờ tháng gì nhỉ
+- bây giờ tháng gì rồi
+- bây giờ tháng gì thế
+- bây giờ tháng gì vậy
+- bây giờ tháng mấy
+- bây giờ tháng mấy nhỉ
+- bây giờ tháng mấy rồi
+- bây giờ tháng mấy thế
+- bây giờ tháng mấy vậy
+- bây giờ tháng nào
+- bây giờ tháng nào nhỉ
+- bây giờ tháng nào rồi
+- bây giờ tháng nào thế
+- bây giờ tháng nào vậy
+- hiện tại là tháng bao nhiêu
+- hiện tại là tháng bao nhiêu nhỉ
+- hiện tại là tháng bao nhiêu rồi
+- hiện tại là tháng bao nhiêu thế
+- hiện tại là tháng bao nhiêu vậy
+- hiện tại là tháng gì
+- hiện tại là tháng gì nhỉ
+- hiện tại là tháng gì rồi
+- hiện tại là tháng gì thế
+- hiện tại là tháng gì vậy
+- hiện tại là tháng mấy
+- hiện tại là tháng mấy nhỉ
+- hiện tại là tháng mấy rồi
+- hiện tại là tháng mấy thế
+- hiện tại là tháng mấy vậy
+- hiện tại là tháng nào
+- hiện tại là tháng nào nhỉ
+- hiện tại là tháng nào rồi
+- hiện tại là tháng nào thế
+- hiện tại là tháng nào vậy
+- hiện tại tháng bao nhiêu
+- hiện tại tháng bao nhiêu nhỉ
+- hiện tại tháng bao nhiêu rồi
+- hiện tại tháng bao nhiêu thế
+- hiện tại tháng bao nhiêu vậy
+- hiện tại tháng gì
+- hiện tại tháng gì nhỉ
+- hiện tại tháng gì rồi
+- hiện tại tháng gì thế
+- hiện tại tháng gì vậy
+- hiện tại tháng mấy
+- hiện tại tháng mấy nhỉ
+- hiện tại tháng mấy rồi
+- hiện tại tháng mấy thế
+- hiện tại tháng mấy vậy
+- hiện tại tháng nào
+- hiện tại tháng nào nhỉ
+- hiện tại tháng nào rồi
+- hiện tại tháng nào thế
+- hiện tại tháng nào vậy
+- hôm nay là tháng bao nhiêu
+- hôm nay là tháng bao nhiêu nhỉ
+- hôm nay là tháng bao nhiêu rồi
+- hôm nay là tháng bao nhiêu thế
+- hôm nay là tháng bao nhiêu vậy
+- hôm nay là tháng gì
+- hôm nay là tháng gì nhỉ
+- hôm nay là tháng gì rồi
+- hôm nay là tháng gì thế
+- hôm nay là tháng gì vậy
+- hôm nay là tháng mấy
+- hôm nay là tháng mấy nhỉ
+- hôm nay là tháng mấy rồi
+- hôm nay là tháng mấy thế
+- hôm nay là tháng mấy vậy
+- hôm nay là tháng nào
+- hôm nay là tháng nào nhỉ
+- hôm nay là tháng nào rồi
+- hôm nay là tháng nào thế
+- hôm nay là tháng nào vậy
+- hôm nay tháng bao nhiêu
+- hôm nay tháng bao nhiêu nhỉ
+- hôm nay tháng bao nhiêu rồi
+- hôm nay tháng bao nhiêu thế
+- hôm nay tháng bao nhiêu vậy
+- hôm nay tháng gì
+- hôm nay tháng gì nhỉ
+- hôm nay tháng gì rồi
+- hôm nay tháng gì thế
+- hôm nay tháng gì vậy
+- hôm nay tháng mấy
+- hôm nay tháng mấy nhỉ
+- hôm nay tháng mấy rồi
+- hôm nay tháng mấy thế
+- hôm nay tháng mấy vậy
+- hôm nay tháng nào
+- hôm nay tháng nào nhỉ
+- hôm nay tháng nào rồi
+- hôm nay tháng nào thế
+- hôm nay tháng nào vậy
+- tháng bao nhiêu
+- tháng bao nhiêu nhỉ
+- tháng bao nhiêu rồi
+- tháng bao nhiêu thế
+- tháng bao nhiêu vậy
+- tháng gì
+- tháng gì nhỉ
+- tháng gì rồi
+- tháng gì thế
+- tháng gì vậy
+- tháng mấy
+- tháng mấy nhỉ
+- tháng mấy rồi
+- tháng mấy thế
+- tháng mấy vậy
+- tháng nào
+- tháng nào nhỉ
+- tháng nào rồi
+- tháng nào thế
+- tháng nào vậy
+- tháng này là tháng bao nhiêu
+- tháng này là tháng bao nhiêu nhỉ
+- tháng này là tháng bao nhiêu rồi
+- tháng này là tháng bao nhiêu thế
+- tháng này là tháng bao nhiêu vậy
+- tháng này là tháng gì
+- tháng này là tháng gì nhỉ
+- tháng này là tháng gì rồi
+- tháng này là tháng gì thế
+- tháng này là tháng gì vậy
+- tháng này là tháng mấy
+- tháng này là tháng mấy nhỉ
+- tháng này là tháng mấy rồi
+- tháng này là tháng mấy thế
+- tháng này là tháng mấy vậy
+- tháng này là tháng nào
+- tháng này là tháng nào nhỉ
+- tháng này là tháng nào rồi
+- tháng này là tháng nào thế
+- tháng này là tháng nào vậy
+- tháng này tháng bao nhiêu
+- tháng này tháng bao nhiêu nhỉ
+- tháng này tháng bao nhiêu rồi
+- tháng này tháng bao nhiêu thế
+- tháng này tháng bao nhiêu vậy
+- tháng này tháng gì
+- tháng này tháng gì nhỉ
+- tháng này tháng gì rồi
+- tháng này tháng gì thế
+- tháng này tháng gì vậy
+- tháng này tháng mấy
+- tháng này tháng mấy nhỉ
+- tháng này tháng mấy rồi
+- tháng này tháng mấy thế
+- tháng này tháng mấy vậy
+- tháng này tháng nào
+- tháng này tháng nào nhỉ
+- tháng này tháng nào rồi
+- tháng này tháng nào thế
+- tháng này tháng nào vậy
+
+## intent:ask_time
+- bao nhiêu giờ
+- bao nhiêu giờ nhỉ
+- bao nhiêu giờ rồi
+- bao nhiêu giờ thế
+- bao nhiêu giờ vậy
+- bây giờ là mấy giờ
+- bây giờ là mấy giờ nhỉ
+- bây giờ là mấy giờ rồi
+- bây giờ là mấy giờ thế
+- bây giờ là mấy giờ vậy
+- bây giờ mấy giờ
+- bây giờ mấy giờ nhỉ
+- bây giờ mấy giờ rồi
+- bây giờ mấy giờ thế
+- bây giờ mấy giờ vậy
+- giờ này mấy giờ
+- giờ này mấy giờ nhỉ
+- giờ này mấy giờ rồi
+- giờ này mấy giờ thế
+- giờ này mấy giờ vậy
+- hiện tại là mấy giờ
+- hiện tại là mấy giờ nhỉ
+- hiện tại là mấy giờ rồi
+- hiện tại là mấy giờ thế
+- hiện tại là mấy giờ vậy
+- hiện tại mấy giờ
+- hiện tại mấy giờ nhỉ
+- hiện tại mấy giờ rồi
+- hiện tại mấy giờ thế
+- hiện tại mấy giờ vậy
+- lúc này là mấy giờ
+- lúc này là mấy giờ nhỉ
+- lúc này là mấy giờ rồi
+- lúc này là mấy giờ thế
+- lúc này là mấy giờ vậy
+- lúc này mấy giờ
+- lúc này mấy giờ nhỉ
+- lúc này mấy giờ rồi
+- lúc này mấy giờ thế
+- lúc này mấy giờ vậy
+- mấy giờ
+- mấy giờ nhỉ
+- mấy giờ rồi
+- mấy giờ thế
+- mấy giờ vậy
+- thời gian
+- thời gian nhỉ
+- thời gian rồi
+- thời gian thế
+- thời gian vậy
+- what time is it
+- what time is it nhỉ
+- what time is it rồi
+- what time is it thế
+- what time is it vậy
+- đồng hồ
+- đồng hồ nhỉ
+- đồng hồ rồi
+- đồng hồ thế
+- đồng hồ vậy
+
+## intent:ask_weather
+- [hôm nay](time) có mưa không
+- [hôm nay](time) có nắng không
+- [hôm nay](time) thời tiết thế nào
+- [kia](time) có mưa không
+- [kia](time) có nắng không
+- [kia](time) thời tiết thế nào
+- [mai](time) có mưa không
+- [mai](time) có nắng không
+- [mai](time) thời tiết thế nào
+- [nay](time) có mưa không
+- [nay](time) có nắng không
+- [nay](time) thời tiết thế nào
+- [ngày kia](time) có mưa không
+- [ngày kia](time) có nắng không
+- [ngày kia](time) thời tiết thế nào
+- [ngày mai](time) có mưa không
+- [ngày mai](time) có nắng không
+- [ngày mai](time) thời tiết thế nào
+- thời tiết [hôm nay](time) thế nào
+- thời tiết [kia](time) thế nào
+- thời tiết [mai](time) thế nào
+- thời tiết [nay](time) thế nào
+- thời tiết [ngày kia](time) thế nào
+- thời tiết [ngày mai](time) thế nào
+- thời tiết [tuần sau](time) thế nào
+- thời tiết [tuần tới](time) thế nào
+- [tuần sau](time) có mưa không
+- [tuần sau](time) có nắng không
+- [tuần sau](time) thời tiết thế nào
+- [tuần tới](time) có mưa không
+- [tuần tới](time) có nắng không
+- [tuần tới](time) thời tiết thế nào
+
+## intent:ask_year
+- bây giờ là năm bao nhiêu
+- bây giờ là năm bao nhiêu nhỉ
+- bây giờ là năm bao nhiêu rồi
+- bây giờ là năm bao nhiêu thế
+- bây giờ là năm bao nhiêu vậy
+- bây giờ là năm gì
+- bây giờ là năm gì nhỉ
+- bây giờ là năm gì rồi
+- bây giờ là năm gì thế
+- bây giờ là năm gì vậy
+- bây giờ là năm mấy
+- bây giờ là năm mấy nhỉ
+- bây giờ là năm mấy rồi
+- bây giờ là năm mấy thế
+- bây giờ là năm mấy vậy
+- bây giờ là năm nào
+- bây giờ là năm nào nhỉ
+- bây giờ là năm nào rồi
+- bây giờ là năm nào thế
+- bây giờ là năm nào vậy
+- bây giờ năm bao nhiêu
+- bây giờ năm bao nhiêu nhỉ
+- bây giờ năm bao nhiêu rồi
+- bây giờ năm bao nhiêu thế
+- bây giờ năm bao nhiêu vậy
+- bây giờ năm gì
+- bây giờ năm gì nhỉ
+- bây giờ năm gì rồi
+- bây giờ năm gì thế
+- bây giờ năm gì vậy
+- bây giờ năm mấy
+- bây giờ năm mấy nhỉ
+- bây giờ năm mấy rồi
+- bây giờ năm mấy thế
+- bây giờ năm mấy vậy
+- bây giờ năm nào
+- bây giờ năm nào nhỉ
+- bây giờ năm nào rồi
+- bây giờ năm nào thế
+- bây giờ năm nào vậy
+- hiện tại là năm bao nhiêu
+- hiện tại là năm bao nhiêu nhỉ
+- hiện tại là năm bao nhiêu rồi
+- hiện tại là năm bao nhiêu thế
+- hiện tại là năm bao nhiêu vậy
+- hiện tại là năm gì
+- hiện tại là năm gì nhỉ
+- hiện tại là năm gì rồi
+- hiện tại là năm gì thế
+- hiện tại là năm gì vậy
+- hiện tại là năm mấy
+- hiện tại là năm mấy nhỉ
+- hiện tại là năm mấy rồi
+- hiện tại là năm mấy thế
+- hiện tại là năm mấy vậy
+- hiện tại là năm nào
+- hiện tại là năm nào nhỉ
+- hiện tại là năm nào rồi
+- hiện tại là năm nào thế
+- hiện tại là năm nào vậy
+- hiện tại năm bao nhiêu
+- hiện tại năm bao nhiêu nhỉ
+- hiện tại năm bao nhiêu rồi
+- hiện tại năm bao nhiêu thế
+- hiện tại năm bao nhiêu vậy
+- hiện tại năm gì
+- hiện tại năm gì nhỉ
+- hiện tại năm gì rồi
+- hiện tại năm gì thế
+- hiện tại năm gì vậy
+- hiện tại năm mấy
+- hiện tại năm mấy nhỉ
+- hiện tại năm mấy rồi
+- hiện tại năm mấy thế
+- hiện tại năm mấy vậy
+- hiện tại năm nào
+- hiện tại năm nào nhỉ
+- hiện tại năm nào rồi
+- hiện tại năm nào thế
+- hiện tại năm nào vậy
+- năm bao nhiêu
+- năm bao nhiêu nhỉ
+- năm bao nhiêu rồi
+- năm bao nhiêu thế
+- năm bao nhiêu vậy
+- năm gì
+- năm gì nhỉ
+- năm gì rồi
+- năm gì thế
+- năm gì vậy
+- năm mấy
+- năm mấy nhỉ
+- năm mấy rồi
+- năm mấy thế
+- năm mấy vậy
+- năm nay là năm bao nhiêu
+- năm nay là năm bao nhiêu nhỉ
+- năm nay là năm bao nhiêu rồi
+- năm nay là năm bao nhiêu thế
+- năm nay là năm bao nhiêu vậy
+- năm nay là năm gì
+- năm nay là năm gì nhỉ
+- năm nay là năm gì rồi
+- năm nay là năm gì thế
+- năm nay là năm gì vậy
+- năm nay là năm mấy
+- năm nay là năm mấy nhỉ
+- năm nay là năm mấy rồi
+- năm nay là năm mấy thế
+- năm nay là năm mấy vậy
+- năm nay là năm nào
+- năm nay là năm nào nhỉ
+- năm nay là năm nào rồi
+- năm nay là năm nào thế
+- năm nay là năm nào vậy
+- năm nay năm bao nhiêu
+- năm nay năm bao nhiêu nhỉ
+- năm nay năm bao nhiêu rồi
+- năm nay năm bao nhiêu thế
+- năm nay năm bao nhiêu vậy
+- năm nay năm gì
+- năm nay năm gì nhỉ
+- năm nay năm gì rồi
+- năm nay năm gì thế
+- năm nay năm gì vậy
+- năm nay năm mấy
+- năm nay năm mấy nhỉ
+- năm nay năm mấy rồi
+- năm nay năm mấy thế
+- năm nay năm mấy vậy
+- năm nay năm nào
+- năm nay năm nào nhỉ
+- năm nay năm nào rồi
+- năm nay năm nào thế
+- năm nay năm nào vậy
+- năm nào
+- năm nào nhỉ
+- năm nào rồi
+- năm nào thế
+- năm nào vậy
+- năm này là năm bao nhiêu
+- năm này là năm bao nhiêu nhỉ
+- năm này là năm bao nhiêu rồi
+- năm này là năm bao nhiêu thế
+- năm này là năm bao nhiêu vậy
+- năm này là năm gì
+- năm này là năm gì nhỉ
+- năm này là năm gì rồi
+- năm này là năm gì thế
+- năm này là năm gì vậy
+- năm này là năm mấy
+- năm này là năm mấy nhỉ
+- năm này là năm mấy rồi
+- năm này là năm mấy thế
+- năm này là năm mấy vậy
+- năm này là năm nào
+- năm này là năm nào nhỉ
+- năm này là năm nào rồi
+- năm này là năm nào thế
+- năm này là năm nào vậy
+- năm này năm bao nhiêu
+- năm này năm bao nhiêu nhỉ
+- năm này năm bao nhiêu rồi
+- năm này năm bao nhiêu thế
+- năm này năm bao nhiêu vậy
+- năm này năm gì
+- năm này năm gì nhỉ
+- năm này năm gì rồi
+- năm này năm gì thế
+- năm này năm gì vậy
+- năm này năm mấy
+- năm này năm mấy nhỉ
+- năm này năm mấy rồi
+- năm này năm mấy thế
+- năm này năm mấy vậy
+- năm này năm nào
+- năm này năm nào nhỉ
+- năm này năm nào rồi
+- năm này năm nào thế
+- năm này năm nào vậy
+
+## intent:go_screen
+- Mở [2048](game)
+- Mở [bi đá](game)
+- Mở [bi đá trên băng](game)
+- Mở [bắn tăng](game)
+- Mở [chính](screen)
+- Mở [cuộc chiến giữa các vị thần](game)
+- Mở [cờ tỷ phú](game)
+- Mở [cửa hàng](screen)
+- Mở game [2048](game)
+- Mở game [bi đá](game)
+- Mở game [bi đá trên băng](game)
+- Mở game [bắn tăng](game)
+- Mở game [cuộc chiến giữa các vị thần](game)
+- Mở game [cờ tỷ phú](game)
+- Mở game [khám phá ai cập](game)
+- Mở game [thẻ tướng](game)
+- Mở game [thủy chiến](game)
+- Mở game [tăng đại chiến](game)
+- Mở game [xếp hình](game)
+- Mở giúp tôi game [2048](game)
+- Mở giúp tôi game [bi đá](game)
+- Mở giúp tôi game [bi đá trên băng](game)
+- Mở giúp tôi game [bắn tăng](game)
+- Mở giúp tôi game [cuộc chiến giữa các vị thần](game)
+- Mở giúp tôi game [cờ tỷ phú](game)
+- Mở giúp tôi game [khám phá ai cập](game)
+- Mở giúp tôi game [thẻ tướng](game)
+- Mở giúp tôi game [thủy chiến](game)
+- Mở giúp tôi game [tăng đại chiến](game)
+- Mở giúp tôi game [xếp hình](game)
+- Mở giúp tôi màn hình [chính](screen)
+- Mở giúp tôi màn hình [cửa hàng](screen)
+- Mở giúp tôi màn hình [hồ sơ](screen)
+- Mở giúp tôi màn hình [lobby](screen)
+- Mở giúp tôi màn hình [profile](screen)
+- Mở giúp tôi màn hình [setting](screen)
+- Mở giúp tôi màn hình [shop](screen)
+- Mở giúp tôi màn hình [thiết lập](screen)
+- Mở giúp tôi trò chơi [2048](game)
+- Mở giúp tôi trò chơi [bi đá](game)
+- Mở giúp tôi trò chơi [bi đá trên băng](game)
+- Mở giúp tôi trò chơi [bắn tăng](game)
+- Mở giúp tôi trò chơi [cuộc chiến giữa các vị thần](game)
+- Mở giúp tôi trò chơi [cờ tỷ phú](game)
+- Mở giúp tôi trò chơi [khám phá ai cập](game)
+- Mở giúp tôi trò chơi [thẻ tướng](game)
+- Mở giúp tôi trò chơi [thủy chiến](game)
+- Mở giúp tôi trò chơi [tăng đại chiến](game)
+- Mở giúp tôi trò chơi [xếp hình](game)
+- Mở [hồ sơ](screen)
+- Mở [khám phá ai cập](game)
+- Mở [lobby](screen)
+- Mở màn hình [chính](screen)
+- Mở màn hình [cửa hàng](screen)
+- Mở màn hình [hồ sơ](screen)
+- Mở màn hình [lobby](screen)
+- Mở màn hình [profile](screen)
+- Mở màn hình [setting](screen)
+- Mở màn hình [shop](screen)
+- Mở màn hình [thiết lập](screen)
+- Mở [profile](screen)
+- Mở [setting](screen)
+- Mở [shop](screen)
+- Mở [thiết lập](screen)
+- Mở [thẻ tướng](game)
+- Mở [thủy chiến](game)
+- Mở trò chơi [2048](game)
+- Mở trò chơi [bi đá](game)
+- Mở trò chơi [bi đá trên băng](game)
+- Mở trò chơi [bắn tăng](game)
+- Mở trò chơi [cuộc chiến giữa các vị thần](game)
+- Mở trò chơi [cờ tỷ phú](game)
+- Mở trò chơi [khám phá ai cập](game)
+- Mở trò chơi [thẻ tướng](game)
+- Mở trò chơi [thủy chiến](game)
+- Mở trò chơi [tăng đại chiến](game)
+- Mở trò chơi [xếp hình](game)
+- Mở [tăng đại chiến](game)
+- Mở [xếp hình](game)
+
+## intent:faq_useful
+- công dụng của [thẻ VIP](item)
+- công dụng của [thẻ thường](item)
+- công dụng của [ticket VIP](item)
+- công dụng của [ticket thường](item)
+- công dụng của [vé VIP](item)
+- công dụng của [vé thường](item)
+- [thẻ VIP](item) làm gì
+- [thẻ VIP](item) để làm gì
+- [thẻ thường](item) làm gì
+- [thẻ thường](item) để làm gì
+- [ticket VIP](item) làm gì
+- [ticket VIP](item) để làm gì
+- [ticket thường](item) làm gì
+- [ticket thường](item) để làm gì
+- tác dụng của [thẻ VIP](item)
+- tác dụng của [thẻ thường](item)
+- tác dụng của [ticket VIP](item)
+- tác dụng của [ticket thường](item)
+- tác dụng của [vé VIP](item)
+- tác dụng của [vé thường](item)
+- [vé VIP](item) làm gì
+- [vé VIP](item) để làm gì
+- [vé thường](item) làm gì
+- [vé thường](item) để làm gì
+
+## intent:faq_how
+- các cách để nhận [thẻ VIP](item)
+- các cách để nhận [thẻ thường](item)
+- các cách để nhận [ticket VIP](item)
+- các cách để nhận [ticket thường](item)
+- các cách để nhận [vé VIP](item)
+- các cách để nhận [vé thường](item)
+- làm thế nào để nhận [thẻ VIP](item)
+- làm thế nào để nhận [thẻ thường](item)
+- làm thế nào để nhận [ticket VIP](item)
+- làm thế nào để nhận [ticket thường](item)
+- làm thế nào để nhận [vé VIP](item)
+- làm thế nào để nhận [vé thường](item)
+- làm thế nào để tăng [thẻ VIP](item)
+- làm thế nào để tăng [thẻ thường](item)
+- làm thế nào để tăng [ticket VIP](item)
+- làm thế nào để tăng [ticket thường](item)
+- làm thế nào để tăng [vé VIP](item)
+- làm thế nào để tăng [vé thường](item)
+- nhân [thẻ VIP](item) như thế nào
+- nhân [thẻ thường](item) như thế nào
+- nhân [ticket VIP](item) như thế nào
+- nhân [ticket thường](item) như thế nào
+- nhân [vé VIP](item) như thế nào
+- nhân [vé thường](item) như thế nào
+
+## intent:faq_game_number
+- Bao nhiêu game
+- Bao nhiêu trò chơi
+- Có bao nhiêu game
+- Có bao nhiêu trò chơi
+- Có game gì
+- Có những game gì
+- Có những trò chơi gì
+- Có trò chơi gì
+- Nhiều game không
+- Nhiều trò chơi không
+- có game gì
+- có trò chơi gì
+- a có game gì
+- a có nhiều game không
+- a có nhiều trò chơi không
+- a có trò chơi gì
+- anh có game gì
+- anh có nhiều game không
+- anh có nhiều trò chơi không
+- anh có trò chơi gì
+- bạn có game gì
+- bạn có nhiều game không
+- bạn có nhiều trò chơi không
+- bạn có trò chơi gì
+- có nhiều game không
+- có nhiều trò chơi không
+- cậu có game gì
+- cậu có nhiều game không
+- cậu có nhiều trò chơi không
+- cậu có trò chơi gì
+- e có game gì
+- e có nhiều game không
+- e có nhiều trò chơi không
+- e có trò chơi gì
+- em có game gì
+- em có nhiều game không
+- em có nhiều trò chơi không
+- em có trò chơi gì
+- mày có game gì
+- mày có nhiều game không
+- mày có nhiều trò chơi không
+- mày có trò chơi gì
+- ô có game gì
+- ô có nhiều game không
+- ô có nhiều trò chơi không
+- ô có trò chơi gì
+- ông có game gì
+- ông có nhiều game không
+- ông có nhiều trò chơi không
+- ông có trò chơi gì
+- đại ca có game gì
+- đại ca có nhiều game không
+- đại ca có nhiều trò chơi không
+- đại ca có trò chơi gì
+- đồng chí có game gì
+- đồng chí có nhiều game không
+- đồng chí có nhiều trò chơi không
+- đồng chí có trò chơi gì
+
+## intent:ask_age
+- bao nhiêu tuổi
+- bao nhiêu tuổi nhỉ
+- bao nhiêu tuổi rồi
+- bao nhiêu tuổi thế
+- bao nhiêu tuổi vậy
+- mấy tuổi
+- mấy tuổi nhỉ
+- mấy tuổi rồi
+- mấy tuổi thế
+- mấy tuổi vậy
+- a bao nhiêu tuổi
+- a bao nhiêu tuổi nhỉ
+- a bao nhiêu tuổi rồi
+- a bao nhiêu tuổi thế
+- a bao nhiêu tuổi vậy
+- a mấy tuổi
+- a mấy tuổi nhỉ
+- a mấy tuổi rồi
+- a mấy tuổi thế
+- a mấy tuổi vậy
+- anh bao nhiêu tuổi
+- anh bao nhiêu tuổi nhỉ
+- anh bao nhiêu tuổi rồi
+- anh bao nhiêu tuổi thế
+- anh bao nhiêu tuổi vậy
+- anh mấy tuổi
+- anh mấy tuổi nhỉ
+- anh mấy tuổi rồi
+- anh mấy tuổi thế
+- anh mấy tuổi vậy
+- bạn bao nhiêu tuổi
+- bạn bao nhiêu tuổi nhỉ
+- bạn bao nhiêu tuổi rồi
+- bạn bao nhiêu tuổi thế
+- bạn bao nhiêu tuổi vậy
+- bạn mấy tuổi
+- bạn mấy tuổi nhỉ
+- bạn mấy tuổi rồi
+- bạn mấy tuổi thế
+- bạn mấy tuổi vậy
+- cậu bao nhiêu tuổi
+- cậu bao nhiêu tuổi nhỉ
+- cậu bao nhiêu tuổi rồi
+- cậu bao nhiêu tuổi thế
+- cậu bao nhiêu tuổi vậy
+- cậu mấy tuổi
+- cậu mấy tuổi nhỉ
+- cậu mấy tuổi rồi
+- cậu mấy tuổi thế
+- cậu mấy tuổi vậy
+- e bao nhiêu tuổi
+- e bao nhiêu tuổi nhỉ
+- e bao nhiêu tuổi rồi
+- e bao nhiêu tuổi thế
+- e bao nhiêu tuổi vậy
+- e mấy tuổi
+- e mấy tuổi nhỉ
+- e mấy tuổi rồi
+- e mấy tuổi thế
+- e mấy tuổi vậy
+- em bao nhiêu tuổi
+- em bao nhiêu tuổi nhỉ
+- em bao nhiêu tuổi rồi
+- em bao nhiêu tuổi thế
+- em bao nhiêu tuổi vậy
+- em mấy tuổi
+- em mấy tuổi nhỉ
+- em mấy tuổi rồi
+- em mấy tuổi thế
+- em mấy tuổi vậy
+- mày bao nhiêu tuổi
+- mày bao nhiêu tuổi nhỉ
+- mày bao nhiêu tuổi rồi
+- mày bao nhiêu tuổi thế
+- mày bao nhiêu tuổi vậy
+- mày mấy tuổi
+- mày mấy tuổi nhỉ
+- mày mấy tuổi rồi
+- mày mấy tuổi thế
+- mày mấy tuổi vậy
+- ô bao nhiêu tuổi
+- ô bao nhiêu tuổi nhỉ
+- ô bao nhiêu tuổi rồi
+- ô bao nhiêu tuổi thế
+- ô bao nhiêu tuổi vậy
+- ô mấy tuổi
+- ô mấy tuổi nhỉ
+- ô mấy tuổi rồi
+- ô mấy tuổi thế
+- ô mấy tuổi vậy
+- ông bao nhiêu tuổi
+- ông bao nhiêu tuổi nhỉ
+- ông bao nhiêu tuổi rồi
+- ông bao nhiêu tuổi thế
+- ông bao nhiêu tuổi vậy
+- ông mấy tuổi
+- ông mấy tuổi nhỉ
+- ông mấy tuổi rồi
+- ông mấy tuổi thế
+- ông mấy tuổi vậy
+- đại ca bao nhiêu tuổi
+- đại ca bao nhiêu tuổi nhỉ
+- đại ca bao nhiêu tuổi rồi
+- đại ca bao nhiêu tuổi thế
+- đại ca bao nhiêu tuổi vậy
+- đại ca mấy tuổi
+- đại ca mấy tuổi nhỉ
+- đại ca mấy tuổi rồi
+- đại ca mấy tuổi thế
+- đại ca mấy tuổi vậy
+- đồng chí bao nhiêu tuổi
+- đồng chí bao nhiêu tuổi nhỉ
+- đồng chí bao nhiêu tuổi rồi
+- đồng chí bao nhiêu tuổi thế
+- đồng chí bao nhiêu tuổi vậy
+- đồng chí mấy tuổi
+- đồng chí mấy tuổi nhỉ
+- đồng chí mấy tuổi rồi
+- đồng chí mấy tuổi thế
+- đồng chí mấy tuổi vậy
+
+## intent:ask_attributes
+- a béo hay gầy
+- a cân nặng bao nhiêu
+- cao bao nhiêu
+- a cao bao nhiêu
+- a nặng bao nhiêu
+- anh béo hay gầy
+- anh cao bao nhiêu
+- anh cân nặng bao nhiêu
+- anh nặng bao nhiêu
+- béo hay gầy
+- bạn béo hay gầy
+- bạn cao bao nhiêu
+- bạn cân nặng bao nhiêu
+- bạn nặng bao nhiêu
+- cân nặng bao nhiêu
+- cậu béo hay gầy
+- cậu cao bao nhiêu
+- cậu cân nặng bao nhiêu
+- cậu nặng bao nhiêu
+- e béo hay gầy
+- e cao bao nhiêu
+- e cân nặng bao nhiêu
+- e nặng bao nhiêu
+- em béo hay gầy
+- em cao bao nhiêu
+- em cân nặng bao nhiêu
+- em nặng bao nhiêu
+- mày béo hay gầy
+- mày cao bao nhiêu
+- mày cân nặng bao nhiêu
+- mày nặng bao nhiêu
+- nặng bao nhiêu
+- ô béo hay gầy
+- ô cao bao nhiêu
+- ô cân nặng bao nhiêu
+- ô nặng bao nhiêu
+- ông béo hay gầy
+- ông cao bao nhiêu
+- ông cân nặng bao nhiêu
+- ông nặng bao nhiêu
+- đại ca béo hay gầy
+- đại ca cao bao nhiêu
+- đại ca cân nặng bao nhiêu
+- đại ca nặng bao nhiêu
+- đồng chí béo hay gầy
+- đồng chí cao bao nhiêu
+- đồng chí cân nặng bao nhiêu
+- đồng chí nặng bao nhiêu
+- đủ 16 tuổi chưa
+- đủ 16 tuổi chưa a
+- đủ 16 tuổi chưa anh
+- đủ 16 tuổi chưa bạn
+- đủ 16 tuổi chưa cậu
+- đủ 16 tuổi chưa e
+- đủ 16 tuổi chưa em
+- đủ 16 tuổi chưa mày
+- đủ 16 tuổi chưa ô
+- đủ 16 tuổi chưa ông
+- đủ 16 tuổi chưa đại ca
+- đủ 16 tuổi chưa đồng chí
+- đủ 16t chưa
+- đủ 16t chưa a
+- đủ 16t chưa anh
+- đủ 16t chưa bạn
+- đủ 16t chưa cậu
+- đủ 16t chưa e
+- đủ 16t chưa em
+- đủ 16t chưa mày
+- đủ 16t chưa ô
+- đủ 16t chưa ông
+- đủ 16t chưa đại ca
+- đủ 16t chưa đồng chí
+- đủ 18 tuổi chưa
+- đủ 18 tuổi chưa a
+- đủ 18 tuổi chưa anh
+- đủ 18 tuổi chưa bạn
+- đủ 18 tuổi chưa cậu
+- đủ 18 tuổi chưa e
+- đủ 18 tuổi chưa em
+- đủ 18 tuổi chưa mày
+- đủ 18 tuổi chưa ô
+- đủ 18 tuổi chưa ông
+- đủ 18 tuổi chưa đại ca
+- đủ 18 tuổi chưa đồng chí
+- đủ 18t chưa
+- đủ 18t chưa a
+- đủ 18t chưa anh
+- đủ 18t chưa bạn
+- đủ 18t chưa cậu
+- đủ 18t chưa e
+- đủ 18t chưa em
+- đủ 18t chưa mày
+- đủ 18t chưa ô
+- đủ 18t chưa ông
+- đủ 18t chưa đại ca
+- đủ 18t chưa đồng chí
+
+## intent:ask_birthday
+- sinh ngày bao nhiêu
+- a sinh ngày bao nhiêu
+- a sinh năm bao nhiêu
+- a sinh tháng mấy
+- anh sinh ngày bao nhiêu
+- anh sinh năm bao nhiêu
+- anh sinh tháng mấy
+- bạn sinh ngày bao nhiêu
+- bạn sinh năm bao nhiêu
+- bạn sinh tháng mấy
+- cậu sinh ngày bao nhiêu
+- cậu sinh năm bao nhiêu
+- cậu sinh tháng mấy
+- e sinh ngày bao nhiêu
+- e sinh năm bao nhiêu
+- e sinh tháng mấy
+- em sinh ngày bao nhiêu
+- em sinh năm bao nhiêu
+- em sinh tháng mấy
+- mày sinh ngày bao nhiêu
+- mày sinh năm bao nhiêu
+- mày sinh tháng mấy
+- ngày sinh của a bao nhiêu
+- ngày sinh của anh bao nhiêu
+- ngày sinh của bạn bao nhiêu
+- ngày sinh của cậu bao nhiêu
+- ngày sinh của e bao nhiêu
+- ngày sinh của em bao nhiêu
+- ngày sinh của mày bao nhiêu
+- ngày sinh của ô bao nhiêu
+- ngày sinh của ông bao nhiêu
+- ngày sinh của đại ca bao nhiêu
+- ngày sinh của đồng chí bao nhiêu
+- sinh nhật của a bao nhiêu
+- sinh nhật của anh bao nhiêu
+- sinh nhật của bạn bao nhiêu
+- sinh nhật của cậu bao nhiêu
+- sinh nhật của e bao nhiêu
+- sinh nhật của em bao nhiêu
+- sinh nhật của mày bao nhiêu
+- sinh nhật của ô bao nhiêu
+- sinh nhật của ông bao nhiêu
+- sinh nhật của đại ca bao nhiêu
+- sinh nhật của đồng chí bao nhiêu
+- sinh năm bao nhiêu
+- sinh tháng mấy
+- ô sinh ngày bao nhiêu
+- ô sinh năm bao nhiêu
+- ô sinh tháng mấy
+- ông sinh ngày bao nhiêu
+- ông sinh năm bao nhiêu
+- ông sinh tháng mấy
+- đại ca sinh ngày bao nhiêu
+- đại ca sinh năm bao nhiêu
+- đại ca sinh tháng mấy
+- đồng chí sinh ngày bao nhiêu
+- đồng chí sinh năm bao nhiêu
+- đồng chí sinh tháng mấy
+
+## intent:ask_born_place
+- a chỗ nào tới
+- a chỗ nào đến
+- a nơi nào tới
+- a nơi nào đến
+- sinh ra chỗ nào
+- sinh ra nơi nào
+- sinh ra từ chỗ nào
+- sinh ra từ nơi nào
+- sinh ra từ đâu
+- sinh ra ở chỗ nào
+- sinh ra ở nơi nào
+- sinh ra ở đâu
+- a sinh ra chỗ nào
+- a sinh ra nơi nào
+- a sinh ra từ chỗ nào
+- a sinh ra từ nơi nào
+- a sinh ra từ đâu
+- a sinh ra ở chỗ nào
+- a sinh ra ở nơi nào
+- a sinh ra ở đâu
+- a từ chỗ nào tới
+- a từ chỗ nào đến
+- a từ nơi nào tới
+- a từ nơi nào đến
+- a từ đâu tới
+- a từ đâu đến
+- a được làm ra chỗ nào
+- a được làm ra nơi nào
+- a được làm ra từ chỗ nào
+- a được làm ra từ nơi nào
+- a được làm ra từ đâu
+- a được làm ra ở chỗ nào
+- a được làm ra ở nơi nào
+- a được làm ra ở đâu
+- a được tạo ra chỗ nào
+- a được tạo ra nơi nào
+- a được tạo ra từ chỗ nào
+- a được tạo ra từ nơi nào
+- a được tạo ra từ đâu
+- a được tạo ra ở chỗ nào
+- a được tạo ra ở nơi nào
+- a được tạo ra ở đâu
+- a ở chỗ nào tới
+- a ở chỗ nào đến
+- a ở nơi nào tới
+- a ở nơi nào đến
+- a ở đâu tới
+- a ở đâu đến
+- anh chỗ nào tới
+- anh chỗ nào đến
+- anh nơi nào tới
+- anh nơi nào đến
+- anh sinh ra chỗ nào
+- anh sinh ra nơi nào
+- anh sinh ra từ chỗ nào
+- anh sinh ra từ nơi nào
+- anh sinh ra từ đâu
+- anh sinh ra ở chỗ nào
+- anh sinh ra ở nơi nào
+- anh sinh ra ở đâu
+- anh từ chỗ nào tới
+- anh từ chỗ nào đến
+- anh từ nơi nào tới
+- anh từ nơi nào đến
+- anh từ đâu tới
+- anh từ đâu đến
+- anh được làm ra chỗ nào
+- anh được làm ra nơi nào
+- anh được làm ra từ chỗ nào
+- anh được làm ra từ nơi nào
+- anh được làm ra từ đâu
+- anh được làm ra ở chỗ nào
+- anh được làm ra ở nơi nào
+- anh được làm ra ở đâu
+- anh được tạo ra chỗ nào
+- anh được tạo ra nơi nào
+- anh được tạo ra từ chỗ nào
+- anh được tạo ra từ nơi nào
+- anh được tạo ra từ đâu
+- anh được tạo ra ở chỗ nào
+- anh được tạo ra ở nơi nào
+- anh được tạo ra ở đâu
+- anh ở chỗ nào tới
+- anh ở chỗ nào đến
+- anh ở nơi nào tới
+- anh ở nơi nào đến
+- anh ở đâu tới
+- anh ở đâu đến
+- bạn chỗ nào tới
+- bạn chỗ nào đến
+- bạn nơi nào tới
+- bạn nơi nào đến
+- bạn sinh ra chỗ nào
+- bạn sinh ra nơi nào
+- bạn sinh ra từ chỗ nào
+- bạn sinh ra từ nơi nào
+- bạn sinh ra từ đâu
+- bạn sinh ra ở chỗ nào
+- bạn sinh ra ở nơi nào
+- bạn sinh ra ở đâu
+- bạn từ chỗ nào tới
+- bạn từ chỗ nào đến
+- bạn từ nơi nào tới
+- bạn từ nơi nào đến
+- bạn từ đâu tới
+- bạn từ đâu đến
+- bạn được làm ra chỗ nào
+- bạn được làm ra nơi nào
+- bạn được làm ra từ chỗ nào
+- bạn được làm ra từ nơi nào
+- bạn được làm ra từ đâu
+- bạn được làm ra ở chỗ nào
+- bạn được làm ra ở nơi nào
+- bạn được làm ra ở đâu
+- bạn được tạo ra chỗ nào
+- bạn được tạo ra nơi nào
+- bạn được tạo ra từ chỗ nào
+- bạn được tạo ra từ nơi nào
+- bạn được tạo ra từ đâu
+- bạn được tạo ra ở chỗ nào
+- bạn được tạo ra ở nơi nào
+- bạn được tạo ra ở đâu
+- bạn ở chỗ nào tới
+- bạn ở chỗ nào đến
+- bạn ở nơi nào tới
+- bạn ở nơi nào đến
+- bạn ở đâu tới
+- bạn ở đâu đến
+- chỗ nào tới
+- chỗ nào đến
+- cậu chỗ nào tới
+- cậu chỗ nào đến
+- cậu nơi nào tới
+- cậu nơi nào đến
+- cậu sinh ra chỗ nào
+- cậu sinh ra nơi nào
+- cậu sinh ra từ chỗ nào
+- cậu sinh ra từ nơi nào
+- cậu sinh ra từ đâu
+- cậu sinh ra ở chỗ nào
+- cậu sinh ra ở nơi nào
+- cậu sinh ra ở đâu
+- cậu từ chỗ nào tới
+- cậu từ chỗ nào đến
+- cậu từ nơi nào tới
+- cậu từ nơi nào đến
+- cậu từ đâu tới
+- cậu từ đâu đến
+- cậu được làm ra chỗ nào
+- cậu được làm ra nơi nào
+- cậu được làm ra từ chỗ nào
+- cậu được làm ra từ nơi nào
+- cậu được làm ra từ đâu
+- cậu được làm ra ở chỗ nào
+- cậu được làm ra ở nơi nào
+- cậu được làm ra ở đâu
+- cậu được tạo ra chỗ nào
+- cậu được tạo ra nơi nào
+- cậu được tạo ra từ chỗ nào
+- cậu được tạo ra từ nơi nào
+- cậu được tạo ra từ đâu
+- cậu được tạo ra ở chỗ nào
+- cậu được tạo ra ở nơi nào
+- cậu được tạo ra ở đâu
+- cậu ở chỗ nào tới
+- cậu ở chỗ nào đến
+- cậu ở nơi nào tới
+- cậu ở nơi nào đến
+- cậu ở đâu tới
+- cậu ở đâu đến
+- e chỗ nào tới
+- e chỗ nào đến
+- e nơi nào tới
+- e nơi nào đến
+- e sinh ra chỗ nào
+- e sinh ra nơi nào
+- e sinh ra từ chỗ nào
+- e sinh ra từ nơi nào
+- e sinh ra từ đâu
+- e sinh ra ở chỗ nào
+- e sinh ra ở nơi nào
+- e sinh ra ở đâu
+- e từ chỗ nào tới
+- e từ chỗ nào đến
+- e từ nơi nào tới
+- e từ nơi nào đến
+- e từ đâu tới
+- e từ đâu đến
+- e được làm ra chỗ nào
+- e được làm ra nơi nào
+- e được làm ra từ chỗ nào
+- e được làm ra từ nơi nào
+- e được làm ra từ đâu
+- e được làm ra ở chỗ nào
+- e được làm ra ở nơi nào
+- e được làm ra ở đâu
+- e được tạo ra chỗ nào
+- e được tạo ra nơi nào
+- e được tạo ra từ chỗ nào
+- e được tạo ra từ nơi nào
+- e được tạo ra từ đâu
+- e được tạo ra ở chỗ nào
+- e được tạo ra ở nơi nào
+- e được tạo ra ở đâu
+- e ở chỗ nào tới
+- e ở chỗ nào đến
+- e ở nơi nào tới
+- e ở nơi nào đến
+- e ở đâu tới
+- e ở đâu đến
+- em chỗ nào tới
+- em chỗ nào đến
+- em nơi nào tới
+- em nơi nào đến
+- em sinh ra chỗ nào
+- em sinh ra nơi nào
+- em sinh ra từ chỗ nào
+- em sinh ra từ nơi nào
+- em sinh ra từ đâu
+- em sinh ra ở chỗ nào
+- em sinh ra ở nơi nào
+- em sinh ra ở đâu
+- em từ chỗ nào tới
+- em từ chỗ nào đến
+- em từ nơi nào tới
+- em từ nơi nào đến
+- em từ đâu tới
+- em từ đâu đến
+- em được làm ra chỗ nào
+- em được làm ra nơi nào
+- em được làm ra từ chỗ nào
+- em được làm ra từ nơi nào
+- em được làm ra từ đâu
+- em được làm ra ở chỗ nào
+- em được làm ra ở nơi nào
+- em được làm ra ở đâu
+- em được tạo ra chỗ nào
+- em được tạo ra nơi nào
+- em được tạo ra từ chỗ nào
+- em được tạo ra từ nơi nào
+- em được tạo ra từ đâu
+- em được tạo ra ở chỗ nào
+- em được tạo ra ở nơi nào
+- em được tạo ra ở đâu
+- em ở chỗ nào tới
+- em ở chỗ nào đến
+- em ở nơi nào tới
+- em ở nơi nào đến
+- em ở đâu tới
+- em ở đâu đến
+- mày chỗ nào tới
+- mày chỗ nào đến
+- mày nơi nào tới
+- mày nơi nào đến
+- mày sinh ra chỗ nào
+- mày sinh ra nơi nào
+- mày sinh ra từ chỗ nào
+- mày sinh ra từ nơi nào
+- mày sinh ra từ đâu
+- mày sinh ra ở chỗ nào
+- mày sinh ra ở nơi nào
+- mày sinh ra ở đâu
+- mày từ chỗ nào tới
+- mày từ chỗ nào đến
+- mày từ nơi nào tới
+- mày từ nơi nào đến
+- mày từ đâu tới
+- mày từ đâu đến
+- mày được làm ra chỗ nào
+- mày được làm ra nơi nào
+- mày được làm ra từ chỗ nào
+- mày được làm ra từ nơi nào
+- mày được làm ra từ đâu
+- mày được làm ra ở chỗ nào
+- mày được làm ra ở nơi nào
+- mày được làm ra ở đâu
+- mày được tạo ra chỗ nào
+- mày được tạo ra nơi nào
+- mày được tạo ra từ chỗ nào
+- mày được tạo ra từ nơi nào
+- mày được tạo ra từ đâu
+- mày được tạo ra ở chỗ nào
+- mày được tạo ra ở nơi nào
+- mày được tạo ra ở đâu
+- mày ở chỗ nào tới
+- mày ở chỗ nào đến
+- mày ở nơi nào tới
+- mày ở nơi nào đến
+- mày ở đâu tới
+- mày ở đâu đến
+- nơi nào tới
+- nơi nào đến
+- quê a chỗ nào
+- quê a nơi nào
+- quê a từ chỗ nào
+- quê a từ nơi nào
+- quê a từ đâu
+- quê a ở chỗ nào
+- quê a ở nơi nào
+- quê a ở đâu
+- quê anh chỗ nào
+- quê anh nơi nào
+- quê anh từ chỗ nào
+- quê anh từ nơi nào
+- quê anh từ đâu
+- quê anh ở chỗ nào
+- quê anh ở nơi nào
+- quê anh ở đâu
+- quê bạn chỗ nào
+- quê bạn nơi nào
+- quê bạn từ chỗ nào
+- quê bạn từ nơi nào
+- quê bạn từ đâu
+- quê bạn ở chỗ nào
+- quê bạn ở nơi nào
+- quê bạn ở đâu
+- quê cậu chỗ nào
+- quê cậu nơi nào
+- quê cậu từ chỗ nào
+- quê cậu từ nơi nào
+- quê cậu từ đâu
+- quê cậu ở chỗ nào
+- quê cậu ở nơi nào
+- quê cậu ở đâu
+- quê của a chỗ nào
+- quê của a nơi nào
+- quê của a từ chỗ nào
+- quê của a từ nơi nào
+- quê của a từ đâu
+- quê của a ở chỗ nào
+- quê của a ở nơi nào
+- quê của a ở đâu
+- quê của anh chỗ nào
+- quê của anh nơi nào
+- quê của anh từ chỗ nào
+- quê của anh từ nơi nào
+- quê của anh từ đâu
+- quê của anh ở chỗ nào
+- quê của anh ở nơi nào
+- quê của anh ở đâu
+- quê của bạn chỗ nào
+- quê của bạn nơi nào
+- quê của bạn từ chỗ nào
+- quê của bạn từ nơi nào
+- quê của bạn từ đâu
+- quê của bạn ở chỗ nào
+- quê của bạn ở nơi nào
+- quê của bạn ở đâu
+- quê của chỗ nào
+- quê của cậu chỗ nào
+- quê của cậu nơi nào
+- quê của cậu từ chỗ nào
+- quê của cậu từ nơi nào
+- quê của cậu từ đâu
+- quê của cậu ở chỗ nào
+- quê của cậu ở nơi nào
+- quê của cậu ở đâu
+- quê của e chỗ nào
+- quê của e nơi nào
+- quê của e từ chỗ nào
+- quê của e từ nơi nào
+- quê của e từ đâu
+- quê của e ở chỗ nào
+- quê của e ở nơi nào
+- quê của e ở đâu
+- quê của em chỗ nào
+- quê của em nơi nào
+- quê của em từ chỗ nào
+- quê của em từ nơi nào
+- quê của em từ đâu
+- quê của em ở chỗ nào
+- quê của em ở nơi nào
+- quê của em ở đâu
+- quê của mày chỗ nào
+- quê của mày nơi nào
+- quê của mày từ chỗ nào
+- quê của mày từ nơi nào
+- quê của mày từ đâu
+- quê của mày ở chỗ nào
+- quê của mày ở nơi nào
+- quê của mày ở đâu
+- quê của nơi nào
+- quê của từ chỗ nào
+- quê của từ nơi nào
+- quê của từ đâu
+- quê của ô chỗ nào
+- quê của ô nơi nào
+- quê của ô từ chỗ nào
+- quê của ô từ nơi nào
+- quê của ô từ đâu
+- quê của ô ở chỗ nào
+- quê của ô ở nơi nào
+- quê của ô ở đâu
+- quê của ông chỗ nào
+- quê của ông nơi nào
+- quê của ông từ chỗ nào
+- quê của ông từ nơi nào
+- quê của ông từ đâu
+- quê của ông ở chỗ nào
+- quê của ông ở nơi nào
+- quê của ông ở đâu
+- quê của đại ca chỗ nào
+- quê của đại ca nơi nào
+- quê của đại ca từ chỗ nào
+- quê của đại ca từ nơi nào
+- quê của đại ca từ đâu
+- quê của đại ca ở chỗ nào
+- quê của đại ca ở nơi nào
+- quê của đại ca ở đâu
+- quê của đồng chí chỗ nào
+- quê của đồng chí nơi nào
+- quê của đồng chí từ chỗ nào
+- quê của đồng chí từ nơi nào
+- quê của đồng chí từ đâu
+- quê của đồng chí ở chỗ nào
+- quê của đồng chí ở nơi nào
+- quê của đồng chí ở đâu
+- quê của ở chỗ nào
+- quê của ở nơi nào
+- quê của ở đâu
+- quê e chỗ nào
+- quê e nơi nào
+- quê e từ chỗ nào
+- quê e từ nơi nào
+- quê e từ đâu
+- quê e ở chỗ nào
+- quê e ở nơi nào
+- quê e ở đâu
+- quê em chỗ nào
+- quê em nơi nào
+- quê em từ chỗ nào
+- quê em từ nơi nào
+- quê em từ đâu
+- quê em ở chỗ nào
+- quê em ở nơi nào
+- quê em ở đâu
+- quê mày chỗ nào
+- quê mày nơi nào
+- quê mày từ chỗ nào
+- quê mày từ nơi nào
+- quê mày từ đâu
+- quê mày ở chỗ nào
+- quê mày ở nơi nào
+- quê mày ở đâu
+- quê ô chỗ nào
+- quê ô nơi nào
+- quê ô từ chỗ nào
+- quê ô từ nơi nào
+- quê ô từ đâu
+- quê ô ở chỗ nào
+- quê ô ở nơi nào
+- quê ô ở đâu
+- quê ông chỗ nào
+- quê ông nơi nào
+- quê ông từ chỗ nào
+- quê ông từ nơi nào
+- quê ông từ đâu
+- quê ông ở chỗ nào
+- quê ông ở nơi nào
+- quê ông ở đâu
+- quê đại ca chỗ nào
+- quê đại ca nơi nào
+- quê đại ca từ chỗ nào
+- quê đại ca từ nơi nào
+- quê đại ca từ đâu
+- quê đại ca ở chỗ nào
+- quê đại ca ở nơi nào
+- quê đại ca ở đâu
+- quê đồng chí chỗ nào
+- quê đồng chí nơi nào
+- quê đồng chí từ chỗ nào
+- quê đồng chí từ nơi nào
+- quê đồng chí từ đâu
+- quê đồng chí ở chỗ nào
+- quê đồng chí ở nơi nào
+- quê đồng chí ở đâu
+- từ chỗ nào tới
+- từ chỗ nào đến
+- từ nơi nào tới
+- từ nơi nào đến
+- từ đâu tới
+- từ đâu đến
+- ô chỗ nào tới
+- ô chỗ nào đến
+- ô nơi nào tới
+- ô nơi nào đến
+- ô sinh ra chỗ nào
+- ô sinh ra nơi nào
+- ô sinh ra từ chỗ nào
+- ô sinh ra từ nơi nào
+- ô sinh ra từ đâu
+- ô sinh ra ở chỗ nào
+- ô sinh ra ở nơi nào
+- ô sinh ra ở đâu
+- ô từ chỗ nào tới
+- ô từ chỗ nào đến
+- ô từ nơi nào tới
+- ô từ nơi nào đến
+- ô từ đâu tới
+- ô từ đâu đến
+- ô được làm ra chỗ nào
+- ô được làm ra nơi nào
+- ô được làm ra từ chỗ nào
+- ô được làm ra từ nơi nào
+- ô được làm ra từ đâu
+- ô được làm ra ở chỗ nào
+- ô được làm ra ở nơi nào
+- ô được làm ra ở đâu
+- ô được tạo ra chỗ nào
+- ô được tạo ra nơi nào
+- ô được tạo ra từ chỗ nào
+- ô được tạo ra từ nơi nào
+- ô được tạo ra từ đâu
+- ô được tạo ra ở chỗ nào
+- ô được tạo ra ở nơi nào
+- ô được tạo ra ở đâu
+- ô ở chỗ nào tới
+- ô ở chỗ nào đến
+- ô ở nơi nào tới
+- ô ở nơi nào đến
+- ô ở đâu tới
+- ô ở đâu đến
+- ông chỗ nào tới
+- ông chỗ nào đến
+- ông nơi nào tới
+- ông nơi nào đến
+- ông sinh ra chỗ nào
+- ông sinh ra nơi nào
+- ông sinh ra từ chỗ nào
+- ông sinh ra từ nơi nào
+- ông sinh ra từ đâu
+- ông sinh ra ở chỗ nào
+- ông sinh ra ở nơi nào
+- ông sinh ra ở đâu
+- ông từ chỗ nào tới
+- ông từ chỗ nào đến
+- ông từ nơi nào tới
+- ông từ nơi nào đến
+- ông từ đâu tới
+- ông từ đâu đến
+- ông được làm ra chỗ nào
+- ông được làm ra nơi nào
+- ông được làm ra từ chỗ nào
+- ông được làm ra từ nơi nào
+- ông được làm ra từ đâu
+- ông được làm ra ở chỗ nào
+- ông được làm ra ở nơi nào
+- ông được làm ra ở đâu
+- ông được tạo ra chỗ nào
+- ông được tạo ra nơi nào
+- ông được tạo ra từ chỗ nào
+- ông được tạo ra từ nơi nào
+- ông được tạo ra từ đâu
+- ông được tạo ra ở chỗ nào
+- ông được tạo ra ở nơi nào
+- ông được tạo ra ở đâu
+- ông ở chỗ nào tới
+- ông ở chỗ nào đến
+- ông ở nơi nào tới
+- ông ở nơi nào đến
+- ông ở đâu tới
+- ông ở đâu đến
+- được làm ra chỗ nào
+- được làm ra nơi nào
+- được làm ra từ chỗ nào
+- được làm ra từ nơi nào
+- được làm ra từ đâu
+- được làm ra ở chỗ nào
+- được làm ra ở nơi nào
+- được làm ra ở đâu
+- được tạo ra chỗ nào
+- được tạo ra nơi nào
+- được tạo ra từ chỗ nào
+- được tạo ra từ nơi nào
+- được tạo ra từ đâu
+- được tạo ra ở chỗ nào
+- được tạo ra ở nơi nào
+- được tạo ra ở đâu
+- đại ca chỗ nào tới
+- đại ca chỗ nào đến
+- đại ca nơi nào tới
+- đại ca nơi nào đến
+- đại ca sinh ra chỗ nào
+- đại ca sinh ra nơi nào
+- đại ca sinh ra từ chỗ nào
+- đại ca sinh ra từ nơi nào
+- đại ca sinh ra từ đâu
+- đại ca sinh ra ở chỗ nào
+- đại ca sinh ra ở nơi nào
+- đại ca sinh ra ở đâu
+- đại ca từ chỗ nào tới
+- đại ca từ chỗ nào đến
+- đại ca từ nơi nào tới
+- đại ca từ nơi nào đến
+- đại ca từ đâu tới
+- đại ca từ đâu đến
+- đại ca được làm ra chỗ nào
+- đại ca được làm ra nơi nào
+- đại ca được làm ra từ chỗ nào
+- đại ca được làm ra từ nơi nào
+- đại ca được làm ra từ đâu
+- đại ca được làm ra ở chỗ nào
+- đại ca được làm ra ở nơi nào
+- đại ca được làm ra ở đâu
+- đại ca được tạo ra chỗ nào
+- đại ca được tạo ra nơi nào
+- đại ca được tạo ra từ chỗ nào
+- đại ca được tạo ra từ nơi nào
+- đại ca được tạo ra từ đâu
+- đại ca được tạo ra ở chỗ nào
+- đại ca được tạo ra ở nơi nào
+- đại ca được tạo ra ở đâu
+- đại ca ở chỗ nào tới
+- đại ca ở chỗ nào đến
+- đại ca ở nơi nào tới
+- đại ca ở nơi nào đến
+- đại ca ở đâu tới
+- đại ca ở đâu đến
+- đồng chí chỗ nào tới
+- đồng chí chỗ nào đến
+- đồng chí nơi nào tới
+- đồng chí nơi nào đến
+- đồng chí sinh ra chỗ nào
+- đồng chí sinh ra nơi nào
+- đồng chí sinh ra từ chỗ nào
+- đồng chí sinh ra từ nơi nào
+- đồng chí sinh ra từ đâu
+- đồng chí sinh ra ở chỗ nào
+- đồng chí sinh ra ở nơi nào
+- đồng chí sinh ra ở đâu
+- đồng chí từ chỗ nào tới
+- đồng chí từ chỗ nào đến
+- đồng chí từ nơi nào tới
+- đồng chí từ nơi nào đến
+- đồng chí từ đâu tới
+- đồng chí từ đâu đến
+- đồng chí được làm ra chỗ nào
+- đồng chí được làm ra nơi nào
+- đồng chí được làm ra từ chỗ nào
+- đồng chí được làm ra từ nơi nào
+- đồng chí được làm ra từ đâu
+- đồng chí được làm ra ở chỗ nào
+- đồng chí được làm ra ở nơi nào
+- đồng chí được làm ra ở đâu
+- đồng chí được tạo ra chỗ nào
+- đồng chí được tạo ra nơi nào
+- đồng chí được tạo ra từ chỗ nào
+- đồng chí được tạo ra từ nơi nào
+- đồng chí được tạo ra từ đâu
+- đồng chí được tạo ra ở chỗ nào
+- đồng chí được tạo ra ở nơi nào
+- đồng chí được tạo ra ở đâu
+- đồng chí ở chỗ nào tới
+- đồng chí ở chỗ nào đến
+- đồng chí ở nơi nào tới
+- đồng chí ở nơi nào đến
+- đồng chí ở đâu tới
+- đồng chí ở đâu đến
+- ở chỗ nào tới
+- ở chỗ nào đến
+- ở nơi nào tới
+- ở nơi nào đến
+- ở đâu tới
+- ở đâu đến
+
+## intent:ask_diet
+- a thích ăn gì
+- ăn gì
+- a ăn gì
+- anh thích ăn gì
+- anh ăn gì
+- bạn thích ăn gì
+- bạn ăn gì
+- cậu thích ăn gì
+- cậu ăn gì
+- e thích ăn gì
+- e ăn gì
+- em thích ăn gì
+- em ăn gì
+- mày thích ăn gì
+- mày ăn gì
+- thích ăn gì
+- ô thích ăn gì
+- ô ăn gì
+- ông thích ăn gì
+- ông ăn gì
+- đại ca thích ăn gì
+- đại ca ăn gì
+- đồng chí thích ăn gì
+- đồng chí ăn gì
+
+## intent:ask_dont_like
+- a không thích làm gì
+- không thích gì
+- a không thích gì
+- anh không thích gì
+- anh không thích làm gì
+- bạn không thích gì
+- bạn không thích làm gì
+- cậu không thích gì
+- cậu không thích làm gì
+- e không thích gì
+- e không thích làm gì
+- em không thích gì
+- em không thích làm gì
+- không thích làm gì
+- mày không thích gì
+- mày không thích làm gì
+- ô không thích gì
+- ô không thích làm gì
+- ông không thích gì
+- ông không thích làm gì
+- đại ca không thích gì
+- đại ca không thích làm gì
+- đồng chí không thích gì
+- đồng chí không thích làm gì
+
+## intent:ask_family
+- có anh chị em không
+- có anh chị không
+- có anh em không
+- có anh không
+- có ba không
+- có bố không
+- có gia đình không
+- có má không
+- có mẹ không
+- có người thân không
+- có vợ không
+- a có anh chị em không
+- a có anh chị không
+- a có anh em không
+- a có anh không
+- a có ba không
+- a có bố không
+- a có gia đình không
+- a có má không
+- a có mẹ không
+- a có người thân không
+- a có vợ không
+- ai là anh chị của a
+- ai là anh chị của anh
+- ai là anh chị của bạn
+- ai là anh chị của cậu
+- ai là anh chị của e
+- ai là anh chị của em
+- ai là anh chị của mày
+- ai là anh chị của ô
+- ai là anh chị của ông
+- ai là anh chị của đại ca
+- ai là anh chị của đồng chí
+- ai là anh chị em của a
+- ai là anh chị em của anh
+- ai là anh chị em của bạn
+- ai là anh chị em của cậu
+- ai là anh chị em của e
+- ai là anh chị em của em
+- ai là anh chị em của mày
+- ai là anh chị em của ô
+- ai là anh chị em của ông
+- ai là anh chị em của đại ca
+- ai là anh chị em của đồng chí
+- ai là anh của a
+- ai là anh của anh
+- ai là anh của bạn
+- ai là anh của cậu
+- ai là anh của e
+- ai là anh của em
+- ai là anh của mày
+- ai là anh của ô
+- ai là anh của ông
+- ai là anh của đại ca
+- ai là anh của đồng chí
+- ai là anh em của a
+- ai là anh em của anh
+- ai là anh em của bạn
+- ai là anh em của cậu
+- ai là anh em của e
+- ai là anh em của em
+- ai là anh em của mày
+- ai là anh em của ô
+- ai là anh em của ông
+- ai là anh em của đại ca
+- ai là anh em của đồng chí
+- ai là ba của a
+- ai là ba của anh
+- ai là ba của bạn
+- ai là ba của cậu
+- ai là ba của e
+- ai là ba của em
+- ai là ba của mày
+- ai là ba của ô
+- ai là ba của ông
+- ai là ba của đại ca
+- ai là ba của đồng chí
+- ai là bố của a
+- ai là bố của anh
+- ai là bố của bạn
+- ai là bố của cậu
+- ai là bố của e
+- ai là bố của em
+- ai là bố của mày
+- ai là bố của ô
+- ai là bố của ông
+- ai là bố của đại ca
+- ai là bố của đồng chí
+- ai là gia đình của a
+- ai là gia đình của anh
+- ai là gia đình của bạn
+- ai là gia đình của cậu
+- ai là gia đình của e
+- ai là gia đình của em
+- ai là gia đình của mày
+- ai là gia đình của ô
+- ai là gia đình của ông
+- ai là gia đình của đại ca
+- ai là gia đình của đồng chí
+- ai là má của a
+- ai là má của anh
+- ai là má của bạn
+- ai là má của cậu
+- ai là má của e
+- ai là má của em
+- ai là má của mày
+- ai là má của ô
+- ai là má của ông
+- ai là má của đại ca
+- ai là má của đồng chí
+- ai là mẹ của a
+- ai là mẹ của anh
+- ai là mẹ của bạn
+- ai là mẹ của cậu
+- ai là mẹ của e
+- ai là mẹ của em
+- ai là mẹ của mày
+- ai là mẹ của ô
+- ai là mẹ của ông
+- ai là mẹ của đại ca
+- ai là mẹ của đồng chí
+- ai là người thân của a
+- ai là người thân của anh
+- ai là người thân của bạn
+- ai là người thân của cậu
+- ai là người thân của e
+- ai là người thân của em
+- ai là người thân của mày
+- ai là người thân của ô
+- ai là người thân của ông
+- ai là người thân của đại ca
+- ai là người thân của đồng chí
+- ai là vợ của a
+- ai là vợ của anh
+- ai là vợ của bạn
+- ai là vợ của cậu
+- ai là vợ của e
+- ai là vợ của em
+- ai là vợ của mày
+- ai là vợ của ô
+- ai là vợ của ông
+- ai là vợ của đại ca
+- ai là vợ của đồng chí
+- anh a là ai
+- anh a tên gì
+- anh anh là ai
+- anh anh tên gì
+- anh bạn là ai
+- anh bạn tên gì
+- anh chị a là ai
+- anh chị a tên gì
+- anh chị anh là ai
+- anh chị anh tên gì
+- anh chị bạn là ai
+- anh chị bạn tên gì
+- anh chị cậu là ai
+- anh chị cậu tên gì
+- anh chị của a là ai
+- anh chị của a tên gì
+- anh chị của anh là ai
+- anh chị của anh tên gì
+- anh chị của bạn là ai
+- anh chị của bạn tên gì
+- anh chị của cậu là ai
+- anh chị của cậu tên gì
+- anh chị của e là ai
+- anh chị của e tên gì
+- anh chị của em là ai
+- anh chị của em tên gì
+- anh chị của mày là ai
+- anh chị của mày tên gì
+- anh chị của ô là ai
+- anh chị của ô tên gì
+- anh chị của ông là ai
+- anh chị của ông tên gì
+- anh chị của đại ca là ai
+- anh chị của đại ca tên gì
+- anh chị của đồng chí là ai
+- anh chị của đồng chí tên gì
+- anh chị e là ai
+- anh chị e tên gì
+- anh chị em a là ai
+- anh chị em a tên gì
+- anh chị em anh là ai
+- anh chị em anh tên gì
+- anh chị em bạn là ai
+- anh chị em bạn tên gì
+- anh chị em cậu là ai
+- anh chị em cậu tên gì
+- anh chị em của a là ai
+- anh chị em của a tên gì
+- anh chị em của anh là ai
+- anh chị em của anh tên gì
+- anh chị em của bạn là ai
+- anh chị em của bạn tên gì
+- anh chị em của cậu là ai
+- anh chị em của cậu tên gì
+- anh chị em của e là ai
+- anh chị em của e tên gì
+- anh chị em của em là ai
+- anh chị em của em tên gì
+- anh chị em của mày là ai
+- anh chị em của mày tên gì
+- anh chị em của ô là ai
+- anh chị em của ô tên gì
+- anh chị em của ông là ai
+- anh chị em của ông tên gì
+- anh chị em của đại ca là ai
+- anh chị em của đại ca tên gì
+- anh chị em của đồng chí là ai
+- anh chị em của đồng chí tên gì
+- anh chị em e là ai
+- anh chị em e tên gì
+- anh chị em em là ai
+- anh chị em em tên gì
+- anh chị em là ai
+- anh chị em mày là ai
+- anh chị em mày tên gì
+- anh chị em tên gì
+- anh chị em ô là ai
+- anh chị em ô tên gì
+- anh chị em ông là ai
+- anh chị em ông tên gì
+- anh chị em đại ca là ai
+- anh chị em đại ca tên gì
+- anh chị em đồng chí là ai
+- anh chị em đồng chí tên gì
+- anh chị mày là ai
+- anh chị mày tên gì
+- anh chị ô là ai
+- anh chị ô tên gì
+- anh chị ông là ai
+- anh chị ông tên gì
+- anh chị đại ca là ai
+- anh chị đại ca tên gì
+- anh chị đồng chí là ai
+- anh chị đồng chí tên gì
+- anh có anh chị em không
+- anh có anh chị không
+- anh có anh em không
+- anh có anh không
+- anh có ba không
+- anh có bố không
+- anh có gia đình không
+- anh có má không
+- anh có mẹ không
+- anh có người thân không
+- anh có vợ không
+- anh cậu là ai
+- anh cậu tên gì
+- anh của a là ai
+- anh của a tên gì
+- anh của anh là ai
+- anh của anh tên gì
+- anh của bạn là ai
+- anh của bạn tên gì
+- anh của cậu là ai
+- anh của cậu tên gì
+- anh của e là ai
+- anh của e tên gì
+- anh của em là ai
+- anh của em tên gì
+- anh của mày là ai
+- anh của mày tên gì
+- anh của ô là ai
+- anh của ô tên gì
+- anh của ông là ai
+- anh của ông tên gì
+- anh của đại ca là ai
+- anh của đại ca tên gì
+- anh của đồng chí là ai
+- anh của đồng chí tên gì
+- anh e là ai
+- anh e tên gì
+- anh em a là ai
+- anh em a tên gì
+- anh em anh là ai
+- anh em anh tên gì
+- anh em bạn là ai
+- anh em bạn tên gì
+- anh em cậu là ai
+- anh em cậu tên gì
+- anh em của a là ai
+- anh em của a tên gì
+- anh em của anh là ai
+- anh em của anh tên gì
+- anh em của bạn là ai
+- anh em của bạn tên gì
+- anh em của cậu là ai
+- anh em của cậu tên gì
+- anh em của e là ai
+- anh em của e tên gì
+- anh em của em là ai
+- anh em của em tên gì
+- anh em của mày là ai
+- anh em của mày tên gì
+- anh em của ô là ai
+- anh em của ô tên gì
+- anh em của ông là ai
+- anh em của ông tên gì
+- anh em của đại ca là ai
+- anh em của đại ca tên gì
+- anh em của đồng chí là ai
+- anh em của đồng chí tên gì
+- anh em e là ai
+- anh em e tên gì
+- anh em em là ai
+- anh em em tên gì
+- anh em là ai
+- anh em mày là ai
+- anh em mày tên gì
+- anh em tên gì
+- anh em ô là ai
+- anh em ô tên gì
+- anh em ông là ai
+- anh em ông tên gì
+- anh em đại ca là ai
+- anh em đại ca tên gì
+- anh em đồng chí là ai
+- anh em đồng chí tên gì
+- anh mày là ai
+- anh mày tên gì
+- anh ô là ai
+- anh ô tên gì
+- anh ông là ai
+- anh ông tên gì
+- anh đại ca là ai
+- anh đại ca tên gì
+- anh đồng chí là ai
+- anh đồng chí tên gì
+- ba a là ai
+- ba a tên gì
+- ba anh là ai
+- ba anh tên gì
+- ba bạn là ai
+- ba bạn tên gì
+- ba cậu là ai
+- ba cậu tên gì
+- ba của a là ai
+- ba của a tên gì
+- ba của anh là ai
+- ba của anh tên gì
+- ba của bạn là ai
+- ba của bạn tên gì
+- ba của cậu là ai
+- ba của cậu tên gì
+- ba của e là ai
+- ba của e tên gì
+- ba của em là ai
+- ba của em tên gì
+- ba của mày là ai
+- ba của mày tên gì
+- ba của ô là ai
+- ba của ô tên gì
+- ba của ông là ai
+- ba của ông tên gì
+- ba của đại ca là ai
+- ba của đại ca tên gì
+- ba của đồng chí là ai
+- ba của đồng chí tên gì
+- ba e là ai
+- ba e tên gì
+- ba em là ai
+- ba em tên gì
+- ba mày là ai
+- ba mày tên gì
+- ba ô là ai
+- ba ô tên gì
+- ba ông là ai
+- ba ông tên gì
+- ba đại ca là ai
+- ba đại ca tên gì
+- ba đồng chí là ai
+- ba đồng chí tên gì
+- bạn có anh chị em không
+- bạn có anh chị không
+- bạn có anh em không
+- bạn có anh không
+- bạn có ba không
+- bạn có bố không
+- bạn có gia đình không
+- bạn có má không
+- bạn có mẹ không
+- bạn có người thân không
+- bạn có vợ không
+- bố a là ai
+- bố a tên gì
+- bố anh là ai
+- bố anh tên gì
+- bố bạn là ai
+- bố bạn tên gì
+- bố cậu là ai
+- bố cậu tên gì
+- bố của a là ai
+- bố của a tên gì
+- bố của anh là ai
+- bố của anh tên gì
+- bố của bạn là ai
+- bố của bạn tên gì
+- bố của cậu là ai
+- bố của cậu tên gì
+- bố của e là ai
+- bố của e tên gì
+- bố của em là ai
+- bố của em tên gì
+- bố của mày là ai
+- bố của mày tên gì
+- bố của ô là ai
+- bố của ô tên gì
+- bố của ông là ai
+- bố của ông tên gì
+- bố của đại ca là ai
+- bố của đại ca tên gì
+- bố của đồng chí là ai
+- bố của đồng chí tên gì
+- bố e là ai
+- bố e tên gì
+- bố em là ai
+- bố em tên gì
+- bố mày là ai
+- bố mày tên gì
+- bố ô là ai
+- bố ô tên gì
+- bố ông là ai
+- bố ông tên gì
+- bố đại ca là ai
+- bố đại ca tên gì
+- bố đồng chí là ai
+- bố đồng chí tên gì
+- cậu có anh chị em không
+- cậu có anh chị không
+- cậu có anh em không
+- cậu có anh không
+- cậu có ba không
+- cậu có bố không
+- cậu có gia đình không
+- cậu có má không
+- cậu có mẹ không
+- cậu có người thân không
+- cậu có vợ không
+- e có anh chị em không
+- e có anh chị không
+- e có anh em không
+- e có anh không
+- e có ba không
+- e có bố không
+- e có gia đình không
+- e có má không
+- e có mẹ không
+- e có người thân không
+- e có vợ không
+- em có anh chị em không
+- em có anh chị không
+- em có anh em không
+- em có anh không
+- em có ba không
+- em có bố không
+- em có gia đình không
+- em có má không
+- em có mẹ không
+- em có người thân không
+- em có vợ không
+- gia đình a là ai
+- gia đình a tên gì
+- gia đình a đâu
+- gia đình anh là ai
+- gia đình anh tên gì
+- gia đình anh đâu
+- gia đình bạn là ai
+- gia đình bạn tên gì
+- gia đình bạn đâu
+- gia đình cậu là ai
+- gia đình cậu tên gì
+- gia đình cậu đâu
+- gia đình của a là ai
+- gia đình của a tên gì
+- gia đình của a đâu
+- gia đình của anh là ai
+- gia đình của anh tên gì
+- gia đình của anh đâu
+- gia đình của bạn là ai
+- gia đình của bạn tên gì
+- gia đình của bạn đâu
+- gia đình của cậu là ai
+- gia đình của cậu tên gì
+- gia đình của cậu đâu
+- gia đình của e là ai
+- gia đình của e tên gì
+- gia đình của e đâu
+- gia đình của em là ai
+- gia đình của em tên gì
+- gia đình của em đâu
+- gia đình của mày là ai
+- gia đình của mày tên gì
+- gia đình của mày đâu
+- gia đình của ô là ai
+- gia đình của ô tên gì
+- gia đình của ô đâu
+- gia đình của ông là ai
+- gia đình của ông tên gì
+- gia đình của ông đâu
+- gia đình của đại ca là ai
+- gia đình của đại ca tên gì
+- gia đình của đại ca đâu
+- gia đình của đồng chí là ai
+- gia đình của đồng chí tên gì
+- gia đình của đồng chí đâu
+- gia đình e là ai
+- gia đình e tên gì
+- gia đình e đâu
+- gia đình em là ai
+- gia đình em tên gì
+- gia đình em đâu
+- gia đình mày là ai
+- gia đình mày tên gì
+- gia đình mày đâu
+- gia đình ô là ai
+- gia đình ô tên gì
+- gia đình ô đâu
+- gia đình ông là ai
+- gia đình ông tên gì
+- gia đình ông đâu
+- gia đình đại ca là ai
+- gia đình đại ca tên gì
+- gia đình đại ca đâu
+- gia đình đồng chí là ai
+- gia đình đồng chí tên gì
+- gia đình đồng chí đâu
+- mày có anh chị em không
+- mày có anh chị không
+- mày có anh em không
+- mày có anh không
+- mày có ba không
+- mày có bố không
+- mày có gia đình không
+- mày có má không
+- mày có mẹ không
+- mày có người thân không
+- mày có vợ không
+- má a là ai
+- má a tên gì
+- má anh là ai
+- má anh tên gì
+- má bạn là ai
+- má bạn tên gì
+- má cậu là ai
+- má cậu tên gì
+- má của a là ai
+- má của a tên gì
+- má của anh là ai
+- má của anh tên gì
+- má của bạn là ai
+- má của bạn tên gì
+- má của cậu là ai
+- má của cậu tên gì
+- má của e là ai
+- má của e tên gì
+- má của em là ai
+- má của em tên gì
+- má của mày là ai
+- má của mày tên gì
+- má của ô là ai
+- má của ô tên gì
+- má của ông là ai
+- má của ông tên gì
+- má của đại ca là ai
+- má của đại ca tên gì
+- má của đồng chí là ai
+- má của đồng chí tên gì
+- má e là ai
+- má e tên gì
+- má em là ai
+- má em tên gì
+- má mày là ai
+- má mày tên gì
+- má ô là ai
+- má ô tên gì
+- má ông là ai
+- má ông tên gì
+- má đại ca là ai
+- má đại ca tên gì
+- má đồng chí là ai
+- má đồng chí tên gì
+- mẹ a là ai
+- mẹ a tên gì
+- mẹ anh là ai
+- mẹ anh tên gì
+- mẹ bạn là ai
+- mẹ bạn tên gì
+- mẹ cậu là ai
+- mẹ cậu tên gì
+- mẹ của a là ai
+- mẹ của a tên gì
+- mẹ của anh là ai
+- mẹ của anh tên gì
+- mẹ của bạn là ai
+- mẹ của bạn tên gì
+- mẹ của cậu là ai
+- mẹ của cậu tên gì
+- mẹ của e là ai
+- mẹ của e tên gì
+- mẹ của em là ai
+- mẹ của em tên gì
+- mẹ của mày là ai
+- mẹ của mày tên gì
+- mẹ của ô là ai
+- mẹ của ô tên gì
+- mẹ của ông là ai
+- mẹ của ông tên gì
+- mẹ của đại ca là ai
+- mẹ của đại ca tên gì
+- mẹ của đồng chí là ai
+- mẹ của đồng chí tên gì
+- mẹ e là ai
+- mẹ e tên gì
+- mẹ em là ai
+- mẹ em tên gì
+- mẹ mày là ai
+- mẹ mày tên gì
+- mẹ ô là ai
+- mẹ ô tên gì
+- mẹ ông là ai
+- mẹ ông tên gì
+- mẹ đại ca là ai
+- mẹ đại ca tên gì
+- mẹ đồng chí là ai
+- mẹ đồng chí tên gì
+- người thân a là ai
+- người thân a tên gì
+- người thân anh là ai
+- người thân anh tên gì
+- người thân bạn là ai
+- người thân bạn tên gì
+- người thân cậu là ai
+- người thân cậu tên gì
+- người thân của a là ai
+- người thân của a tên gì
+- người thân của anh là ai
+- người thân của anh tên gì
+- người thân của bạn là ai
+- người thân của bạn tên gì
+- người thân của cậu là ai
+- người thân của cậu tên gì
+- người thân của e là ai
+- người thân của e tên gì
+- người thân của em là ai
+- người thân của em tên gì
+- người thân của mày là ai
+- người thân của mày tên gì
+- người thân của ô là ai
+- người thân của ô tên gì
+- người thân của ông là ai
+- người thân của ông tên gì
+- người thân của đại ca là ai
+- người thân của đại ca tên gì
+- người thân của đồng chí là ai
+- người thân của đồng chí tên gì
+- người thân e là ai
+- người thân e tên gì
+- người thân em là ai
+- người thân em tên gì
+- người thân mày là ai
+- người thân mày tên gì
+- người thân ô là ai
+- người thân ô tên gì
+- người thân ông là ai
+- người thân ông tên gì
+- người thân đại ca là ai
+- người thân đại ca tên gì
+- người thân đồng chí là ai
+- người thân đồng chí tên gì
+- vợ a là ai
+- vợ a tên gì
+- vợ anh là ai
+- vợ anh tên gì
+- vợ bạn là ai
+- vợ bạn tên gì
+- vợ cậu là ai
+- vợ cậu tên gì
+- vợ của a là ai
+- vợ của a tên gì
+- vợ của anh là ai
+- vợ của anh tên gì
+- vợ của bạn là ai
+- vợ của bạn tên gì
+- vợ của cậu là ai
+- vợ của cậu tên gì
+- vợ của e là ai
+- vợ của e tên gì
+- vợ của em là ai
+- vợ của em tên gì
+- vợ của mày là ai
+- vợ của mày tên gì
+- vợ của ô là ai
+- vợ của ô tên gì
+- vợ của ông là ai
+- vợ của ông tên gì
+- vợ của đại ca là ai
+- vợ của đại ca tên gì
+- vợ của đồng chí là ai
+- vợ của đồng chí tên gì
+- vợ e là ai
+- vợ e tên gì
+- vợ em là ai
+- vợ em tên gì
+- vợ mày là ai
+- vợ mày tên gì
+- vợ ô là ai
+- vợ ô tên gì
+- vợ ông là ai
+- vợ ông tên gì
+- vợ đại ca là ai
+- vợ đại ca tên gì
+- vợ đồng chí là ai
+- vợ đồng chí tên gì
+- ô có anh chị em không
+- ô có anh chị không
+- ô có anh em không
+- ô có anh không
+- ô có ba không
+- ô có bố không
+- ô có gia đình không
+- ô có má không
+- ô có mẹ không
+- ô có người thân không
+- ô có vợ không
+- ông có anh chị em không
+- ông có anh chị không
+- ông có anh em không
+- ông có anh không
+- ông có ba không
+- ông có bố không
+- ông có gia đình không
+- ông có má không
+- ông có mẹ không
+- ông có người thân không
+- ông có vợ không
+- đại ca có anh chị em không
+- đại ca có anh chị không
+- đại ca có anh em không
+- đại ca có anh không
+- đại ca có ba không
+- đại ca có bố không
+- đại ca có gia đình không
+- đại ca có má không
+- đại ca có mẹ không
+- đại ca có người thân không
+- đại ca có vợ không
+- đồng chí có anh chị em không
+- đồng chí có anh chị không
+- đồng chí có anh em không
+- đồng chí có anh không
+- đồng chí có ba không
+- đồng chí có bố không
+- đồng chí có gia đình không
+- đồng chí có má không
+- đồng chí có mẹ không
+- đồng chí có người thân không
+- đồng chí có vợ không
+
+## intent:ask_feeling
+- a có buồn không
+- a có vui không
+- a vui hay buồn
+- anh có buồn không
+- thấy thế nào
+- a thấy thế nào
+- anh có vui không
+- anh thấy thế nào
+- anh vui hay buồn
+- bạn có buồn không
+- bạn có vui không
+- bạn thấy thế nào
+- bạn vui hay buồn
+- có buồn không
+- có vui không
+- cậu có buồn không
+- cậu có vui không
+- cậu thấy thế nào
+- cậu vui hay buồn
+- e có buồn không
+- e có vui không
+- e thấy thế nào
+- e vui hay buồn
+- em có buồn không
+- em có vui không
+- em thấy thế nào
+- em vui hay buồn
+- mày có buồn không
+- mày có vui không
+- mày thấy thế nào
+- mày vui hay buồn
+- vui hay buồn
+- ô có buồn không
+- ô có vui không
+- ô thấy thế nào
+- ô vui hay buồn
+- ông có buồn không
+- ông có vui không
+- ông thấy thế nào
+- ông vui hay buồn
+- đại ca có buồn không
+- đại ca có vui không
+- đại ca thấy thế nào
+- đại ca vui hay buồn
+- đồng chí có buồn không
+- đồng chí có vui không
+- đồng chí thấy thế nào
+- đồng chí vui hay buồn
+
+## intent:ask_gender
+- a giới tính gì
+- là trai hay gái
+- a là trai hay gái
+- anh giới tính gì
+- anh là trai hay gái
+- bạn giới tính gì
+- bạn là trai hay gái
+- cậu giới tính gì
+- cậu là trai hay gái
+- e giới tính gì
+- e là trai hay gái
+- em giới tính gì
+- em là trai hay gái
+- giới tính gì
+- mày giới tính gì
+- mày là trai hay gái
+- ô giới tính gì
+- ô là trai hay gái
+- ông giới tính gì
+- ông là trai hay gái
+- đại ca giới tính gì
+- đại ca là trai hay gái
+- đồng chí giới tính gì
+- đồng chí là trai hay gái
+
+## intent:ask_handsome
+- anh có đẹp trai không
+- anh đẹp trai chứ
+- anh đẹp trai nhỉ
+- bọn tao có đẹp trai không
+- bọn tao đẹp trai chứ
+- bọn tao đẹp trai nhỉ
+- chị có đẹp trai không
+- chị đẹp trai chứ
+- chị đẹp trai nhỉ
+- em có đẹp trai không
+- em đẹp trai chứ
+- em đẹp trai nhỉ
+- mình có đẹp trai không
+- mình đẹp trai chứ
+- mình đẹp trai nhỉ
+- t có đẹp trai không
+- t đẹp trai chứ
+- t đẹp trai nhỉ
+- tao có đẹp trai không
+- tao đẹp trai chứ
+- tao đẹp trai nhỉ
+- tui có đẹp trai không
+- tui đẹp trai chứ
+- tui đẹp trai nhỉ
+- tôi có đẹp trai không
+- tôi đẹp trai chứ
+- tôi đẹp trai nhỉ
+- tớ có đẹp trai không
+- tớ đẹp trai chứ
+- tớ đẹp trai nhỉ
+
+## intent:ask_hate
+- a ghét làm gì
+- ghét điều gì
+- a ghét điều gì
+- anh ghét làm gì
+- anh ghét điều gì
+- bạn ghét làm gì
+- bạn ghét điều gì
+- cậu ghét làm gì
+- cậu ghét điều gì
+- e ghét làm gì
+- e ghét điều gì
+- em ghét làm gì
+- em ghét điều gì
+- ghét làm gì
+- mày ghét làm gì
+- mày ghét điều gì
+- ô ghét làm gì
+- ô ghét điều gì
+- ông ghét làm gì
+- ông ghét điều gì
+- đại ca ghét làm gì
+- đại ca ghét điều gì
+- đồng chí ghét làm gì
+- đồng chí ghét điều gì
+
+## intent:ask_health
+- a khỏe không
+- a mệt không
+- anh khỏe không
+- anh mệt không
+- bạn khỏe không
+- bạn mệt không
+- cậu khỏe không
+- cậu mệt không
+- e khỏe không
+- e mệt không
+- em khỏe không
+- em mệt không
+- how are you
+- khỏe không
+- mày khỏe không
+- mày mệt không
+- mệt không
+- ô khỏe không
+- ô mệt không
+- ông khỏe không
+- ông mệt không
+- đại ca khỏe không
+- đại ca mệt không
+- đồng chí khỏe không
+- đồng chí mệt không
+
+## intent:ask_help
+- a có chức năng gì
+- a làm được những gì
+- anh có chức năng gì
+- có thể làm gì
+- a có thể làm gì
+- anh có thể làm gì
+- anh làm được những gì
+- bạn có chức năng gì
+- bạn có thể làm gì
+- bạn làm được những gì
+- cách sử dụng
+- có chức năng gì
+- cậu có chức năng gì
+- cậu có thể làm gì
+- cậu làm được những gì
+- e có chức năng gì
+- e có thể làm gì
+- e làm được những gì
+- em có chức năng gì
+- em có thể làm gì
+- em làm được những gì
+- hướng dẫn sử dụng
+- làm được những gì
+- mày có chức năng gì
+- mày có thể làm gì
+- mày làm được những gì
+- ô có chức năng gì
+- ô có thể làm gì
+- ô làm được những gì
+- ông có chức năng gì
+- ông có thể làm gì
+- ông làm được những gì
+- đại ca có chức năng gì
+- đại ca có thể làm gì
+- đại ca làm được những gì
+- đồng chí có chức năng gì
+- đồng chí có thể làm gì
+- đồng chí làm được những gì
+
+## intent:ask_hobby
+- a thích gì
+- anh thích gì
+- bạn thích gì
+- cậu thích gì
+- e thích gì
+- em thích gì
+- mày thích gì
+- sở thích của a là gì
+- sở thích của anh là gì
+- sở thích của bạn là gì
+- sở thích của cậu là gì
+- sở thích của e là gì
+- sở thích của em là gì
+- sở thích của mày là gì
+- sở thích của ô là gì
+- sở thích của ông là gì
+- sở thích của đại ca là gì
+- sở thích của đồng chí là gì
+- thích gì
+- ô thích gì
+- ông thích gì
+- đại ca thích gì
+- đồng chí thích gì
+
+## intent:ask_IQ
+- a có thông minh không
+- thông minh không
+- a thông minh không
+- anh có thông minh không
+- anh thông minh không
+- bạn có thông minh không
+- bạn thông minh không
+- có thông minh không
+- cậu có thông minh không
+- cậu thông minh không
+- e có thông minh không
+- e thông minh không
+- em có thông minh không
+- em thông minh không
+- mày có thông minh không
+- mày thông minh không
+- ô có thông minh không
+- ô thông minh không
+- ông có thông minh không
+- ông thông minh không
+- đại ca có thông minh không
+- đại ca thông minh không
+- đồng chí có thông minh không
+- đồng chí thông minh không
+
+## intent:ask_job
+- a làm gì
+- anh làm gì
+- bạn làm gì
+- công việc a là gì
+- công việc anh là gì
+- công việc bạn là gì
+- công việc cậu là gì
+- công việc e là gì
+- công việc em là gì
+- công việc mày là gì
+- công việc ô là gì
+- công việc ông là gì
+- công việc đại ca là gì
+- công việc đồng chí là gì
+- cậu làm gì
+- e làm gì
+- em làm gì
+- làm gì
+- mày làm gì
+- ô làm gì
+- ông làm gì
+- đại ca làm gì
+- đồng chí làm gì
+
+## intent:ask_live_place
+- sống ở đâu
+- a sống ở đâu
+- anh sống ở đâu
+- bạn sống ở đâu
+- cậu sống ở đâu
+- e sống ở đâu
+- em sống ở đâu
+- mày sống ở đâu
+- quê của a là gì
+- quê của anh là gì
+- quê của bạn là gì
+- quê của cậu là gì
+- quê của e là gì
+- quê của em là gì
+- quê của mày là gì
+- quê của ô là gì
+- quê của ông là gì
+- quê của đại ca là gì
+- quê của đồng chí là gì
+- ô sống ở đâu
+- ông sống ở đâu
+- đại ca sống ở đâu
+- đồng chí sống ở đâu
+
+## intent:ask_look_like
+- a nhìn thế nào
+- trông thế nào
+- a trông thế nào
+- anh nhìn thế nào
+- anh trông thế nào
+- bạn nhìn thế nào
+- bạn trông thế nào
+- cậu nhìn thế nào
+- cậu trông thế nào
+- e nhìn thế nào
+- e trông thế nào
+- em nhìn thế nào
+- em trông thế nào
+- mày nhìn thế nào
+- mày trông thế nào
+- nhìn thế nào
+- ô nhìn thế nào
+- ô trông thế nào
+- ông nhìn thế nào
+- ông trông thế nào
+- đại ca nhìn thế nào
+- đại ca trông thế nào
+- đồng chí nhìn thế nào
+- đồng chí trông thế nào
+
+## intent:ask_love
+- có bạn gái chưa
+- có bạn gái chưa nhỉ
+- có bạn gái chưa thế
+- có bạn gái chưa vậy
+- có bạn gái rồi nhỉ
+- có bạn gái rồi sao
+- có bạn gái rồi à
+- có bạn gái rồi ư
+- có bạn trai chưa
+- có bạn trai chưa nhỉ
+- có bạn trai chưa thế
+- có bạn trai chưa vậy
+- có bạn trai rồi nhỉ
+- có bạn trai rồi sao
+- có bạn trai rồi à
+- có bạn trai rồi ư
+- có chồng chưa
+- có chồng chưa nhỉ
+- có chồng chưa thế
+- có chồng chưa vậy
+- có chồng rồi nhỉ
+- có chồng rồi sao
+- có chồng rồi à
+- có chồng rồi ư
+- có gấu chưa
+- có gấu chưa nhỉ
+- có gấu chưa thế
+- có gấu chưa vậy
+- có gấu rồi nhỉ
+- có gấu rồi sao
+- có gấu rồi à
+- có gấu rồi ư
+- có người yêu chưa
+- có người yêu chưa nhỉ
+- có người yêu chưa thế
+- có người yêu chưa vậy
+- có người yêu rồi nhỉ
+- có người yêu rồi sao
+- có người yêu rồi à
+- có người yêu rồi ư
+- có vợ chưa
+- có vợ chưa nhỉ
+- có vợ chưa thế
+- có vợ chưa vậy
+- có vợ rồi nhỉ
+- có vợ rồi sao
+- có vợ rồi à
+- có vợ rồi ư
+- a có bạn gái chưa
+- a có bạn gái chưa nhỉ
+- a có bạn gái chưa thế
+- a có bạn gái chưa vậy
+- a có bạn gái rồi nhỉ
+- a có bạn gái rồi sao
+- a có bạn gái rồi à
+- a có bạn gái rồi ư
+- a có bạn trai chưa
+- a có bạn trai chưa nhỉ
+- a có bạn trai chưa thế
+- a có bạn trai chưa vậy
+- a có bạn trai rồi nhỉ
+- a có bạn trai rồi sao
+- a có bạn trai rồi à
+- a có bạn trai rồi ư
+- a có chồng chưa
+- a có chồng chưa nhỉ
+- a có chồng chưa thế
+- a có chồng chưa vậy
+- a có chồng rồi nhỉ
+- a có chồng rồi sao
+- a có chồng rồi à
+- a có chồng rồi ư
+- a có gấu chưa
+- a có gấu chưa nhỉ
+- a có gấu chưa thế
+- a có gấu chưa vậy
+- a có gấu rồi nhỉ
+- a có gấu rồi sao
+- a có gấu rồi à
+- a có gấu rồi ư
+- a có người yêu chưa
+- a có người yêu chưa nhỉ
+- a có người yêu chưa thế
+- a có người yêu chưa vậy
+- a có người yêu rồi nhỉ
+- a có người yêu rồi sao
+- a có người yêu rồi à
+- a có người yêu rồi ư
+- a có vợ chưa
+- a có vợ chưa nhỉ
+- a có vợ chưa thế
+- a có vợ chưa vậy
+- a có vợ rồi nhỉ
+- a có vợ rồi sao
+- a có vợ rồi à
+- a có vợ rồi ư
+- a thế yêu chưa
+- a thế yêu chưa nhỉ
+- a thế yêu chưa thế
+- a thế yêu chưa vậy
+- a thế yêu rồi nhỉ
+- a thế yêu rồi sao
+- a thế yêu rồi à
+- a thế yêu rồi ư
+- a yêu chưa
+- a yêu chưa nhỉ
+- a yêu chưa thế
+- a yêu chưa vậy
+- a yêu rồi nhỉ
+- a yêu rồi sao
+- a yêu rồi à
+- a yêu rồi ư
+- a đã có bạn gái chưa
+- a đã có bạn gái chưa nhỉ
+- a đã có bạn gái chưa thế
+- a đã có bạn gái chưa vậy
+- a đã có bạn gái rồi nhỉ
+- a đã có bạn gái rồi sao
+- a đã có bạn gái rồi à
+- a đã có bạn gái rồi ư
+- a đã có bạn trai chưa
+- a đã có bạn trai chưa nhỉ
+- a đã có bạn trai chưa thế
+- a đã có bạn trai chưa vậy
+- a đã có bạn trai rồi nhỉ
+- a đã có bạn trai rồi sao
+- a đã có bạn trai rồi à
+- a đã có bạn trai rồi ư
+- a đã có chồng chưa
+- a đã có chồng chưa nhỉ
+- a đã có chồng chưa thế
+- a đã có chồng chưa vậy
+- a đã có chồng rồi nhỉ
+- a đã có chồng rồi sao
+- a đã có chồng rồi à
+- a đã có chồng rồi ư
+- a đã có gấu chưa
+- a đã có gấu chưa nhỉ
+- a đã có gấu chưa thế
+- a đã có gấu chưa vậy
+- a đã có gấu rồi nhỉ
+- a đã có gấu rồi sao
+- a đã có gấu rồi à
+- a đã có gấu rồi ư
+- a đã có người yêu chưa
+- a đã có người yêu chưa nhỉ
+- a đã có người yêu chưa thế
+- a đã có người yêu chưa vậy
+- a đã có người yêu rồi nhỉ
+- a đã có người yêu rồi sao
+- a đã có người yêu rồi à
+- a đã có người yêu rồi ư
+- a đã có vợ chưa
+- a đã có vợ chưa nhỉ
+- a đã có vợ chưa thế
+- a đã có vợ chưa vậy
+- a đã có vợ rồi nhỉ
+- a đã có vợ rồi sao
+- a đã có vợ rồi à
+- a đã có vợ rồi ư
+- a đã yêu chưa
+- a đã yêu chưa nhỉ
+- a đã yêu chưa thế
+- a đã yêu chưa vậy
+- a đã yêu rồi nhỉ
+- a đã yêu rồi sao
+- a đã yêu rồi à
+- a đã yêu rồi ư
+- anh có bạn gái chưa
+- anh có bạn gái chưa nhỉ
+- anh có bạn gái chưa thế
+- anh có bạn gái chưa vậy
+- anh có bạn gái rồi nhỉ
+- anh có bạn gái rồi sao
+- anh có bạn gái rồi à
+- anh có bạn gái rồi ư
+- anh có bạn trai chưa
+- anh có bạn trai chưa nhỉ
+- anh có bạn trai chưa thế
+- anh có bạn trai chưa vậy
+- anh có bạn trai rồi nhỉ
+- anh có bạn trai rồi sao
+- anh có bạn trai rồi à
+- anh có bạn trai rồi ư
+- anh có chồng chưa
+- anh có chồng chưa nhỉ
+- anh có chồng chưa thế
+- anh có chồng chưa vậy
+- anh có chồng rồi nhỉ
+- anh có chồng rồi sao
+- anh có chồng rồi à
+- anh có chồng rồi ư
+- anh có gấu chưa
+- anh có gấu chưa nhỉ
+- anh có gấu chưa thế
+- anh có gấu chưa vậy
+- anh có gấu rồi nhỉ
+- anh có gấu rồi sao
+- anh có gấu rồi à
+- anh có gấu rồi ư
+- anh có người yêu chưa
+- anh có người yêu chưa nhỉ
+- anh có người yêu chưa thế
+- anh có người yêu chưa vậy
+- anh có người yêu rồi nhỉ
+- anh có người yêu rồi sao
+- anh có người yêu rồi à
+- anh có người yêu rồi ư
+- anh có vợ chưa
+- anh có vợ chưa nhỉ
+- anh có vợ chưa thế
+- anh có vợ chưa vậy
+- anh có vợ rồi nhỉ
+- anh có vợ rồi sao
+- anh có vợ rồi à
+- anh có vợ rồi ư
+- anh thế yêu chưa
+- anh thế yêu chưa nhỉ
+- anh thế yêu chưa thế
+- anh thế yêu chưa vậy
+- anh thế yêu rồi nhỉ
+- anh thế yêu rồi sao
+- anh thế yêu rồi à
+- anh thế yêu rồi ư
+- anh yêu chưa
+- anh yêu chưa nhỉ
+- anh yêu chưa thế
+- anh yêu chưa vậy
+- anh yêu rồi nhỉ
+- anh yêu rồi sao
+- anh yêu rồi à
+- anh yêu rồi ư
+- anh đã có bạn gái chưa
+- anh đã có bạn gái chưa nhỉ
+- anh đã có bạn gái chưa thế
+- anh đã có bạn gái chưa vậy
+- anh đã có bạn gái rồi nhỉ
+- anh đã có bạn gái rồi sao
+- anh đã có bạn gái rồi à
+- anh đã có bạn gái rồi ư
+- anh đã có bạn trai chưa
+- anh đã có bạn trai chưa nhỉ
+- anh đã có bạn trai chưa thế
+- anh đã có bạn trai chưa vậy
+- anh đã có bạn trai rồi nhỉ
+- anh đã có bạn trai rồi sao
+- anh đã có bạn trai rồi à
+- anh đã có bạn trai rồi ư
+- anh đã có chồng chưa
+- anh đã có chồng chưa nhỉ
+- anh đã có chồng chưa thế
+- anh đã có chồng chưa vậy
+- anh đã có chồng rồi nhỉ
+- anh đã có chồng rồi sao
+- anh đã có chồng rồi à
+- anh đã có chồng rồi ư
+- anh đã có gấu chưa
+- anh đã có gấu chưa nhỉ
+- anh đã có gấu chưa thế
+- anh đã có gấu chưa vậy
+- anh đã có gấu rồi nhỉ
+- anh đã có gấu rồi sao
+- anh đã có gấu rồi à
+- anh đã có gấu rồi ư
+- anh đã có người yêu chưa
+- anh đã có người yêu chưa nhỉ
+- anh đã có người yêu chưa thế
+- anh đã có người yêu chưa vậy
+- anh đã có người yêu rồi nhỉ
+- anh đã có người yêu rồi sao
+- anh đã có người yêu rồi à
+- anh đã có người yêu rồi ư
+- anh đã có vợ chưa
+- anh đã có vợ chưa nhỉ
+- anh đã có vợ chưa thế
+- anh đã có vợ chưa vậy
+- anh đã có vợ rồi nhỉ
+- anh đã có vợ rồi sao
+- anh đã có vợ rồi à
+- anh đã có vợ rồi ư
+- anh đã yêu chưa
+- anh đã yêu chưa nhỉ
+- anh đã yêu chưa thế
+- anh đã yêu chưa vậy
+- anh đã yêu rồi nhỉ
+- anh đã yêu rồi sao
+- anh đã yêu rồi à
+- anh đã yêu rồi ư
+- bạn có bạn gái chưa
+- bạn có bạn gái chưa nhỉ
+- bạn có bạn gái chưa thế
+- bạn có bạn gái chưa vậy
+- bạn có bạn gái rồi nhỉ
+- bạn có bạn gái rồi sao
+- bạn có bạn gái rồi à
+- bạn có bạn gái rồi ư
+- bạn có bạn trai chưa
+- bạn có bạn trai chưa nhỉ
+- bạn có bạn trai chưa thế
+- bạn có bạn trai chưa vậy
+- bạn có bạn trai rồi nhỉ
+- bạn có bạn trai rồi sao
+- bạn có bạn trai rồi à
+- bạn có bạn trai rồi ư
+- bạn có chồng chưa
+- bạn có chồng chưa nhỉ
+- bạn có chồng chưa thế
+- bạn có chồng chưa vậy
+- bạn có chồng rồi nhỉ
+- bạn có chồng rồi sao
+- bạn có chồng rồi à
+- bạn có chồng rồi ư
+- bạn có gấu chưa
+- bạn có gấu chưa nhỉ
+- bạn có gấu chưa thế
+- bạn có gấu chưa vậy
+- bạn có gấu rồi nhỉ
+- bạn có gấu rồi sao
+- bạn có gấu rồi à
+- bạn có gấu rồi ư
+- bạn có người yêu chưa
+- bạn có người yêu chưa nhỉ
+- bạn có người yêu chưa thế
+- bạn có người yêu chưa vậy
+- bạn có người yêu rồi nhỉ
+- bạn có người yêu rồi sao
+- bạn có người yêu rồi à
+- bạn có người yêu rồi ư
+- bạn có vợ chưa
+- bạn có vợ chưa nhỉ
+- bạn có vợ chưa thế
+- bạn có vợ chưa vậy
+- bạn có vợ rồi nhỉ
+- bạn có vợ rồi sao
+- bạn có vợ rồi à
+- bạn có vợ rồi ư
+- bạn gái chưa
+- bạn gái chưa nhỉ
+- bạn gái chưa thế
+- bạn gái chưa vậy
+- bạn gái rồi nhỉ
+- bạn gái rồi sao
+- bạn gái rồi à
+- bạn gái rồi ư
+- bạn thế yêu chưa
+- bạn thế yêu chưa nhỉ
+- bạn thế yêu chưa thế
+- bạn thế yêu chưa vậy
+- bạn thế yêu rồi nhỉ
+- bạn thế yêu rồi sao
+- bạn thế yêu rồi à
+- bạn thế yêu rồi ư
+- bạn trai chưa
+- bạn trai chưa nhỉ
+- bạn trai chưa thế
+- bạn trai chưa vậy
+- bạn trai rồi nhỉ
+- bạn trai rồi sao
+- bạn trai rồi à
+- bạn trai rồi ư
+- bạn yêu chưa
+- bạn yêu chưa nhỉ
+- bạn yêu chưa thế
+- bạn yêu chưa vậy
+- bạn yêu rồi nhỉ
+- bạn yêu rồi sao
+- bạn yêu rồi à
+- bạn yêu rồi ư
+- bạn đã có bạn gái chưa
+- bạn đã có bạn gái chưa nhỉ
+- bạn đã có bạn gái chưa thế
+- bạn đã có bạn gái chưa vậy
+- bạn đã có bạn gái rồi nhỉ
+- bạn đã có bạn gái rồi sao
+- bạn đã có bạn gái rồi à
+- bạn đã có bạn gái rồi ư
+- bạn đã có bạn trai chưa
+- bạn đã có bạn trai chưa nhỉ
+- bạn đã có bạn trai chưa thế
+- bạn đã có bạn trai chưa vậy
+- bạn đã có bạn trai rồi nhỉ
+- bạn đã có bạn trai rồi sao
+- bạn đã có bạn trai rồi à
+- bạn đã có bạn trai rồi ư
+- bạn đã có chồng chưa
+- bạn đã có chồng chưa nhỉ
+- bạn đã có chồng chưa thế
+- bạn đã có chồng chưa vậy
+- bạn đã có chồng rồi nhỉ
+- bạn đã có chồng rồi sao
+- bạn đã có chồng rồi à
+- bạn đã có chồng rồi ư
+- bạn đã có gấu chưa
+- bạn đã có gấu chưa nhỉ
+- bạn đã có gấu chưa thế
+- bạn đã có gấu chưa vậy
+- bạn đã có gấu rồi nhỉ
+- bạn đã có gấu rồi sao
+- bạn đã có gấu rồi à
+- bạn đã có gấu rồi ư
+- bạn đã có người yêu chưa
+- bạn đã có người yêu chưa nhỉ
+- bạn đã có người yêu chưa thế
+- bạn đã có người yêu chưa vậy
+- bạn đã có người yêu rồi nhỉ
+- bạn đã có người yêu rồi sao
+- bạn đã có người yêu rồi à
+- bạn đã có người yêu rồi ư
+- bạn đã có vợ chưa
+- bạn đã có vợ chưa nhỉ
+- bạn đã có vợ chưa thế
+- bạn đã có vợ chưa vậy
+- bạn đã có vợ rồi nhỉ
+- bạn đã có vợ rồi sao
+- bạn đã có vợ rồi à
+- bạn đã có vợ rồi ư
+- bạn đã yêu chưa
+- bạn đã yêu chưa nhỉ
+- bạn đã yêu chưa thế
+- bạn đã yêu chưa vậy
+- bạn đã yêu rồi nhỉ
+- bạn đã yêu rồi sao
+- bạn đã yêu rồi à
+- bạn đã yêu rồi ư
+- chồng chưa
+- chồng chưa nhỉ
+- chồng chưa thế
+- chồng chưa vậy
+- chồng rồi nhỉ
+- chồng rồi sao
+- chồng rồi à
+- chồng rồi ư
+- cậu có bạn gái chưa
+- cậu có bạn gái chưa nhỉ
+- cậu có bạn gái chưa thế
+- cậu có bạn gái chưa vậy
+- cậu có bạn gái rồi nhỉ
+- cậu có bạn gái rồi sao
+- cậu có bạn gái rồi à
+- cậu có bạn gái rồi ư
+- cậu có bạn trai chưa
+- cậu có bạn trai chưa nhỉ
+- cậu có bạn trai chưa thế
+- cậu có bạn trai chưa vậy
+- cậu có bạn trai rồi nhỉ
+- cậu có bạn trai rồi sao
+- cậu có bạn trai rồi à
+- cậu có bạn trai rồi ư
+- cậu có chồng chưa
+- cậu có chồng chưa nhỉ
+- cậu có chồng chưa thế
+- cậu có chồng chưa vậy
+- cậu có chồng rồi nhỉ
+- cậu có chồng rồi sao
+- cậu có chồng rồi à
+- cậu có chồng rồi ư
+- cậu có gấu chưa
+- cậu có gấu chưa nhỉ
+- cậu có gấu chưa thế
+- cậu có gấu chưa vậy
+- cậu có gấu rồi nhỉ
+- cậu có gấu rồi sao
+- cậu có gấu rồi à
+- cậu có gấu rồi ư
+- cậu có người yêu chưa
+- cậu có người yêu chưa nhỉ
+- cậu có người yêu chưa thế
+- cậu có người yêu chưa vậy
+- cậu có người yêu rồi nhỉ
+- cậu có người yêu rồi sao
+- cậu có người yêu rồi à
+- cậu có người yêu rồi ư
+- cậu có vợ chưa
+- cậu có vợ chưa nhỉ
+- cậu có vợ chưa thế
+- cậu có vợ chưa vậy
+- cậu có vợ rồi nhỉ
+- cậu có vợ rồi sao
+- cậu có vợ rồi à
+- cậu có vợ rồi ư
+- cậu thế yêu chưa
+- cậu thế yêu chưa nhỉ
+- cậu thế yêu chưa thế
+- cậu thế yêu chưa vậy
+- cậu thế yêu rồi nhỉ
+- cậu thế yêu rồi sao
+- cậu thế yêu rồi à
+- cậu thế yêu rồi ư
+- cậu yêu chưa
+- cậu yêu chưa nhỉ
+- cậu yêu chưa thế
+- cậu yêu chưa vậy
+- cậu yêu rồi nhỉ
+- cậu yêu rồi sao
+- cậu yêu rồi à
+- cậu yêu rồi ư
+- cậu đã có bạn gái chưa
+- cậu đã có bạn gái chưa nhỉ
+- cậu đã có bạn gái chưa thế
+- cậu đã có bạn gái chưa vậy
+- cậu đã có bạn gái rồi nhỉ
+- cậu đã có bạn gái rồi sao
+- cậu đã có bạn gái rồi à
+- cậu đã có bạn gái rồi ư
+- cậu đã có bạn trai chưa
+- cậu đã có bạn trai chưa nhỉ
+- cậu đã có bạn trai chưa thế
+- cậu đã có bạn trai chưa vậy
+- cậu đã có bạn trai rồi nhỉ
+- cậu đã có bạn trai rồi sao
+- cậu đã có bạn trai rồi à
+- cậu đã có bạn trai rồi ư
+- cậu đã có chồng chưa
+- cậu đã có chồng chưa nhỉ
+- cậu đã có chồng chưa thế
+- cậu đã có chồng chưa vậy
+- cậu đã có chồng rồi nhỉ
+- cậu đã có chồng rồi sao
+- cậu đã có chồng rồi à
+- cậu đã có chồng rồi ư
+- cậu đã có gấu chưa
+- cậu đã có gấu chưa nhỉ
+- cậu đã có gấu chưa thế
+- cậu đã có gấu chưa vậy
+- cậu đã có gấu rồi nhỉ
+- cậu đã có gấu rồi sao
+- cậu đã có gấu rồi à
+- cậu đã có gấu rồi ư
+- cậu đã có người yêu chưa
+- cậu đã có người yêu chưa nhỉ
+- cậu đã có người yêu chưa thế
+- cậu đã có người yêu chưa vậy
+- cậu đã có người yêu rồi nhỉ
+- cậu đã có người yêu rồi sao
+- cậu đã có người yêu rồi à
+- cậu đã có người yêu rồi ư
+- cậu đã có vợ chưa
+- cậu đã có vợ chưa nhỉ
+- cậu đã có vợ chưa thế
+- cậu đã có vợ chưa vậy
+- cậu đã có vợ rồi nhỉ
+- cậu đã có vợ rồi sao
+- cậu đã có vợ rồi à
+- cậu đã có vợ rồi ư
+- cậu đã yêu chưa
+- cậu đã yêu chưa nhỉ
+- cậu đã yêu chưa thế
+- cậu đã yêu chưa vậy
+- cậu đã yêu rồi nhỉ
+- cậu đã yêu rồi sao
+- cậu đã yêu rồi à
+- cậu đã yêu rồi ư
+- e có bạn gái chưa
+- e có bạn gái chưa nhỉ
+- e có bạn gái chưa thế
+- e có bạn gái chưa vậy
+- e có bạn gái rồi nhỉ
+- e có bạn gái rồi sao
+- e có bạn gái rồi à
+- e có bạn gái rồi ư
+- e có bạn trai chưa
+- e có bạn trai chưa nhỉ
+- e có bạn trai chưa thế
+- e có bạn trai chưa vậy
+- e có bạn trai rồi nhỉ
+- e có bạn trai rồi sao
+- e có bạn trai rồi à
+- e có bạn trai rồi ư
+- e có chồng chưa
+- e có chồng chưa nhỉ
+- e có chồng chưa thế
+- e có chồng chưa vậy
+- e có chồng rồi nhỉ
+- e có chồng rồi sao
+- e có chồng rồi à
+- e có chồng rồi ư
+- e có gấu chưa
+- e có gấu chưa nhỉ
+- e có gấu chưa thế
+- e có gấu chưa vậy
+- e có gấu rồi nhỉ
+- e có gấu rồi sao
+- e có gấu rồi à
+- e có gấu rồi ư
+- e có người yêu chưa
+- e có người yêu chưa nhỉ
+- e có người yêu chưa thế
+- e có người yêu chưa vậy
+- e có người yêu rồi nhỉ
+- e có người yêu rồi sao
+- e có người yêu rồi à
+- e có người yêu rồi ư
+- e có vợ chưa
+- e có vợ chưa nhỉ
+- e có vợ chưa thế
+- e có vợ chưa vậy
+- e có vợ rồi nhỉ
+- e có vợ rồi sao
+- e có vợ rồi à
+- e có vợ rồi ư
+- e thế yêu chưa
+- e thế yêu chưa nhỉ
+- e thế yêu chưa thế
+- e thế yêu chưa vậy
+- e thế yêu rồi nhỉ
+- e thế yêu rồi sao
+- e thế yêu rồi à
+- e thế yêu rồi ư
+- e yêu chưa
+- e yêu chưa nhỉ
+- e yêu chưa thế
+- e yêu chưa vậy
+- e yêu rồi nhỉ
+- e yêu rồi sao
+- e yêu rồi à
+- e yêu rồi ư
+- e đã có bạn gái chưa
+- e đã có bạn gái chưa nhỉ
+- e đã có bạn gái chưa thế
+- e đã có bạn gái chưa vậy
+- e đã có bạn gái rồi nhỉ
+- e đã có bạn gái rồi sao
+- e đã có bạn gái rồi à
+- e đã có bạn gái rồi ư
+- e đã có bạn trai chưa
+- e đã có bạn trai chưa nhỉ
+- e đã có bạn trai chưa thế
+- e đã có bạn trai chưa vậy
+- e đã có bạn trai rồi nhỉ
+- e đã có bạn trai rồi sao
+- e đã có bạn trai rồi à
+- e đã có bạn trai rồi ư
+- e đã có chồng chưa
+- e đã có chồng chưa nhỉ
+- e đã có chồng chưa thế
+- e đã có chồng chưa vậy
+- e đã có chồng rồi nhỉ
+- e đã có chồng rồi sao
+- e đã có chồng rồi à
+- e đã có chồng rồi ư
+- e đã có gấu chưa
+- e đã có gấu chưa nhỉ
+- e đã có gấu chưa thế
+- e đã có gấu chưa vậy
+- e đã có gấu rồi nhỉ
+- e đã có gấu rồi sao
+- e đã có gấu rồi à
+- e đã có gấu rồi ư
+- e đã có người yêu chưa
+- e đã có người yêu chưa nhỉ
+- e đã có người yêu chưa thế
+- e đã có người yêu chưa vậy
+- e đã có người yêu rồi nhỉ
+- e đã có người yêu rồi sao
+- e đã có người yêu rồi à
+- e đã có người yêu rồi ư
+- e đã có vợ chưa
+- e đã có vợ chưa nhỉ
+- e đã có vợ chưa thế
+- e đã có vợ chưa vậy
+- e đã có vợ rồi nhỉ
+- e đã có vợ rồi sao
+- e đã có vợ rồi à
+- e đã có vợ rồi ư
+- e đã yêu chưa
+- e đã yêu chưa nhỉ
+- e đã yêu chưa thế
+- e đã yêu chưa vậy
+- e đã yêu rồi nhỉ
+- e đã yêu rồi sao
+- e đã yêu rồi à
+- e đã yêu rồi ư
+- em có bạn gái chưa
+- em có bạn gái chưa nhỉ
+- em có bạn gái chưa thế
+- em có bạn gái chưa vậy
+- em có bạn gái rồi nhỉ
+- em có bạn gái rồi sao
+- em có bạn gái rồi à
+- em có bạn gái rồi ư
+- em có bạn trai chưa
+- em có bạn trai chưa nhỉ
+- em có bạn trai chưa thế
+- em có bạn trai chưa vậy
+- em có bạn trai rồi nhỉ
+- em có bạn trai rồi sao
+- em có bạn trai rồi à
+- em có bạn trai rồi ư
+- em có chồng chưa
+- em có chồng chưa nhỉ
+- em có chồng chưa thế
+- em có chồng chưa vậy
+- em có chồng rồi nhỉ
+- em có chồng rồi sao
+- em có chồng rồi à
+- em có chồng rồi ư
+- em có gấu chưa
+- em có gấu chưa nhỉ
+- em có gấu chưa thế
+- em có gấu chưa vậy
+- em có gấu rồi nhỉ
+- em có gấu rồi sao
+- em có gấu rồi à
+- em có gấu rồi ư
+- em có người yêu chưa
+- em có người yêu chưa nhỉ
+- em có người yêu chưa thế
+- em có người yêu chưa vậy
+- em có người yêu rồi nhỉ
+- em có người yêu rồi sao
+- em có người yêu rồi à
+- em có người yêu rồi ư
+- em có vợ chưa
+- em có vợ chưa nhỉ
+- em có vợ chưa thế
+- em có vợ chưa vậy
+- em có vợ rồi nhỉ
+- em có vợ rồi sao
+- em có vợ rồi à
+- em có vợ rồi ư
+- em thế yêu chưa
+- em thế yêu chưa nhỉ
+- em thế yêu chưa thế
+- em thế yêu chưa vậy
+- em thế yêu rồi nhỉ
+- em thế yêu rồi sao
+- em thế yêu rồi à
+- em thế yêu rồi ư
+- em yêu chưa
+- em yêu chưa nhỉ
+- em yêu chưa thế
+- em yêu chưa vậy
+- em yêu rồi nhỉ
+- em yêu rồi sao
+- em yêu rồi à
+- em yêu rồi ư
+- em đã có bạn gái chưa
+- em đã có bạn gái chưa nhỉ
+- em đã có bạn gái chưa thế
+- em đã có bạn gái chưa vậy
+- em đã có bạn gái rồi nhỉ
+- em đã có bạn gái rồi sao
+- em đã có bạn gái rồi à
+- em đã có bạn gái rồi ư
+- em đã có bạn trai chưa
+- em đã có bạn trai chưa nhỉ
+- em đã có bạn trai chưa thế
+- em đã có bạn trai chưa vậy
+- em đã có bạn trai rồi nhỉ
+- em đã có bạn trai rồi sao
+- em đã có bạn trai rồi à
+- em đã có bạn trai rồi ư
+- em đã có chồng chưa
+- em đã có chồng chưa nhỉ
+- em đã có chồng chưa thế
+- em đã có chồng chưa vậy
+- em đã có chồng rồi nhỉ
+- em đã có chồng rồi sao
+- em đã có chồng rồi à
+- em đã có chồng rồi ư
+- em đã có gấu chưa
+- em đã có gấu chưa nhỉ
+- em đã có gấu chưa thế
+- em đã có gấu chưa vậy
+- em đã có gấu rồi nhỉ
+- em đã có gấu rồi sao
+- em đã có gấu rồi à
+- em đã có gấu rồi ư
+- em đã có người yêu chưa
+- em đã có người yêu chưa nhỉ
+- em đã có người yêu chưa thế
+- em đã có người yêu chưa vậy
+- em đã có người yêu rồi nhỉ
+- em đã có người yêu rồi sao
+- em đã có người yêu rồi à
+- em đã có người yêu rồi ư
+- em đã có vợ chưa
+- em đã có vợ chưa nhỉ
+- em đã có vợ chưa thế
+- em đã có vợ chưa vậy
+- em đã có vợ rồi nhỉ
+- em đã có vợ rồi sao
+- em đã có vợ rồi à
+- em đã có vợ rồi ư
+- em đã yêu chưa
+- em đã yêu chưa nhỉ
+- em đã yêu chưa thế
+- em đã yêu chưa vậy
+- em đã yêu rồi nhỉ
+- em đã yêu rồi sao
+- em đã yêu rồi à
+- em đã yêu rồi ư
+- gấu chưa
+- gấu chưa nhỉ
+- gấu chưa thế
+- gấu chưa vậy
+- gấu rồi nhỉ
+- gấu rồi sao
+- gấu rồi à
+- gấu rồi ư
+- lover a là ai
+- lover anh là ai
+- lover bạn là ai
+- lover cậu là ai
+- lover của a là ai
+- lover của anh là ai
+- lover của bạn là ai
+- lover của cậu là ai
+- lover của e là ai
+- lover của em là ai
+- lover của mày là ai
+- lover của ô là ai
+- lover của ông là ai
+- lover của đại ca là ai
+- lover của đồng chí là ai
+- lover e là ai
+- lover em là ai
+- lover mày là ai
+- lover ô là ai
+- lover ông là ai
+- lover đại ca là ai
+- lover đồng chí là ai
+- mày có bạn gái chưa
+- mày có bạn gái chưa nhỉ
+- mày có bạn gái chưa thế
+- mày có bạn gái chưa vậy
+- mày có bạn gái rồi nhỉ
+- mày có bạn gái rồi sao
+- mày có bạn gái rồi à
+- mày có bạn gái rồi ư
+- mày có bạn trai chưa
+- mày có bạn trai chưa nhỉ
+- mày có bạn trai chưa thế
+- mày có bạn trai chưa vậy
+- mày có bạn trai rồi nhỉ
+- mày có bạn trai rồi sao
+- mày có bạn trai rồi à
+- mày có bạn trai rồi ư
+- mày có chồng chưa
+- mày có chồng chưa nhỉ
+- mày có chồng chưa thế
+- mày có chồng chưa vậy
+- mày có chồng rồi nhỉ
+- mày có chồng rồi sao
+- mày có chồng rồi à
+- mày có chồng rồi ư
+- mày có gấu chưa
+- mày có gấu chưa nhỉ
+- mày có gấu chưa thế
+- mày có gấu chưa vậy
+- mày có gấu rồi nhỉ
+- mày có gấu rồi sao
+- mày có gấu rồi à
+- mày có gấu rồi ư
+- mày có người yêu chưa
+- mày có người yêu chưa nhỉ
+- mày có người yêu chưa thế
+- mày có người yêu chưa vậy
+- mày có người yêu rồi nhỉ
+- mày có người yêu rồi sao
+- mày có người yêu rồi à
+- mày có người yêu rồi ư
+- mày có vợ chưa
+- mày có vợ chưa nhỉ
+- mày có vợ chưa thế
+- mày có vợ chưa vậy
+- mày có vợ rồi nhỉ
+- mày có vợ rồi sao
+- mày có vợ rồi à
+- mày có vợ rồi ư
+- mày thế yêu chưa
+- mày thế yêu chưa nhỉ
+- mày thế yêu chưa thế
+- mày thế yêu chưa vậy
+- mày thế yêu rồi nhỉ
+- mày thế yêu rồi sao
+- mày thế yêu rồi à
+- mày thế yêu rồi ư
+- mày yêu chưa
+- mày yêu chưa nhỉ
+- mày yêu chưa thế
+- mày yêu chưa vậy
+- mày yêu rồi nhỉ
+- mày yêu rồi sao
+- mày yêu rồi à
+- mày yêu rồi ư
+- mày đã có bạn gái chưa
+- mày đã có bạn gái chưa nhỉ
+- mày đã có bạn gái chưa thế
+- mày đã có bạn gái chưa vậy
+- mày đã có bạn gái rồi nhỉ
+- mày đã có bạn gái rồi sao
+- mày đã có bạn gái rồi à
+- mày đã có bạn gái rồi ư
+- mày đã có bạn trai chưa
+- mày đã có bạn trai chưa nhỉ
+- mày đã có bạn trai chưa thế
+- mày đã có bạn trai chưa vậy
+- mày đã có bạn trai rồi nhỉ
+- mày đã có bạn trai rồi sao
+- mày đã có bạn trai rồi à
+- mày đã có bạn trai rồi ư
+- mày đã có chồng chưa
+- mày đã có chồng chưa nhỉ
+- mày đã có chồng chưa thế
+- mày đã có chồng chưa vậy
+- mày đã có chồng rồi nhỉ
+- mày đã có chồng rồi sao
+- mày đã có chồng rồi à
+- mày đã có chồng rồi ư
+- mày đã có gấu chưa
+- mày đã có gấu chưa nhỉ
+- mày đã có gấu chưa thế
+- mày đã có gấu chưa vậy
+- mày đã có gấu rồi nhỉ
+- mày đã có gấu rồi sao
+- mày đã có gấu rồi à
+- mày đã có gấu rồi ư
+- mày đã có người yêu chưa
+- mày đã có người yêu chưa nhỉ
+- mày đã có người yêu chưa thế
+- mày đã có người yêu chưa vậy
+- mày đã có người yêu rồi nhỉ
+- mày đã có người yêu rồi sao
+- mày đã có người yêu rồi à
+- mày đã có người yêu rồi ư
+- mày đã có vợ chưa
+- mày đã có vợ chưa nhỉ
+- mày đã có vợ chưa thế
+- mày đã có vợ chưa vậy
+- mày đã có vợ rồi nhỉ
+- mày đã có vợ rồi sao
+- mày đã có vợ rồi à
+- mày đã có vợ rồi ư
+- mày đã yêu chưa
+- mày đã yêu chưa nhỉ
+- mày đã yêu chưa thế
+- mày đã yêu chưa vậy
+- mày đã yêu rồi nhỉ
+- mày đã yêu rồi sao
+- mày đã yêu rồi à
+- mày đã yêu rồi ư
+- người yêu chưa
+- người yêu chưa nhỉ
+- người yêu chưa thế
+- người yêu chưa vậy
+- người yêu rồi nhỉ
+- người yêu rồi sao
+- người yêu rồi à
+- người yêu rồi ư
+- thế yêu chưa
+- thế yêu chưa nhỉ
+- thế yêu chưa thế
+- thế yêu chưa vậy
+- thế yêu rồi nhỉ
+- thế yêu rồi sao
+- thế yêu rồi à
+- thế yêu rồi ư
+- vậy đã yêu chưa
+- vậy đã yêu chưa nhỉ
+- vậy đã yêu chưa thế
+- vậy đã yêu chưa vậy
+- vậy đã yêu rồi nhỉ
+- vậy đã yêu rồi sao
+- vậy đã yêu rồi à
+- vậy đã yêu rồi ư
+- vợ chưa
+- vợ chưa nhỉ
+- vợ chưa thế
+- vợ chưa vậy
+- vợ rồi nhỉ
+- vợ rồi sao
+- vợ rồi à
+- vợ rồi ư
+- yêu chưa
+- yêu chưa nhỉ
+- yêu chưa thế
+- yêu chưa vậy
+- yêu rồi nhỉ
+- yêu rồi sao
+- yêu rồi à
+- yêu rồi ư
+- ô có bạn gái chưa
+- ô có bạn gái chưa nhỉ
+- ô có bạn gái chưa thế
+- ô có bạn gái chưa vậy
+- ô có bạn gái rồi nhỉ
+- ô có bạn gái rồi sao
+- ô có bạn gái rồi à
+- ô có bạn gái rồi ư
+- ô có bạn trai chưa
+- ô có bạn trai chưa nhỉ
+- ô có bạn trai chưa thế
+- ô có bạn trai chưa vậy
+- ô có bạn trai rồi nhỉ
+- ô có bạn trai rồi sao
+- ô có bạn trai rồi à
+- ô có bạn trai rồi ư
+- ô có chồng chưa
+- ô có chồng chưa nhỉ
+- ô có chồng chưa thế
+- ô có chồng chưa vậy
+- ô có chồng rồi nhỉ
+- ô có chồng rồi sao
+- ô có chồng rồi à
+- ô có chồng rồi ư
+- ô có gấu chưa
+- ô có gấu chưa nhỉ
+- ô có gấu chưa thế
+- ô có gấu chưa vậy
+- ô có gấu rồi nhỉ
+- ô có gấu rồi sao
+- ô có gấu rồi à
+- ô có gấu rồi ư
+- ô có người yêu chưa
+- ô có người yêu chưa nhỉ
+- ô có người yêu chưa thế
+- ô có người yêu chưa vậy
+- ô có người yêu rồi nhỉ
+- ô có người yêu rồi sao
+- ô có người yêu rồi à
+- ô có người yêu rồi ư
+- ô có vợ chưa
+- ô có vợ chưa nhỉ
+- ô có vợ chưa thế
+- ô có vợ chưa vậy
+- ô có vợ rồi nhỉ
+- ô có vợ rồi sao
+- ô có vợ rồi à
+- ô có vợ rồi ư
+- ô thế yêu chưa
+- ô thế yêu chưa nhỉ
+- ô thế yêu chưa thế
+- ô thế yêu chưa vậy
+- ô thế yêu rồi nhỉ
+- ô thế yêu rồi sao
+- ô thế yêu rồi à
+- ô thế yêu rồi ư
+- ô yêu chưa
+- ô yêu chưa nhỉ
+- ô yêu chưa thế
+- ô yêu chưa vậy
+- ô yêu rồi nhỉ
+- ô yêu rồi sao
+- ô yêu rồi à
+- ô yêu rồi ư
+- ô đã có bạn gái chưa
+- ô đã có bạn gái chưa nhỉ
+- ô đã có bạn gái chưa thế
+- ô đã có bạn gái chưa vậy
+- ô đã có bạn gái rồi nhỉ
+- ô đã có bạn gái rồi sao
+- ô đã có bạn gái rồi à
+- ô đã có bạn gái rồi ư
+- ô đã có bạn trai chưa
+- ô đã có bạn trai chưa nhỉ
+- ô đã có bạn trai chưa thế
+- ô đã có bạn trai chưa vậy
+- ô đã có bạn trai rồi nhỉ
+- ô đã có bạn trai rồi sao
+- ô đã có bạn trai rồi à
+- ô đã có bạn trai rồi ư
+- ô đã có chồng chưa
+- ô đã có chồng chưa nhỉ
+- ô đã có chồng chưa thế
+- ô đã có chồng chưa vậy
+- ô đã có chồng rồi nhỉ
+- ô đã có chồng rồi sao
+- ô đã có chồng rồi à
+- ô đã có chồng rồi ư
+- ô đã có gấu chưa
+- ô đã có gấu chưa nhỉ
+- ô đã có gấu chưa thế
+- ô đã có gấu chưa vậy
+- ô đã có gấu rồi nhỉ
+- ô đã có gấu rồi sao
+- ô đã có gấu rồi à
+- ô đã có gấu rồi ư
+- ô đã có người yêu chưa
+- ô đã có người yêu chưa nhỉ
+- ô đã có người yêu chưa thế
+- ô đã có người yêu chưa vậy
+- ô đã có người yêu rồi nhỉ
+- ô đã có người yêu rồi sao
+- ô đã có người yêu rồi à
+- ô đã có người yêu rồi ư
+- ô đã có vợ chưa
+- ô đã có vợ chưa nhỉ
+- ô đã có vợ chưa thế
+- ô đã có vợ chưa vậy
+- ô đã có vợ rồi nhỉ
+- ô đã có vợ rồi sao
+- ô đã có vợ rồi à
+- ô đã có vợ rồi ư
+- ô đã yêu chưa
+- ô đã yêu chưa nhỉ
+- ô đã yêu chưa thế
+- ô đã yêu chưa vậy
+- ô đã yêu rồi nhỉ
+- ô đã yêu rồi sao
+- ô đã yêu rồi à
+- ô đã yêu rồi ư
+- ông có bạn gái chưa
+- ông có bạn gái chưa nhỉ
+- ông có bạn gái chưa thế
+- ông có bạn gái chưa vậy
+- ông có bạn gái rồi nhỉ
+- ông có bạn gái rồi sao
+- ông có bạn gái rồi à
+- ông có bạn gái rồi ư
+- ông có bạn trai chưa
+- ông có bạn trai chưa nhỉ
+- ông có bạn trai chưa thế
+- ông có bạn trai chưa vậy
+- ông có bạn trai rồi nhỉ
+- ông có bạn trai rồi sao
+- ông có bạn trai rồi à
+- ông có bạn trai rồi ư
+- ông có chồng chưa
+- ông có chồng chưa nhỉ
+- ông có chồng chưa thế
+- ông có chồng chưa vậy
+- ông có chồng rồi nhỉ
+- ông có chồng rồi sao
+- ông có chồng rồi à
+- ông có chồng rồi ư
+- ông có gấu chưa
+- ông có gấu chưa nhỉ
+- ông có gấu chưa thế
+- ông có gấu chưa vậy
+- ông có gấu rồi nhỉ
+- ông có gấu rồi sao
+- ông có gấu rồi à
+- ông có gấu rồi ư
+- ông có người yêu chưa
+- ông có người yêu chưa nhỉ
+- ông có người yêu chưa thế
+- ông có người yêu chưa vậy
+- ông có người yêu rồi nhỉ
+- ông có người yêu rồi sao
+- ông có người yêu rồi à
+- ông có người yêu rồi ư
+- ông có vợ chưa
+- ông có vợ chưa nhỉ
+- ông có vợ chưa thế
+- ông có vợ chưa vậy
+- ông có vợ rồi nhỉ
+- ông có vợ rồi sao
+- ông có vợ rồi à
+- ông có vợ rồi ư
+- ông thế yêu chưa
+- ông thế yêu chưa nhỉ
+- ông thế yêu chưa thế
+- ông thế yêu chưa vậy
+- ông thế yêu rồi nhỉ
+- ông thế yêu rồi sao
+- ông thế yêu rồi à
+- ông thế yêu rồi ư
+- ông yêu chưa
+- ông yêu chưa nhỉ
+- ông yêu chưa thế
+- ông yêu chưa vậy
+- ông yêu rồi nhỉ
+- ông yêu rồi sao
+- ông yêu rồi à
+- ông yêu rồi ư
+- ông đã có bạn gái chưa
+- ông đã có bạn gái chưa nhỉ
+- ông đã có bạn gái chưa thế
+- ông đã có bạn gái chưa vậy
+- ông đã có bạn gái rồi nhỉ
+- ông đã có bạn gái rồi sao
+- ông đã có bạn gái rồi à
+- ông đã có bạn gái rồi ư
+- ông đã có bạn trai chưa
+- ông đã có bạn trai chưa nhỉ
+- ông đã có bạn trai chưa thế
+- ông đã có bạn trai chưa vậy
+- ông đã có bạn trai rồi nhỉ
+- ông đã có bạn trai rồi sao
+- ông đã có bạn trai rồi à
+- ông đã có bạn trai rồi ư
+- ông đã có chồng chưa
+- ông đã có chồng chưa nhỉ
+- ông đã có chồng chưa thế
+- ông đã có chồng chưa vậy
+- ông đã có chồng rồi nhỉ
+- ông đã có chồng rồi sao
+- ông đã có chồng rồi à
+- ông đã có chồng rồi ư
+- ông đã có gấu chưa
+- ông đã có gấu chưa nhỉ
+- ông đã có gấu chưa thế
+- ông đã có gấu chưa vậy
+- ông đã có gấu rồi nhỉ
+- ông đã có gấu rồi sao
+- ông đã có gấu rồi à
+- ông đã có gấu rồi ư
+- ông đã có người yêu chưa
+- ông đã có người yêu chưa nhỉ
+- ông đã có người yêu chưa thế
+- ông đã có người yêu chưa vậy
+- ông đã có người yêu rồi nhỉ
+- ông đã có người yêu rồi sao
+- ông đã có người yêu rồi à
+- ông đã có người yêu rồi ư
+- ông đã có vợ chưa
+- ông đã có vợ chưa nhỉ
+- ông đã có vợ chưa thế
+- ông đã có vợ chưa vậy
+- ông đã có vợ rồi nhỉ
+- ông đã có vợ rồi sao
+- ông đã có vợ rồi à
+- ông đã có vợ rồi ư
+- ông đã yêu chưa
+- ông đã yêu chưa nhỉ
+- ông đã yêu chưa thế
+- ông đã yêu chưa vậy
+- ông đã yêu rồi nhỉ
+- ông đã yêu rồi sao
+- ông đã yêu rồi à
+- ông đã yêu rồi ư
+- đã có bạn gái chưa
+- đã có bạn gái chưa nhỉ
+- đã có bạn gái chưa thế
+- đã có bạn gái chưa vậy
+- đã có bạn gái rồi nhỉ
+- đã có bạn gái rồi sao
+- đã có bạn gái rồi à
+- đã có bạn gái rồi ư
+- đã có bạn trai chưa
+- đã có bạn trai chưa nhỉ
+- đã có bạn trai chưa thế
+- đã có bạn trai chưa vậy
+- đã có bạn trai rồi nhỉ
+- đã có bạn trai rồi sao
+- đã có bạn trai rồi à
+- đã có bạn trai rồi ư
+- đã có chồng chưa
+- đã có chồng chưa nhỉ
+- đã có chồng chưa thế
+- đã có chồng chưa vậy
+- đã có chồng rồi nhỉ
+- đã có chồng rồi sao
+- đã có chồng rồi à
+- đã có chồng rồi ư
+- đã có gấu chưa
+- đã có gấu chưa nhỉ
+- đã có gấu chưa thế
+- đã có gấu chưa vậy
+- đã có gấu rồi nhỉ
+- đã có gấu rồi sao
+- đã có gấu rồi à
+- đã có gấu rồi ư
+- đã có người yêu chưa
+- đã có người yêu chưa nhỉ
+- đã có người yêu chưa thế
+- đã có người yêu chưa vậy
+- đã có người yêu rồi nhỉ
+- đã có người yêu rồi sao
+- đã có người yêu rồi à
+- đã có người yêu rồi ư
+- đã có vợ chưa
+- đã có vợ chưa nhỉ
+- đã có vợ chưa thế
+- đã có vợ chưa vậy
+- đã có vợ rồi nhỉ
+- đã có vợ rồi sao
+- đã có vợ rồi à
+- đã có vợ rồi ư
+- đã yêu chưa
+- đã yêu chưa nhỉ
+- đã yêu chưa thế
+- đã yêu chưa vậy
+- đã yêu rồi nhỉ
+- đã yêu rồi sao
+- đã yêu rồi à
+- đã yêu rồi ư
+- đại ca có bạn gái chưa
+- đại ca có bạn gái chưa nhỉ
+- đại ca có bạn gái chưa thế
+- đại ca có bạn gái chưa vậy
+- đại ca có bạn gái rồi nhỉ
+- đại ca có bạn gái rồi sao
+- đại ca có bạn gái rồi à
+- đại ca có bạn gái rồi ư
+- đại ca có bạn trai chưa
+- đại ca có bạn trai chưa nhỉ
+- đại ca có bạn trai chưa thế
+- đại ca có bạn trai chưa vậy
+- đại ca có bạn trai rồi nhỉ
+- đại ca có bạn trai rồi sao
+- đại ca có bạn trai rồi à
+- đại ca có bạn trai rồi ư
+- đại ca có chồng chưa
+- đại ca có chồng chưa nhỉ
+- đại ca có chồng chưa thế
+- đại ca có chồng chưa vậy
+- đại ca có chồng rồi nhỉ
+- đại ca có chồng rồi sao
+- đại ca có chồng rồi à
+- đại ca có chồng rồi ư
+- đại ca có gấu chưa
+- đại ca có gấu chưa nhỉ
+- đại ca có gấu chưa thế
+- đại ca có gấu chưa vậy
+- đại ca có gấu rồi nhỉ
+- đại ca có gấu rồi sao
+- đại ca có gấu rồi à
+- đại ca có gấu rồi ư
+- đại ca có người yêu chưa
+- đại ca có người yêu chưa nhỉ
+- đại ca có người yêu chưa thế
+- đại ca có người yêu chưa vậy
+- đại ca có người yêu rồi nhỉ
+- đại ca có người yêu rồi sao
+- đại ca có người yêu rồi à
+- đại ca có người yêu rồi ư
+- đại ca có vợ chưa
+- đại ca có vợ chưa nhỉ
+- đại ca có vợ chưa thế
+- đại ca có vợ chưa vậy
+- đại ca có vợ rồi nhỉ
+- đại ca có vợ rồi sao
+- đại ca có vợ rồi à
+- đại ca có vợ rồi ư
+- đại ca thế yêu chưa
+- đại ca thế yêu chưa nhỉ
+- đại ca thế yêu chưa thế
+- đại ca thế yêu chưa vậy
+- đại ca thế yêu rồi nhỉ
+- đại ca thế yêu rồi sao
+- đại ca thế yêu rồi à
+- đại ca thế yêu rồi ư
+- đại ca yêu chưa
+- đại ca yêu chưa nhỉ
+- đại ca yêu chưa thế
+- đại ca yêu chưa vậy
+- đại ca yêu rồi nhỉ
+- đại ca yêu rồi sao
+- đại ca yêu rồi à
+- đại ca yêu rồi ư
+- đại ca đã có bạn gái chưa
+- đại ca đã có bạn gái chưa nhỉ
+- đại ca đã có bạn gái chưa thế
+- đại ca đã có bạn gái chưa vậy
+- đại ca đã có bạn gái rồi nhỉ
+- đại ca đã có bạn gái rồi sao
+- đại ca đã có bạn gái rồi à
+- đại ca đã có bạn gái rồi ư
+- đại ca đã có bạn trai chưa
+- đại ca đã có bạn trai chưa nhỉ
+- đại ca đã có bạn trai chưa thế
+- đại ca đã có bạn trai chưa vậy
+- đại ca đã có bạn trai rồi nhỉ
+- đại ca đã có bạn trai rồi sao
+- đại ca đã có bạn trai rồi à
+- đại ca đã có bạn trai rồi ư
+- đại ca đã có chồng chưa
+- đại ca đã có chồng chưa nhỉ
+- đại ca đã có chồng chưa thế
+- đại ca đã có chồng chưa vậy
+- đại ca đã có chồng rồi nhỉ
+- đại ca đã có chồng rồi sao
+- đại ca đã có chồng rồi à
+- đại ca đã có chồng rồi ư
+- đại ca đã có gấu chưa
+- đại ca đã có gấu chưa nhỉ
+- đại ca đã có gấu chưa thế
+- đại ca đã có gấu chưa vậy
+- đại ca đã có gấu rồi nhỉ
+- đại ca đã có gấu rồi sao
+- đại ca đã có gấu rồi à
+- đại ca đã có gấu rồi ư
+- đại ca đã có người yêu chưa
+- đại ca đã có người yêu chưa nhỉ
+- đại ca đã có người yêu chưa thế
+- đại ca đã có người yêu chưa vậy
+- đại ca đã có người yêu rồi nhỉ
+- đại ca đã có người yêu rồi sao
+- đại ca đã có người yêu rồi à
+- đại ca đã có người yêu rồi ư
+- đại ca đã có vợ chưa
+- đại ca đã có vợ chưa nhỉ
+- đại ca đã có vợ chưa thế
+- đại ca đã có vợ chưa vậy
+- đại ca đã có vợ rồi nhỉ
+- đại ca đã có vợ rồi sao
+- đại ca đã có vợ rồi à
+- đại ca đã có vợ rồi ư
+- đại ca đã yêu chưa
+- đại ca đã yêu chưa nhỉ
+- đại ca đã yêu chưa thế
+- đại ca đã yêu chưa vậy
+- đại ca đã yêu rồi nhỉ
+- đại ca đã yêu rồi sao
+- đại ca đã yêu rồi à
+- đại ca đã yêu rồi ư
+- đồng chí có bạn gái chưa
+- đồng chí có bạn gái chưa nhỉ
+- đồng chí có bạn gái chưa thế
+- đồng chí có bạn gái chưa vậy
+- đồng chí có bạn gái rồi nhỉ
+- đồng chí có bạn gái rồi sao
+- đồng chí có bạn gái rồi à
+- đồng chí có bạn gái rồi ư
+- đồng chí có bạn trai chưa
+- đồng chí có bạn trai chưa nhỉ
+- đồng chí có bạn trai chưa thế
+- đồng chí có bạn trai chưa vậy
+- đồng chí có bạn trai rồi nhỉ
+- đồng chí có bạn trai rồi sao
+- đồng chí có bạn trai rồi à
+- đồng chí có bạn trai rồi ư
+- đồng chí có chồng chưa
+- đồng chí có chồng chưa nhỉ
+- đồng chí có chồng chưa thế
+- đồng chí có chồng chưa vậy
+- đồng chí có chồng rồi nhỉ
+- đồng chí có chồng rồi sao
+- đồng chí có chồng rồi à
+- đồng chí có chồng rồi ư
+- đồng chí có gấu chưa
+- đồng chí có gấu chưa nhỉ
+- đồng chí có gấu chưa thế
+- đồng chí có gấu chưa vậy
+- đồng chí có gấu rồi nhỉ
+- đồng chí có gấu rồi sao
+- đồng chí có gấu rồi à
+- đồng chí có gấu rồi ư
+- đồng chí có người yêu chưa
+- đồng chí có người yêu chưa nhỉ
+- đồng chí có người yêu chưa thế
+- đồng chí có người yêu chưa vậy
+- đồng chí có người yêu rồi nhỉ
+- đồng chí có người yêu rồi sao
+- đồng chí có người yêu rồi à
+- đồng chí có người yêu rồi ư
+- đồng chí có vợ chưa
+- đồng chí có vợ chưa nhỉ
+- đồng chí có vợ chưa thế
+- đồng chí có vợ chưa vậy
+- đồng chí có vợ rồi nhỉ
+- đồng chí có vợ rồi sao
+- đồng chí có vợ rồi à
+- đồng chí có vợ rồi ư
+- đồng chí thế yêu chưa
+- đồng chí thế yêu chưa nhỉ
+- đồng chí thế yêu chưa thế
+- đồng chí thế yêu chưa vậy
+- đồng chí thế yêu rồi nhỉ
+- đồng chí thế yêu rồi sao
+- đồng chí thế yêu rồi à
+- đồng chí thế yêu rồi ư
+- đồng chí yêu chưa
+- đồng chí yêu chưa nhỉ
+- đồng chí yêu chưa thế
+- đồng chí yêu chưa vậy
+- đồng chí yêu rồi nhỉ
+- đồng chí yêu rồi sao
+- đồng chí yêu rồi à
+- đồng chí yêu rồi ư
+- đồng chí đã có bạn gái chưa
+- đồng chí đã có bạn gái chưa nhỉ
+- đồng chí đã có bạn gái chưa thế
+- đồng chí đã có bạn gái chưa vậy
+- đồng chí đã có bạn gái rồi nhỉ
+- đồng chí đã có bạn gái rồi sao
+- đồng chí đã có bạn gái rồi à
+- đồng chí đã có bạn gái rồi ư
+- đồng chí đã có bạn trai chưa
+- đồng chí đã có bạn trai chưa nhỉ
+- đồng chí đã có bạn trai chưa thế
+- đồng chí đã có bạn trai chưa vậy
+- đồng chí đã có bạn trai rồi nhỉ
+- đồng chí đã có bạn trai rồi sao
+- đồng chí đã có bạn trai rồi à
+- đồng chí đã có bạn trai rồi ư
+- đồng chí đã có chồng chưa
+- đồng chí đã có chồng chưa nhỉ
+- đồng chí đã có chồng chưa thế
+- đồng chí đã có chồng chưa vậy
+- đồng chí đã có chồng rồi nhỉ
+- đồng chí đã có chồng rồi sao
+- đồng chí đã có chồng rồi à
+- đồng chí đã có chồng rồi ư
+- đồng chí đã có gấu chưa
+- đồng chí đã có gấu chưa nhỉ
+- đồng chí đã có gấu chưa thế
+- đồng chí đã có gấu chưa vậy
+- đồng chí đã có gấu rồi nhỉ
+- đồng chí đã có gấu rồi sao
+- đồng chí đã có gấu rồi à
+- đồng chí đã có gấu rồi ư
+- đồng chí đã có người yêu chưa
+- đồng chí đã có người yêu chưa nhỉ
+- đồng chí đã có người yêu chưa thế
+- đồng chí đã có người yêu chưa vậy
+- đồng chí đã có người yêu rồi nhỉ
+- đồng chí đã có người yêu rồi sao
+- đồng chí đã có người yêu rồi à
+- đồng chí đã có người yêu rồi ư
+- đồng chí đã có vợ chưa
+- đồng chí đã có vợ chưa nhỉ
+- đồng chí đã có vợ chưa thế
+- đồng chí đã có vợ chưa vậy
+- đồng chí đã có vợ rồi nhỉ
+- đồng chí đã có vợ rồi sao
+- đồng chí đã có vợ rồi à
+- đồng chí đã có vợ rồi ư
+- đồng chí đã yêu chưa
+- đồng chí đã yêu chưa nhỉ
+- đồng chí đã yêu chưa thế
+- đồng chí đã yêu chưa vậy
+- đồng chí đã yêu rồi nhỉ
+- đồng chí đã yêu rồi sao
+- đồng chí đã yêu rồi à
+- đồng chí đã yêu rồi ư
+
+## intent:ask_love_how
+- làm thế nào để có bạn gái
+- làm thế nào để có bạn trai
+- làm thế nào để có chồng
+- làm thế nào để có gấu
+- làm thế nào để có người yêu
+- làm thế nào để có vợ
+
+## intent:ask_love_together
+- mến anh không
+- mến bọn tao không
+- mến chị không
+- mến em không
+- mến mình không
+- mến t không
+- mến tao không
+- mến tui không
+- mến tôi không
+- mến tớ không
+- thích anh không
+- thích bọn tao không
+- thích chị không
+- thích em không
+- thích mình không
+- thích t không
+- thích tao không
+- thích tui không
+- thích tôi không
+- thích tớ không
+- thương anh không
+- thương bọn tao không
+- thương chị không
+- thương em không
+- thương mình không
+- thương t không
+- thương tao không
+- thương tui không
+- thương tôi không
+- thương tớ không
+- yêu anh không
+- yêu bọn tao không
+- yêu chị không
+- yêu em không
+- yêu mình không
+- yêu t không
+- yêu tao không
+- yêu tui không
+- yêu tôi không
+- yêu tớ không
+- a mến anh không
+- a mến bọn tao không
+- a mến chị không
+- a mến em không
+- a mến mình không
+- a mến t không
+- a mến tao không
+- a mến tui không
+- a mến tôi không
+- a mến tớ không
+- a thích anh không
+- a thích bọn tao không
+- a thích chị không
+- a thích em không
+- a thích mình không
+- a thích t không
+- a thích tao không
+- a thích tui không
+- a thích tôi không
+- a thích tớ không
+- a thương anh không
+- a thương bọn tao không
+- a thương chị không
+- a thương em không
+- a thương mình không
+- a thương t không
+- a thương tao không
+- a thương tui không
+- a thương tôi không
+- a thương tớ không
+- a yêu anh không
+- a yêu bọn tao không
+- a yêu chị không
+- a yêu em không
+- a yêu mình không
+- a yêu t không
+- a yêu tao không
+- a yêu tui không
+- a yêu tôi không
+- a yêu tớ không
+- anh mến anh không
+- anh mến bọn tao không
+- anh mến chị không
+- anh mến em không
+- anh mến mình không
+- anh mến t không
+- anh mến tao không
+- anh mến tui không
+- anh mến tôi không
+- anh mến tớ không
+- anh thích anh không
+- anh thích bọn tao không
+- anh thích chị không
+- anh thích em không
+- anh thích mình không
+- anh thích t không
+- anh thích tao không
+- anh thích tui không
+- anh thích tôi không
+- anh thích tớ không
+- anh thương anh không
+- anh thương bọn tao không
+- anh thương chị không
+- anh thương em không
+- anh thương mình không
+- anh thương t không
+- anh thương tao không
+- anh thương tui không
+- anh thương tôi không
+- anh thương tớ không
+- anh yêu anh không
+- anh yêu bọn tao không
+- anh yêu chị không
+- anh yêu em không
+- anh yêu mình không
+- anh yêu t không
+- anh yêu tao không
+- anh yêu tui không
+- anh yêu tôi không
+- anh yêu tớ không
+- bạn mến anh không
+- bạn mến bọn tao không
+- bạn mến chị không
+- bạn mến em không
+- bạn mến mình không
+- bạn mến t không
+- bạn mến tao không
+- bạn mến tui không
+- bạn mến tôi không
+- bạn mến tớ không
+- bạn thích anh không
+- bạn thích bọn tao không
+- bạn thích chị không
+- bạn thích em không
+- bạn thích mình không
+- bạn thích t không
+- bạn thích tao không
+- bạn thích tui không
+- bạn thích tôi không
+- bạn thích tớ không
+- bạn thương anh không
+- bạn thương bọn tao không
+- bạn thương chị không
+- bạn thương em không
+- bạn thương mình không
+- bạn thương t không
+- bạn thương tao không
+- bạn thương tui không
+- bạn thương tôi không
+- bạn thương tớ không
+- bạn yêu anh không
+- bạn yêu bọn tao không
+- bạn yêu chị không
+- bạn yêu em không
+- bạn yêu mình không
+- bạn yêu t không
+- bạn yêu tao không
+- bạn yêu tui không
+- bạn yêu tôi không
+- bạn yêu tớ không
+- chịch không
+- chịch nhau không
+- cậu mến anh không
+- cậu mến bọn tao không
+- cậu mến chị không
+- cậu mến em không
+- cậu mến mình không
+- cậu mến t không
+- cậu mến tao không
+- cậu mến tui không
+- cậu mến tôi không
+- cậu mến tớ không
+- cậu thích anh không
+- cậu thích bọn tao không
+- cậu thích chị không
+- cậu thích em không
+- cậu thích mình không
+- cậu thích t không
+- cậu thích tao không
+- cậu thích tui không
+- cậu thích tôi không
+- cậu thích tớ không
+- cậu thương anh không
+- cậu thương bọn tao không
+- cậu thương chị không
+- cậu thương em không
+- cậu thương mình không
+- cậu thương t không
+- cậu thương tao không
+- cậu thương tui không
+- cậu thương tôi không
+- cậu thương tớ không
+- cậu yêu anh không
+- cậu yêu bọn tao không
+- cậu yêu chị không
+- cậu yêu em không
+- cậu yêu mình không
+- cậu yêu t không
+- cậu yêu tao không
+- cậu yêu tui không
+- cậu yêu tôi không
+- cậu yêu tớ không
+- e mến anh không
+- e mến bọn tao không
+- e mến chị không
+- e mến em không
+- e mến mình không
+- e mến t không
+- e mến tao không
+- e mến tui không
+- e mến tôi không
+- e mến tớ không
+- e thích anh không
+- e thích bọn tao không
+- e thích chị không
+- e thích em không
+- e thích mình không
+- e thích t không
+- e thích tao không
+- e thích tui không
+- e thích tôi không
+- e thích tớ không
+- e thương anh không
+- e thương bọn tao không
+- e thương chị không
+- e thương em không
+- e thương mình không
+- e thương t không
+- e thương tao không
+- e thương tui không
+- e thương tôi không
+- e thương tớ không
+- e yêu anh không
+- e yêu bọn tao không
+- e yêu chị không
+- e yêu em không
+- e yêu mình không
+- e yêu t không
+- e yêu tao không
+- e yêu tui không
+- e yêu tôi không
+- e yêu tớ không
+- em mến anh không
+- em mến bọn tao không
+- em mến chị không
+- em mến em không
+- em mến mình không
+- em mến t không
+- em mến tao không
+- em mến tui không
+- em mến tôi không
+- em mến tớ không
+- em thích anh không
+- em thích bọn tao không
+- em thích chị không
+- em thích em không
+- em thích mình không
+- em thích t không
+- em thích tao không
+- em thích tui không
+- em thích tôi không
+- em thích tớ không
+- em thương anh không
+- em thương bọn tao không
+- em thương chị không
+- em thương em không
+- em thương mình không
+- em thương t không
+- em thương tao không
+- em thương tui không
+- em thương tôi không
+- em thương tớ không
+- em yêu anh không
+- em yêu bọn tao không
+- em yêu chị không
+- em yêu em không
+- em yêu mình không
+- em yêu t không
+- em yêu tao không
+- em yêu tui không
+- em yêu tôi không
+- em yêu tớ không
+- làm bạn gái anh nhé
+- làm bạn gái anh đi
+- làm bạn gái bọn tao nhé
+- làm bạn gái bọn tao đi
+- làm bạn gái chị nhé
+- làm bạn gái chị đi
+- làm bạn gái em nhé
+- làm bạn gái em đi
+- làm bạn gái mình nhé
+- làm bạn gái mình đi
+- làm bạn gái t nhé
+- làm bạn gái t đi
+- làm bạn gái tao nhé
+- làm bạn gái tao đi
+- làm bạn gái tui nhé
+- làm bạn gái tui đi
+- làm bạn gái tôi nhé
+- làm bạn gái tôi đi
+- làm bạn gái tớ nhé
+- làm bạn gái tớ đi
+- làm bạn trai anh nhé
+- làm bạn trai anh đi
+- làm bạn trai bọn tao nhé
+- làm bạn trai bọn tao đi
+- làm bạn trai chị nhé
+- làm bạn trai chị đi
+- làm bạn trai em nhé
+- làm bạn trai em đi
+- làm bạn trai mình nhé
+- làm bạn trai mình đi
+- làm bạn trai t nhé
+- làm bạn trai t đi
+- làm bạn trai tao nhé
+- làm bạn trai tao đi
+- làm bạn trai tui nhé
+- làm bạn trai tui đi
+- làm bạn trai tôi nhé
+- làm bạn trai tôi đi
+- làm bạn trai tớ nhé
+- làm bạn trai tớ đi
+- làm chồng anh nhé
+- làm chồng anh đi
+- làm chồng bọn tao nhé
+- làm chồng bọn tao đi
+- làm chồng chị nhé
+- làm chồng chị đi
+- làm chồng em nhé
+- làm chồng em đi
+- làm chồng mình nhé
+- làm chồng mình đi
+- làm chồng t nhé
+- làm chồng t đi
+- làm chồng tao nhé
+- làm chồng tao đi
+- làm chồng tui nhé
+- làm chồng tui đi
+- làm chồng tôi nhé
+- làm chồng tôi đi
+- làm chồng tớ nhé
+- làm chồng tớ đi
+- làm gấu anh nhé
+- làm gấu anh đi
+- làm gấu bọn tao nhé
+- làm gấu bọn tao đi
+- làm gấu chị nhé
+- làm gấu chị đi
+- làm gấu em nhé
+- làm gấu em đi
+- làm gấu mình nhé
+- làm gấu mình đi
+- làm gấu t nhé
+- làm gấu t đi
+- làm gấu tao nhé
+- làm gấu tao đi
+- làm gấu tui nhé
+- làm gấu tui đi
+- làm gấu tôi nhé
+- làm gấu tôi đi
+- làm gấu tớ nhé
+- làm gấu tớ đi
+- làm người yêu anh nhé
+- làm người yêu anh đi
+- làm người yêu bọn tao nhé
+- làm người yêu bọn tao đi
+- làm người yêu chị nhé
+- làm người yêu chị đi
+- làm người yêu em nhé
+- làm người yêu em đi
+- làm người yêu mình nhé
+- làm người yêu mình đi
+- làm người yêu t nhé
+- làm người yêu t đi
+- làm người yêu tao nhé
+- làm người yêu tao đi
+- làm người yêu tui nhé
+- làm người yêu tui đi
+- làm người yêu tôi nhé
+- làm người yêu tôi đi
+- làm người yêu tớ nhé
+- làm người yêu tớ đi
+- làm vợ anh nhé
+- làm vợ anh đi
+- làm vợ bọn tao nhé
+- làm vợ bọn tao đi
+- làm vợ chị nhé
+- làm vợ chị đi
+- làm vợ em nhé
+- làm vợ em đi
+- làm vợ mình nhé
+- làm vợ mình đi
+- làm vợ t nhé
+- làm vợ t đi
+- làm vợ tao nhé
+- làm vợ tao đi
+- làm vợ tui nhé
+- làm vợ tui đi
+- làm vợ tôi nhé
+- làm vợ tôi đi
+- làm vợ tớ nhé
+- làm vợ tớ đi
+- mày mến anh không
+- mày mến bọn tao không
+- mày mến chị không
+- mày mến em không
+- mày mến mình không
+- mày mến t không
+- mày mến tao không
+- mày mến tui không
+- mày mến tôi không
+- mày mến tớ không
+- mày thích anh không
+- mày thích bọn tao không
+- mày thích chị không
+- mày thích em không
+- mày thích mình không
+- mày thích t không
+- mày thích tao không
+- mày thích tui không
+- mày thích tôi không
+- mày thích tớ không
+- mày thương anh không
+- mày thương bọn tao không
+- mày thương chị không
+- mày thương em không
+- mày thương mình không
+- mày thương t không
+- mày thương tao không
+- mày thương tui không
+- mày thương tôi không
+- mày thương tớ không
+- mày yêu anh không
+- mày yêu bọn tao không
+- mày yêu chị không
+- mày yêu em không
+- mày yêu mình không
+- mày yêu t không
+- mày yêu tao không
+- mày yêu tui không
+- mày yêu tôi không
+- mày yêu tớ không
+- mình yêu nhau nhé
+- mình yêu nhau đi
+- xoạc không
+- xoạc đi
+- xếp hình không
+- yêu anh nhé
+- yêu anh đi
+- yêu bọn tao nhé
+- yêu bọn tao đi
+- yêu chị nhé
+- yêu chị đi
+- yêu em nhé
+- yêu em đi
+- yêu mình nhé
+- yêu mình đi
+- yêu nhau nhé
+- yêu nhau đi
+- yêu t nhé
+- yêu t đi
+- yêu tao nhé
+- yêu tao đi
+- yêu tui nhé
+- yêu tui đi
+- yêu tôi nhé
+- yêu tôi đi
+- yêu tớ nhé
+- yêu tớ đi
+- ô mến anh không
+- ô mến bọn tao không
+- ô mến chị không
+- ô mến em không
+- ô mến mình không
+- ô mến t không
+- ô mến tao không
+- ô mến tui không
+- ô mến tôi không
+- ô mến tớ không
+- ô thích anh không
+- ô thích bọn tao không
+- ô thích chị không
+- ô thích em không
+- ô thích mình không
+- ô thích t không
+- ô thích tao không
+- ô thích tui không
+- ô thích tôi không
+- ô thích tớ không
+- ô thương anh không
+- ô thương bọn tao không
+- ô thương chị không
+- ô thương em không
+- ô thương mình không
+- ô thương t không
+- ô thương tao không
+- ô thương tui không
+- ô thương tôi không
+- ô thương tớ không
+- ô yêu anh không
+- ô yêu bọn tao không
+- ô yêu chị không
+- ô yêu em không
+- ô yêu mình không
+- ô yêu t không
+- ô yêu tao không
+- ô yêu tui không
+- ô yêu tôi không
+- ô yêu tớ không
+- ông mến anh không
+- ông mến bọn tao không
+- ông mến chị không
+- ông mến em không
+- ông mến mình không
+- ông mến t không
+- ông mến tao không
+- ông mến tui không
+- ông mến tôi không
+- ông mến tớ không
+- ông thích anh không
+- ông thích bọn tao không
+- ông thích chị không
+- ông thích em không
+- ông thích mình không
+- ông thích t không
+- ông thích tao không
+- ông thích tui không
+- ông thích tôi không
+- ông thích tớ không
+- ông thương anh không
+- ông thương bọn tao không
+- ông thương chị không
+- ông thương em không
+- ông thương mình không
+- ông thương t không
+- ông thương tao không
+- ông thương tui không
+- ông thương tôi không
+- ông thương tớ không
+- ông yêu anh không
+- ông yêu bọn tao không
+- ông yêu chị không
+- ông yêu em không
+- ông yêu mình không
+- ông yêu t không
+- ông yêu tao không
+- ông yêu tui không
+- ông yêu tôi không
+- ông yêu tớ không
+- đại ca mến anh không
+- đại ca mến bọn tao không
+- đại ca mến chị không
+- đại ca mến em không
+- đại ca mến mình không
+- đại ca mến t không
+- đại ca mến tao không
+- đại ca mến tui không
+- đại ca mến tôi không
+- đại ca mến tớ không
+- đại ca thích anh không
+- đại ca thích bọn tao không
+- đại ca thích chị không
+- đại ca thích em không
+- đại ca thích mình không
+- đại ca thích t không
+- đại ca thích tao không
+- đại ca thích tui không
+- đại ca thích tôi không
+- đại ca thích tớ không
+- đại ca thương anh không
+- đại ca thương bọn tao không
+- đại ca thương chị không
+- đại ca thương em không
+- đại ca thương mình không
+- đại ca thương t không
+- đại ca thương tao không
+- đại ca thương tui không
+- đại ca thương tôi không
+- đại ca thương tớ không
+- đại ca yêu anh không
+- đại ca yêu bọn tao không
+- đại ca yêu chị không
+- đại ca yêu em không
+- đại ca yêu mình không
+- đại ca yêu t không
+- đại ca yêu tao không
+- đại ca yêu tui không
+- đại ca yêu tôi không
+- đại ca yêu tớ không
+- đồng chí mến anh không
+- đồng chí mến bọn tao không
+- đồng chí mến chị không
+- đồng chí mến em không
+- đồng chí mến mình không
+- đồng chí mến t không
+- đồng chí mến tao không
+- đồng chí mến tui không
+- đồng chí mến tôi không
+- đồng chí mến tớ không
+- đồng chí thích anh không
+- đồng chí thích bọn tao không
+- đồng chí thích chị không
+- đồng chí thích em không
+- đồng chí thích mình không
+- đồng chí thích t không
+- đồng chí thích tao không
+- đồng chí thích tui không
+- đồng chí thích tôi không
+- đồng chí thích tớ không
+- đồng chí thương anh không
+- đồng chí thương bọn tao không
+- đồng chí thương chị không
+- đồng chí thương em không
+- đồng chí thương mình không
+- đồng chí thương t không
+- đồng chí thương tao không
+- đồng chí thương tui không
+- đồng chí thương tôi không
+- đồng chí thương tớ không
+- đồng chí yêu anh không
+- đồng chí yêu bọn tao không
+- đồng chí yêu chị không
+- đồng chí yêu em không
+- đồng chí yêu mình không
+- đồng chí yêu t không
+- đồng chí yêu tao không
+- đồng chí yêu tui không
+- đồng chí yêu tôi không
+- đồng chí yêu tớ không
+
+## intent:ask_love_when
+- bao giờ mình có bạn gái
+- bao giờ mình có bạn trai
+- bao giờ mình có chồng
+- bao giờ mình có gấu
+- bao giờ mình có người yêu
+- bao giờ mình có vợ
+
+## intent:ask_love_who
+- bạn gái của anh là ai
+- bạn gái của bọn tao là ai
+- bạn gái của chị là ai
+- bạn gái của em là ai
+- bạn gái của mình là ai
+- bạn gái của t là ai
+- bạn gái của tao là ai
+- bạn gái của tui là ai
+- bạn gái của tôi là ai
+- bạn gái của tớ là ai
+- bạn trai của anh là ai
+- bạn trai của bọn tao là ai
+- bạn trai của chị là ai
+- bạn trai của em là ai
+- bạn trai của mình là ai
+- bạn trai của t là ai
+- bạn trai của tao là ai
+- bạn trai của tui là ai
+- bạn trai của tôi là ai
+- bạn trai của tớ là ai
+- chồng của anh là ai
+- chồng của bọn tao là ai
+- chồng của chị là ai
+- chồng của em là ai
+- chồng của mình là ai
+- chồng của t là ai
+- chồng của tao là ai
+- chồng của tui là ai
+- chồng của tôi là ai
+- chồng của tớ là ai
+- gấu của anh là ai
+- gấu của bọn tao là ai
+- gấu của chị là ai
+- gấu của em là ai
+- gấu của mình là ai
+- gấu của t là ai
+- gấu của tao là ai
+- gấu của tui là ai
+- gấu của tôi là ai
+- gấu của tớ là ai
+- người yêu của anh là ai
+- người yêu của bọn tao là ai
+- người yêu của chị là ai
+- người yêu của em là ai
+- người yêu của mình là ai
+- người yêu của t là ai
+- người yêu của tao là ai
+- người yêu của tui là ai
+- người yêu của tôi là ai
+- người yêu của tớ là ai
+- vợ của anh là ai
+- vợ của bọn tao là ai
+- vợ của chị là ai
+- vợ của em là ai
+- vợ của mình là ai
+- vợ của t là ai
+- vợ của tao là ai
+- vợ của tui là ai
+- vợ của tôi là ai
+- vợ của tớ là ai
+
+## intent:ask_love_why
+- sao anh khong mến a
+- sao anh khong mến anh
+- sao anh khong mến bạn
+- sao anh khong mến cậu
+- sao anh khong mến e
+- sao anh khong mến em
+- sao anh khong mến mày
+- sao anh khong mến ô
+- sao anh khong mến ông
+- sao anh khong mến đại ca
+- sao anh khong mến đồng chí
+- sao anh khong thích a
+- sao anh khong thích anh
+- sao anh khong thích bạn
+- sao anh khong thích cậu
+- sao anh khong thích e
+- sao anh khong thích em
+- sao anh khong thích mày
+- sao anh khong thích ô
+- sao anh khong thích ông
+- sao anh khong thích đại ca
+- sao anh khong thích đồng chí
+- sao anh khong thương a
+- sao anh khong thương anh
+- sao anh khong thương bạn
+- sao anh khong thương cậu
+- sao anh khong thương e
+- sao anh khong thương em
+- sao anh khong thương mày
+- sao anh khong thương ô
+- sao anh khong thương ông
+- sao anh khong thương đại ca
+- sao anh khong thương đồng chí
+- sao anh khong yêu a
+- sao anh khong yêu anh
+- sao anh khong yêu bạn
+- sao anh khong yêu cậu
+- sao anh khong yêu e
+- sao anh khong yêu em
+- sao anh khong yêu mày
+- sao anh khong yêu ô
+- sao anh khong yêu ông
+- sao anh khong yêu đại ca
+- sao anh khong yêu đồng chí
+- sao anh không mến a
+- sao anh không mến anh
+- sao anh không mến bạn
+- sao anh không mến cậu
+- sao anh không mến e
+- sao anh không mến em
+- sao anh không mến mày
+- sao anh không mến ô
+- sao anh không mến ông
+- sao anh không mến đại ca
+- sao anh không mến đồng chí
+- sao anh không thích a
+- sao anh không thích anh
+- sao anh không thích bạn
+- sao anh không thích cậu
+- sao anh không thích e
+- sao anh không thích em
+- sao anh không thích mày
+- sao anh không thích ô
+- sao anh không thích ông
+- sao anh không thích đại ca
+- sao anh không thích đồng chí
+- sao anh không thương a
+- sao anh không thương anh
+- sao anh không thương bạn
+- sao anh không thương cậu
+- sao anh không thương e
+- sao anh không thương em
+- sao anh không thương mày
+- sao anh không thương ô
+- sao anh không thương ông
+- sao anh không thương đại ca
+- sao anh không thương đồng chí
+- sao anh không yêu a
+- sao anh không yêu anh
+- sao anh không yêu bạn
+- sao anh không yêu cậu
+- sao anh không yêu e
+- sao anh không yêu em
+- sao anh không yêu mày
+- sao anh không yêu ô
+- sao anh không yêu ông
+- sao anh không yêu đại ca
+- sao anh không yêu đồng chí
+- sao anh ko mến a
+- sao anh ko mến anh
+- sao anh ko mến bạn
+- sao anh ko mến cậu
+- sao anh ko mến e
+- sao anh ko mến em
+- sao anh ko mến mày
+- sao anh ko mến ô
+- sao anh ko mến ông
+- sao anh ko mến đại ca
+- sao anh ko mến đồng chí
+- sao anh ko thích a
+- sao anh ko thích anh
+- sao anh ko thích bạn
+- sao anh ko thích cậu
+- sao anh ko thích e
+- sao anh ko thích em
+- sao anh ko thích mày
+- sao anh ko thích ô
+- sao anh ko thích ông
+- sao anh ko thích đại ca
+- sao anh ko thích đồng chí
+- sao anh ko thương a
+- sao anh ko thương anh
+- sao anh ko thương bạn
+- sao anh ko thương cậu
+- sao anh ko thương e
+- sao anh ko thương em
+- sao anh ko thương mày
+- sao anh ko thương ô
+- sao anh ko thương ông
+- sao anh ko thương đại ca
+- sao anh ko thương đồng chí
+- sao anh ko yêu a
+- sao anh ko yêu anh
+- sao anh ko yêu bạn
+- sao anh ko yêu cậu
+- sao anh ko yêu e
+- sao anh ko yêu em
+- sao anh ko yêu mày
+- sao anh ko yêu ô
+- sao anh ko yêu ông
+- sao anh ko yêu đại ca
+- sao anh ko yêu đồng chí
+- sao anh đéo mến a
+- sao anh đéo mến anh
+- sao anh đéo mến bạn
+- sao anh đéo mến cậu
+- sao anh đéo mến e
+- sao anh đéo mến em
+- sao anh đéo mến mày
+- sao anh đéo mến ô
+- sao anh đéo mến ông
+- sao anh đéo mến đại ca
+- sao anh đéo mến đồng chí
+- sao anh đéo thích a
+- sao anh đéo thích anh
+- sao anh đéo thích bạn
+- sao anh đéo thích cậu
+- sao anh đéo thích e
+- sao anh đéo thích em
+- sao anh đéo thích mày
+- sao anh đéo thích ô
+- sao anh đéo thích ông
+- sao anh đéo thích đại ca
+- sao anh đéo thích đồng chí
+- sao anh đéo thương a
+- sao anh đéo thương anh
+- sao anh đéo thương bạn
+- sao anh đéo thương cậu
+- sao anh đéo thương e
+- sao anh đéo thương em
+- sao anh đéo thương mày
+- sao anh đéo thương ô
+- sao anh đéo thương ông
+- sao anh đéo thương đại ca
+- sao anh đéo thương đồng chí
+- sao anh đéo yêu a
+- sao anh đéo yêu anh
+- sao anh đéo yêu bạn
+- sao anh đéo yêu cậu
+- sao anh đéo yêu e
+- sao anh đéo yêu em
+- sao anh đéo yêu mày
+- sao anh đéo yêu ô
+- sao anh đéo yêu ông
+- sao anh đéo yêu đại ca
+- sao anh đéo yêu đồng chí
+- sao anh đíu mến a
+- sao anh đíu mến anh
+- sao anh đíu mến bạn
+- sao anh đíu mến cậu
+- sao anh đíu mến e
+- sao anh đíu mến em
+- sao anh đíu mến mày
+- sao anh đíu mến ô
+- sao anh đíu mến ông
+- sao anh đíu mến đại ca
+- sao anh đíu mến đồng chí
+- sao anh đíu thích a
+- sao anh đíu thích anh
+- sao anh đíu thích bạn
+- sao anh đíu thích cậu
+- sao anh đíu thích e
+- sao anh đíu thích em
+- sao anh đíu thích mày
+- sao anh đíu thích ô
+- sao anh đíu thích ông
+- sao anh đíu thích đại ca
+- sao anh đíu thích đồng chí
+- sao anh đíu thương a
+- sao anh đíu thương anh
+- sao anh đíu thương bạn
+- sao anh đíu thương cậu
+- sao anh đíu thương e
+- sao anh đíu thương em
+- sao anh đíu thương mày
+- sao anh đíu thương ô
+- sao anh đíu thương ông
+- sao anh đíu thương đại ca
+- sao anh đíu thương đồng chí
+- sao anh đíu yêu a
+- sao anh đíu yêu anh
+- sao anh đíu yêu bạn
+- sao anh đíu yêu cậu
+- sao anh đíu yêu e
+- sao anh đíu yêu em
+- sao anh đíu yêu mày
+- sao anh đíu yêu ô
+- sao anh đíu yêu ông
+- sao anh đíu yêu đại ca
+- sao anh đíu yêu đồng chí
+- sao bọn tao khong mến a
+- sao bọn tao khong mến anh
+- sao bọn tao khong mến bạn
+- sao bọn tao khong mến cậu
+- sao bọn tao khong mến e
+- sao bọn tao khong mến em
+- sao bọn tao khong mến mày
+- sao bọn tao khong mến ô
+- sao bọn tao khong mến ông
+- sao bọn tao khong mến đại ca
+- sao bọn tao khong mến đồng chí
+- sao bọn tao khong thích a
+- sao bọn tao khong thích anh
+- sao bọn tao khong thích bạn
+- sao bọn tao khong thích cậu
+- sao bọn tao khong thích e
+- sao bọn tao khong thích em
+- sao bọn tao khong thích mày
+- sao bọn tao khong thích ô
+- sao bọn tao khong thích ông
+- sao bọn tao khong thích đại ca
+- sao bọn tao khong thích đồng chí
+- sao bọn tao khong thương a
+- sao bọn tao khong thương anh
+- sao bọn tao khong thương bạn
+- sao bọn tao khong thương cậu
+- sao bọn tao khong thương e
+- sao bọn tao khong thương em
+- sao bọn tao khong thương mày
+- sao bọn tao khong thương ô
+- sao bọn tao khong thương ông
+- sao bọn tao khong thương đại ca
+- sao bọn tao khong thương đồng chí
+- sao bọn tao khong yêu a
+- sao bọn tao khong yêu anh
+- sao bọn tao khong yêu bạn
+- sao bọn tao khong yêu cậu
+- sao bọn tao khong yêu e
+- sao bọn tao khong yêu em
+- sao bọn tao khong yêu mày
+- sao bọn tao khong yêu ô
+- sao bọn tao khong yêu ông
+- sao bọn tao khong yêu đại ca
+- sao bọn tao khong yêu đồng chí
+- sao bọn tao không mến a
+- sao bọn tao không mến anh
+- sao bọn tao không mến bạn
+- sao bọn tao không mến cậu
+- sao bọn tao không mến e
+- sao bọn tao không mến em
+- sao bọn tao không mến mày
+- sao bọn tao không mến ô
+- sao bọn tao không mến ông
+- sao bọn tao không mến đại ca
+- sao bọn tao không mến đồng chí
+- sao bọn tao không thích a
+- sao bọn tao không thích anh
+- sao bọn tao không thích bạn
+- sao bọn tao không thích cậu
+- sao bọn tao không thích e
+- sao bọn tao không thích em
+- sao bọn tao không thích mày
+- sao bọn tao không thích ô
+- sao bọn tao không thích ông
+- sao bọn tao không thích đại ca
+- sao bọn tao không thích đồng chí
+- sao bọn tao không thương a
+- sao bọn tao không thương anh
+- sao bọn tao không thương bạn
+- sao bọn tao không thương cậu
+- sao bọn tao không thương e
+- sao bọn tao không thương em
+- sao bọn tao không thương mày
+- sao bọn tao không thương ô
+- sao bọn tao không thương ông
+- sao bọn tao không thương đại ca
+- sao bọn tao không thương đồng chí
+- sao bọn tao không yêu a
+- sao bọn tao không yêu anh
+- sao bọn tao không yêu bạn
+- sao bọn tao không yêu cậu
+- sao bọn tao không yêu e
+- sao bọn tao không yêu em
+- sao bọn tao không yêu mày
+- sao bọn tao không yêu ô
+- sao bọn tao không yêu ông
+- sao bọn tao không yêu đại ca
+- sao bọn tao không yêu đồng chí
+- sao bọn tao ko mến a
+- sao bọn tao ko mến anh
+- sao bọn tao ko mến bạn
+- sao bọn tao ko mến cậu
+- sao bọn tao ko mến e
+- sao bọn tao ko mến em
+- sao bọn tao ko mến mày
+- sao bọn tao ko mến ô
+- sao bọn tao ko mến ông
+- sao bọn tao ko mến đại ca
+- sao bọn tao ko mến đồng chí
+- sao bọn tao ko thích a
+- sao bọn tao ko thích anh
+- sao bọn tao ko thích bạn
+- sao bọn tao ko thích cậu
+- sao bọn tao ko thích e
+- sao bọn tao ko thích em
+- sao bọn tao ko thích mày
+- sao bọn tao ko thích ô
+- sao bọn tao ko thích ông
+- sao bọn tao ko thích đại ca
+- sao bọn tao ko thích đồng chí
+- sao bọn tao ko thương a
+- sao bọn tao ko thương anh
+- sao bọn tao ko thương bạn
+- sao bọn tao ko thương cậu
+- sao bọn tao ko thương e
+- sao bọn tao ko thương em
+- sao bọn tao ko thương mày
+- sao bọn tao ko thương ô
+- sao bọn tao ko thương ông
+- sao bọn tao ko thương đại ca
+- sao bọn tao ko thương đồng chí
+- sao bọn tao ko yêu a
+- sao bọn tao ko yêu anh
+- sao bọn tao ko yêu bạn
+- sao bọn tao ko yêu cậu
+- sao bọn tao ko yêu e
+- sao bọn tao ko yêu em
+- sao bọn tao ko yêu mày
+- sao bọn tao ko yêu ô
+- sao bọn tao ko yêu ông
+- sao bọn tao ko yêu đại ca
+- sao bọn tao ko yêu đồng chí
+- sao bọn tao đéo mến a
+- sao bọn tao đéo mến anh
+- sao bọn tao đéo mến bạn
+- sao bọn tao đéo mến cậu
+- sao bọn tao đéo mến e
+- sao bọn tao đéo mến em
+- sao bọn tao đéo mến mày
+- sao bọn tao đéo mến ô
+- sao bọn tao đéo mến ông
+- sao bọn tao đéo mến đại ca
+- sao bọn tao đéo mến đồng chí
+- sao bọn tao đéo thích a
+- sao bọn tao đéo thích anh
+- sao bọn tao đéo thích bạn
+- sao bọn tao đéo thích cậu
+- sao bọn tao đéo thích e
+- sao bọn tao đéo thích em
+- sao bọn tao đéo thích mày
+- sao bọn tao đéo thích ô
+- sao bọn tao đéo thích ông
+- sao bọn tao đéo thích đại ca
+- sao bọn tao đéo thích đồng chí
+- sao bọn tao đéo thương a
+- sao bọn tao đéo thương anh
+- sao bọn tao đéo thương bạn
+- sao bọn tao đéo thương cậu
+- sao bọn tao đéo thương e
+- sao bọn tao đéo thương em
+- sao bọn tao đéo thương mày
+- sao bọn tao đéo thương ô
+- sao bọn tao đéo thương ông
+- sao bọn tao đéo thương đại ca
+- sao bọn tao đéo thương đồng chí
+- sao bọn tao đéo yêu a
+- sao bọn tao đéo yêu anh
+- sao bọn tao đéo yêu bạn
+- sao bọn tao đéo yêu cậu
+- sao bọn tao đéo yêu e
+- sao bọn tao đéo yêu em
+- sao bọn tao đéo yêu mày
+- sao bọn tao đéo yêu ô
+- sao bọn tao đéo yêu ông
+- sao bọn tao đéo yêu đại ca
+- sao bọn tao đéo yêu đồng chí
+- sao bọn tao đíu mến a
+- sao bọn tao đíu mến anh
+- sao bọn tao đíu mến bạn
+- sao bọn tao đíu mến cậu
+- sao bọn tao đíu mến e
+- sao bọn tao đíu mến em
+- sao bọn tao đíu mến mày
+- sao bọn tao đíu mến ô
+- sao bọn tao đíu mến ông
+- sao bọn tao đíu mến đại ca
+- sao bọn tao đíu mến đồng chí
+- sao bọn tao đíu thích a
+- sao bọn tao đíu thích anh
+- sao bọn tao đíu thích bạn
+- sao bọn tao đíu thích cậu
+- sao bọn tao đíu thích e
+- sao bọn tao đíu thích em
+- sao bọn tao đíu thích mày
+- sao bọn tao đíu thích ô
+- sao bọn tao đíu thích ông
+- sao bọn tao đíu thích đại ca
+- sao bọn tao đíu thích đồng chí
+- sao bọn tao đíu thương a
+- sao bọn tao đíu thương anh
+- sao bọn tao đíu thương bạn
+- sao bọn tao đíu thương cậu
+- sao bọn tao đíu thương e
+- sao bọn tao đíu thương em
+- sao bọn tao đíu thương mày
+- sao bọn tao đíu thương ô
+- sao bọn tao đíu thương ông
+- sao bọn tao đíu thương đại ca
+- sao bọn tao đíu thương đồng chí
+- sao bọn tao đíu yêu a
+- sao bọn tao đíu yêu anh
+- sao bọn tao đíu yêu bạn
+- sao bọn tao đíu yêu cậu
+- sao bọn tao đíu yêu e
+- sao bọn tao đíu yêu em
+- sao bọn tao đíu yêu mày
+- sao bọn tao đíu yêu ô
+- sao bọn tao đíu yêu ông
+- sao bọn tao đíu yêu đại ca
+- sao bọn tao đíu yêu đồng chí
+- sao chị khong mến a
+- sao chị khong mến anh
+- sao chị khong mến bạn
+- sao chị khong mến cậu
+- sao chị khong mến e
+- sao chị khong mến em
+- sao chị khong mến mày
+- sao chị khong mến ô
+- sao chị khong mến ông
+- sao chị khong mến đại ca
+- sao chị khong mến đồng chí
+- sao chị khong thích a
+- sao chị khong thích anh
+- sao chị khong thích bạn
+- sao chị khong thích cậu
+- sao chị khong thích e
+- sao chị khong thích em
+- sao chị khong thích mày
+- sao chị khong thích ô
+- sao chị khong thích ông
+- sao chị khong thích đại ca
+- sao chị khong thích đồng chí
+- sao chị khong thương a
+- sao chị khong thương anh
+- sao chị khong thương bạn
+- sao chị khong thương cậu
+- sao chị khong thương e
+- sao chị khong thương em
+- sao chị khong thương mày
+- sao chị khong thương ô
+- sao chị khong thương ông
+- sao chị khong thương đại ca
+- sao chị khong thương đồng chí
+- sao chị khong yêu a
+- sao chị khong yêu anh
+- sao chị khong yêu bạn
+- sao chị khong yêu cậu
+- sao chị khong yêu e
+- sao chị khong yêu em
+- sao chị khong yêu mày
+- sao chị khong yêu ô
+- sao chị khong yêu ông
+- sao chị khong yêu đại ca
+- sao chị khong yêu đồng chí
+- sao chị không mến a
+- sao chị không mến anh
+- sao chị không mến bạn
+- sao chị không mến cậu
+- sao chị không mến e
+- sao chị không mến em
+- sao chị không mến mày
+- sao chị không mến ô
+- sao chị không mến ông
+- sao chị không mến đại ca
+- sao chị không mến đồng chí
+- sao chị không thích a
+- sao chị không thích anh
+- sao chị không thích bạn
+- sao chị không thích cậu
+- sao chị không thích e
+- sao chị không thích em
+- sao chị không thích mày
+- sao chị không thích ô
+- sao chị không thích ông
+- sao chị không thích đại ca
+- sao chị không thích đồng chí
+- sao chị không thương a
+- sao chị không thương anh
+- sao chị không thương bạn
+- sao chị không thương cậu
+- sao chị không thương e
+- sao chị không thương em
+- sao chị không thương mày
+- sao chị không thương ô
+- sao chị không thương ông
+- sao chị không thương đại ca
+- sao chị không thương đồng chí
+- sao chị không yêu a
+- sao chị không yêu anh
+- sao chị không yêu bạn
+- sao chị không yêu cậu
+- sao chị không yêu e
+- sao chị không yêu em
+- sao chị không yêu mày
+- sao chị không yêu ô
+- sao chị không yêu ông
+- sao chị không yêu đại ca
+- sao chị không yêu đồng chí
+- sao chị ko mến a
+- sao chị ko mến anh
+- sao chị ko mến bạn
+- sao chị ko mến cậu
+- sao chị ko mến e
+- sao chị ko mến em
+- sao chị ko mến mày
+- sao chị ko mến ô
+- sao chị ko mến ông
+- sao chị ko mến đại ca
+- sao chị ko mến đồng chí
+- sao chị ko thích a
+- sao chị ko thích anh
+- sao chị ko thích bạn
+- sao chị ko thích cậu
+- sao chị ko thích e
+- sao chị ko thích em
+- sao chị ko thích mày
+- sao chị ko thích ô
+- sao chị ko thích ông
+- sao chị ko thích đại ca
+- sao chị ko thích đồng chí
+- sao chị ko thương a
+- sao chị ko thương anh
+- sao chị ko thương bạn
+- sao chị ko thương cậu
+- sao chị ko thương e
+- sao chị ko thương em
+- sao chị ko thương mày
+- sao chị ko thương ô
+- sao chị ko thương ông
+- sao chị ko thương đại ca
+- sao chị ko thương đồng chí
+- sao chị ko yêu a
+- sao chị ko yêu anh
+- sao chị ko yêu bạn
+- sao chị ko yêu cậu
+- sao chị ko yêu e
+- sao chị ko yêu em
+- sao chị ko yêu mày
+- sao chị ko yêu ô
+- sao chị ko yêu ông
+- sao chị ko yêu đại ca
+- sao chị ko yêu đồng chí
+- sao chị đéo mến a
+- sao chị đéo mến anh
+- sao chị đéo mến bạn
+- sao chị đéo mến cậu
+- sao chị đéo mến e
+- sao chị đéo mến em
+- sao chị đéo mến mày
+- sao chị đéo mến ô
+- sao chị đéo mến ông
+- sao chị đéo mến đại ca
+- sao chị đéo mến đồng chí
+- sao chị đéo thích a
+- sao chị đéo thích anh
+- sao chị đéo thích bạn
+- sao chị đéo thích cậu
+- sao chị đéo thích e
+- sao chị đéo thích em
+- sao chị đéo thích mày
+- sao chị đéo thích ô
+- sao chị đéo thích ông
+- sao chị đéo thích đại ca
+- sao chị đéo thích đồng chí
+- sao chị đéo thương a
+- sao chị đéo thương anh
+- sao chị đéo thương bạn
+- sao chị đéo thương cậu
+- sao chị đéo thương e
+- sao chị đéo thương em
+- sao chị đéo thương mày
+- sao chị đéo thương ô
+- sao chị đéo thương ông
+- sao chị đéo thương đại ca
+- sao chị đéo thương đồng chí
+- sao chị đéo yêu a
+- sao chị đéo yêu anh
+- sao chị đéo yêu bạn
+- sao chị đéo yêu cậu
+- sao chị đéo yêu e
+- sao chị đéo yêu em
+- sao chị đéo yêu mày
+- sao chị đéo yêu ô
+- sao chị đéo yêu ông
+- sao chị đéo yêu đại ca
+- sao chị đéo yêu đồng chí
+- sao chị đíu mến a
+- sao chị đíu mến anh
+- sao chị đíu mến bạn
+- sao chị đíu mến cậu
+- sao chị đíu mến e
+- sao chị đíu mến em
+- sao chị đíu mến mày
+- sao chị đíu mến ô
+- sao chị đíu mến ông
+- sao chị đíu mến đại ca
+- sao chị đíu mến đồng chí
+- sao chị đíu thích a
+- sao chị đíu thích anh
+- sao chị đíu thích bạn
+- sao chị đíu thích cậu
+- sao chị đíu thích e
+- sao chị đíu thích em
+- sao chị đíu thích mày
+- sao chị đíu thích ô
+- sao chị đíu thích ông
+- sao chị đíu thích đại ca
+- sao chị đíu thích đồng chí
+- sao chị đíu thương a
+- sao chị đíu thương anh
+- sao chị đíu thương bạn
+- sao chị đíu thương cậu
+- sao chị đíu thương e
+- sao chị đíu thương em
+- sao chị đíu thương mày
+- sao chị đíu thương ô
+- sao chị đíu thương ông
+- sao chị đíu thương đại ca
+- sao chị đíu thương đồng chí
+- sao chị đíu yêu a
+- sao chị đíu yêu anh
+- sao chị đíu yêu bạn
+- sao chị đíu yêu cậu
+- sao chị đíu yêu e
+- sao chị đíu yêu em
+- sao chị đíu yêu mày
+- sao chị đíu yêu ô
+- sao chị đíu yêu ông
+- sao chị đíu yêu đại ca
+- sao chị đíu yêu đồng chí
+- sao em khong mến a
+- sao em khong mến anh
+- sao em khong mến bạn
+- sao em khong mến cậu
+- sao em khong mến e
+- sao em khong mến em
+- sao em khong mến mày
+- sao em khong mến ô
+- sao em khong mến ông
+- sao em khong mến đại ca
+- sao em khong mến đồng chí
+- sao em khong thích a
+- sao em khong thích anh
+- sao em khong thích bạn
+- sao em khong thích cậu
+- sao em khong thích e
+- sao em khong thích em
+- sao em khong thích mày
+- sao em khong thích ô
+- sao em khong thích ông
+- sao em khong thích đại ca
+- sao em khong thích đồng chí
+- sao em khong thương a
+- sao em khong thương anh
+- sao em khong thương bạn
+- sao em khong thương cậu
+- sao em khong thương e
+- sao em khong thương em
+- sao em khong thương mày
+- sao em khong thương ô
+- sao em khong thương ông
+- sao em khong thương đại ca
+- sao em khong thương đồng chí
+- sao em khong yêu a
+- sao em khong yêu anh
+- sao em khong yêu bạn
+- sao em khong yêu cậu
+- sao em khong yêu e
+- sao em khong yêu em
+- sao em khong yêu mày
+- sao em khong yêu ô
+- sao em khong yêu ông
+- sao em khong yêu đại ca
+- sao em khong yêu đồng chí
+- sao em không mến a
+- sao em không mến anh
+- sao em không mến bạn
+- sao em không mến cậu
+- sao em không mến e
+- sao em không mến em
+- sao em không mến mày
+- sao em không mến ô
+- sao em không mến ông
+- sao em không mến đại ca
+- sao em không mến đồng chí
+- sao em không thích a
+- sao em không thích anh
+- sao em không thích bạn
+- sao em không thích cậu
+- sao em không thích e
+- sao em không thích em
+- sao em không thích mày
+- sao em không thích ô
+- sao em không thích ông
+- sao em không thích đại ca
+- sao em không thích đồng chí
+- sao em không thương a
+- sao em không thương anh
+- sao em không thương bạn
+- sao em không thương cậu
+- sao em không thương e
+- sao em không thương em
+- sao em không thương mày
+- sao em không thương ô
+- sao em không thương ông
+- sao em không thương đại ca
+- sao em không thương đồng chí
+- sao em không yêu a
+- sao em không yêu anh
+- sao em không yêu bạn
+- sao em không yêu cậu
+- sao em không yêu e
+- sao em không yêu em
+- sao em không yêu mày
+- sao em không yêu ô
+- sao em không yêu ông
+- sao em không yêu đại ca
+- sao em không yêu đồng chí
+- sao em ko mến a
+- sao em ko mến anh
+- sao em ko mến bạn
+- sao em ko mến cậu
+- sao em ko mến e
+- sao em ko mến em
+- sao em ko mến mày
+- sao em ko mến ô
+- sao em ko mến ông
+- sao em ko mến đại ca
+- sao em ko mến đồng chí
+- sao em ko thích a
+- sao em ko thích anh
+- sao em ko thích bạn
+- sao em ko thích cậu
+- sao em ko thích e
+- sao em ko thích em
+- sao em ko thích mày
+- sao em ko thích ô
+- sao em ko thích ông
+- sao em ko thích đại ca
+- sao em ko thích đồng chí
+- sao em ko thương a
+- sao em ko thương anh
+- sao em ko thương bạn
+- sao em ko thương cậu
+- sao em ko thương e
+- sao em ko thương em
+- sao em ko thương mày
+- sao em ko thương ô
+- sao em ko thương ông
+- sao em ko thương đại ca
+- sao em ko thương đồng chí
+- sao em ko yêu a
+- sao em ko yêu anh
+- sao em ko yêu bạn
+- sao em ko yêu cậu
+- sao em ko yêu e
+- sao em ko yêu em
+- sao em ko yêu mày
+- sao em ko yêu ô
+- sao em ko yêu ông
+- sao em ko yêu đại ca
+- sao em ko yêu đồng chí
+- sao em đéo mến a
+- sao em đéo mến anh
+- sao em đéo mến bạn
+- sao em đéo mến cậu
+- sao em đéo mến e
+- sao em đéo mến em
+- sao em đéo mến mày
+- sao em đéo mến ô
+- sao em đéo mến ông
+- sao em đéo mến đại ca
+- sao em đéo mến đồng chí
+- sao em đéo thích a
+- sao em đéo thích anh
+- sao em đéo thích bạn
+- sao em đéo thích cậu
+- sao em đéo thích e
+- sao em đéo thích em
+- sao em đéo thích mày
+- sao em đéo thích ô
+- sao em đéo thích ông
+- sao em đéo thích đại ca
+- sao em đéo thích đồng chí
+- sao em đéo thương a
+- sao em đéo thương anh
+- sao em đéo thương bạn
+- sao em đéo thương cậu
+- sao em đéo thương e
+- sao em đéo thương em
+- sao em đéo thương mày
+- sao em đéo thương ô
+- sao em đéo thương ông
+- sao em đéo thương đại ca
+- sao em đéo thương đồng chí
+- sao em đéo yêu a
+- sao em đéo yêu anh
+- sao em đéo yêu bạn
+- sao em đéo yêu cậu
+- sao em đéo yêu e
+- sao em đéo yêu em
+- sao em đéo yêu mày
+- sao em đéo yêu ô
+- sao em đéo yêu ông
+- sao em đéo yêu đại ca
+- sao em đéo yêu đồng chí
+- sao em đíu mến a
+- sao em đíu mến anh
+- sao em đíu mến bạn
+- sao em đíu mến cậu
+- sao em đíu mến e
+- sao em đíu mến em
+- sao em đíu mến mày
+- sao em đíu mến ô
+- sao em đíu mến ông
+- sao em đíu mến đại ca
+- sao em đíu mến đồng chí
+- sao em đíu thích a
+- sao em đíu thích anh
+- sao em đíu thích bạn
+- sao em đíu thích cậu
+- sao em đíu thích e
+- sao em đíu thích em
+- sao em đíu thích mày
+- sao em đíu thích ô
+- sao em đíu thích ông
+- sao em đíu thích đại ca
+- sao em đíu thích đồng chí
+- sao em đíu thương a
+- sao em đíu thương anh
+- sao em đíu thương bạn
+- sao em đíu thương cậu
+- sao em đíu thương e
+- sao em đíu thương em
+- sao em đíu thương mày
+- sao em đíu thương ô
+- sao em đíu thương ông
+- sao em đíu thương đại ca
+- sao em đíu thương đồng chí
+- sao em đíu yêu a
+- sao em đíu yêu anh
+- sao em đíu yêu bạn
+- sao em đíu yêu cậu
+- sao em đíu yêu e
+- sao em đíu yêu em
+- sao em đíu yêu mày
+- sao em đíu yêu ô
+- sao em đíu yêu ông
+- sao em đíu yêu đại ca
+- sao em đíu yêu đồng chí
+- sao mình khong mến a
+- sao mình khong mến anh
+- sao mình khong mến bạn
+- sao mình khong mến cậu
+- sao mình khong mến e
+- sao mình khong mến em
+- sao mình khong mến mày
+- sao mình khong mến ô
+- sao mình khong mến ông
+- sao mình khong mến đại ca
+- sao mình khong mến đồng chí
+- sao mình khong thích a
+- sao mình khong thích anh
+- sao mình khong thích bạn
+- sao mình khong thích cậu
+- sao mình khong thích e
+- sao mình khong thích em
+- sao mình khong thích mày
+- sao mình khong thích ô
+- sao mình khong thích ông
+- sao mình khong thích đại ca
+- sao mình khong thích đồng chí
+- sao mình khong thương a
+- sao mình khong thương anh
+- sao mình khong thương bạn
+- sao mình khong thương cậu
+- sao mình khong thương e
+- sao mình khong thương em
+- sao mình khong thương mày
+- sao mình khong thương ô
+- sao mình khong thương ông
+- sao mình khong thương đại ca
+- sao mình khong thương đồng chí
+- sao mình khong yêu a
+- sao mình khong yêu anh
+- sao mình khong yêu bạn
+- sao mình khong yêu cậu
+- sao mình khong yêu e
+- sao mình khong yêu em
+- sao mình khong yêu mày
+- sao mình khong yêu ô
+- sao mình khong yêu ông
+- sao mình khong yêu đại ca
+- sao mình khong yêu đồng chí
+- sao mình không mến a
+- sao mình không mến anh
+- sao mình không mến bạn
+- sao mình không mến cậu
+- sao mình không mến e
+- sao mình không mến em
+- sao mình không mến mày
+- sao mình không mến ô
+- sao mình không mến ông
+- sao mình không mến đại ca
+- sao mình không mến đồng chí
+- sao mình không thích a
+- sao mình không thích anh
+- sao mình không thích bạn
+- sao mình không thích cậu
+- sao mình không thích e
+- sao mình không thích em
+- sao mình không thích mày
+- sao mình không thích ô
+- sao mình không thích ông
+- sao mình không thích đại ca
+- sao mình không thích đồng chí
+- sao mình không thương a
+- sao mình không thương anh
+- sao mình không thương bạn
+- sao mình không thương cậu
+- sao mình không thương e
+- sao mình không thương em
+- sao mình không thương mày
+- sao mình không thương ô
+- sao mình không thương ông
+- sao mình không thương đại ca
+- sao mình không thương đồng chí
+- sao mình không yêu a
+- sao mình không yêu anh
+- sao mình không yêu bạn
+- sao mình không yêu cậu
+- sao mình không yêu e
+- sao mình không yêu em
+- sao mình không yêu mày
+- sao mình không yêu ô
+- sao mình không yêu ông
+- sao mình không yêu đại ca
+- sao mình không yêu đồng chí
+- sao mình ko mến a
+- sao mình ko mến anh
+- sao mình ko mến bạn
+- sao mình ko mến cậu
+- sao mình ko mến e
+- sao mình ko mến em
+- sao mình ko mến mày
+- sao mình ko mến ô
+- sao mình ko mến ông
+- sao mình ko mến đại ca
+- sao mình ko mến đồng chí
+- sao mình ko thích a
+- sao mình ko thích anh
+- sao mình ko thích bạn
+- sao mình ko thích cậu
+- sao mình ko thích e
+- sao mình ko thích em
+- sao mình ko thích mày
+- sao mình ko thích ô
+- sao mình ko thích ông
+- sao mình ko thích đại ca
+- sao mình ko thích đồng chí
+- sao mình ko thương a
+- sao mình ko thương anh
+- sao mình ko thương bạn
+- sao mình ko thương cậu
+- sao mình ko thương e
+- sao mình ko thương em
+- sao mình ko thương mày
+- sao mình ko thương ô
+- sao mình ko thương ông
+- sao mình ko thương đại ca
+- sao mình ko thương đồng chí
+- sao mình ko yêu a
+- sao mình ko yêu anh
+- sao mình ko yêu bạn
+- sao mình ko yêu cậu
+- sao mình ko yêu e
+- sao mình ko yêu em
+- sao mình ko yêu mày
+- sao mình ko yêu ô
+- sao mình ko yêu ông
+- sao mình ko yêu đại ca
+- sao mình ko yêu đồng chí
+- sao mình đéo mến a
+- sao mình đéo mến anh
+- sao mình đéo mến bạn
+- sao mình đéo mến cậu
+- sao mình đéo mến e
+- sao mình đéo mến em
+- sao mình đéo mến mày
+- sao mình đéo mến ô
+- sao mình đéo mến ông
+- sao mình đéo mến đại ca
+- sao mình đéo mến đồng chí
+- sao mình đéo thích a
+- sao mình đéo thích anh
+- sao mình đéo thích bạn
+- sao mình đéo thích cậu
+- sao mình đéo thích e
+- sao mình đéo thích em
+- sao mình đéo thích mày
+- sao mình đéo thích ô
+- sao mình đéo thích ông
+- sao mình đéo thích đại ca
+- sao mình đéo thích đồng chí
+- sao mình đéo thương a
+- sao mình đéo thương anh
+- sao mình đéo thương bạn
+- sao mình đéo thương cậu
+- sao mình đéo thương e
+- sao mình đéo thương em
+- sao mình đéo thương mày
+- sao mình đéo thương ô
+- sao mình đéo thương ông
+- sao mình đéo thương đại ca
+- sao mình đéo thương đồng chí
+- sao mình đéo yêu a
+- sao mình đéo yêu anh
+- sao mình đéo yêu bạn
+- sao mình đéo yêu cậu
+- sao mình đéo yêu e
+- sao mình đéo yêu em
+- sao mình đéo yêu mày
+- sao mình đéo yêu ô
+- sao mình đéo yêu ông
+- sao mình đéo yêu đại ca
+- sao mình đéo yêu đồng chí
+- sao mình đíu mến a
+- sao mình đíu mến anh
+- sao mình đíu mến bạn
+- sao mình đíu mến cậu
+- sao mình đíu mến e
+- sao mình đíu mến em
+- sao mình đíu mến mày
+- sao mình đíu mến ô
+- sao mình đíu mến ông
+- sao mình đíu mến đại ca
+- sao mình đíu mến đồng chí
+- sao mình đíu thích a
+- sao mình đíu thích anh
+- sao mình đíu thích bạn
+- sao mình đíu thích cậu
+- sao mình đíu thích e
+- sao mình đíu thích em
+- sao mình đíu thích mày
+- sao mình đíu thích ô
+- sao mình đíu thích ông
+- sao mình đíu thích đại ca
+- sao mình đíu thích đồng chí
+- sao mình đíu thương a
+- sao mình đíu thương anh
+- sao mình đíu thương bạn
+- sao mình đíu thương cậu
+- sao mình đíu thương e
+- sao mình đíu thương em
+- sao mình đíu thương mày
+- sao mình đíu thương ô
+- sao mình đíu thương ông
+- sao mình đíu thương đại ca
+- sao mình đíu thương đồng chí
+- sao mình đíu yêu a
+- sao mình đíu yêu anh
+- sao mình đíu yêu bạn
+- sao mình đíu yêu cậu
+- sao mình đíu yêu e
+- sao mình đíu yêu em
+- sao mình đíu yêu mày
+- sao mình đíu yêu ô
+- sao mình đíu yêu ông
+- sao mình đíu yêu đại ca
+- sao mình đíu yêu đồng chí
+- sao t khong mến a
+- sao t khong mến anh
+- sao t khong mến bạn
+- sao t khong mến cậu
+- sao t khong mến e
+- sao t khong mến em
+- sao t khong mến mày
+- sao t khong mến ô
+- sao t khong mến ông
+- sao t khong mến đại ca
+- sao t khong mến đồng chí
+- sao t khong thích a
+- sao t khong thích anh
+- sao t khong thích bạn
+- sao t khong thích cậu
+- sao t khong thích e
+- sao t khong thích em
+- sao t khong thích mày
+- sao t khong thích ô
+- sao t khong thích ông
+- sao t khong thích đại ca
+- sao t khong thích đồng chí
+- sao t khong thương a
+- sao t khong thương anh
+- sao t khong thương bạn
+- sao t khong thương cậu
+- sao t khong thương e
+- sao t khong thương em
+- sao t khong thương mày
+- sao t khong thương ô
+- sao t khong thương ông
+- sao t khong thương đại ca
+- sao t khong thương đồng chí
+- sao t khong yêu a
+- sao t khong yêu anh
+- sao t khong yêu bạn
+- sao t khong yêu cậu
+- sao t khong yêu e
+- sao t khong yêu em
+- sao t khong yêu mày
+- sao t khong yêu ô
+- sao t khong yêu ông
+- sao t khong yêu đại ca
+- sao t khong yêu đồng chí
+- sao t không mến a
+- sao t không mến anh
+- sao t không mến bạn
+- sao t không mến cậu
+- sao t không mến e
+- sao t không mến em
+- sao t không mến mày
+- sao t không mến ô
+- sao t không mến ông
+- sao t không mến đại ca
+- sao t không mến đồng chí
+- sao t không thích a
+- sao t không thích anh
+- sao t không thích bạn
+- sao t không thích cậu
+- sao t không thích e
+- sao t không thích em
+- sao t không thích mày
+- sao t không thích ô
+- sao t không thích ông
+- sao t không thích đại ca
+- sao t không thích đồng chí
+- sao t không thương a
+- sao t không thương anh
+- sao t không thương bạn
+- sao t không thương cậu
+- sao t không thương e
+- sao t không thương em
+- sao t không thương mày
+- sao t không thương ô
+- sao t không thương ông
+- sao t không thương đại ca
+- sao t không thương đồng chí
+- sao t không yêu a
+- sao t không yêu anh
+- sao t không yêu bạn
+- sao t không yêu cậu
+- sao t không yêu e
+- sao t không yêu em
+- sao t không yêu mày
+- sao t không yêu ô
+- sao t không yêu ông
+- sao t không yêu đại ca
+- sao t không yêu đồng chí
+- sao t ko mến a
+- sao t ko mến anh
+- sao t ko mến bạn
+- sao t ko mến cậu
+- sao t ko mến e
+- sao t ko mến em
+- sao t ko mến mày
+- sao t ko mến ô
+- sao t ko mến ông
+- sao t ko mến đại ca
+- sao t ko mến đồng chí
+- sao t ko thích a
+- sao t ko thích anh
+- sao t ko thích bạn
+- sao t ko thích cậu
+- sao t ko thích e
+- sao t ko thích em
+- sao t ko thích mày
+- sao t ko thích ô
+- sao t ko thích ông
+- sao t ko thích đại ca
+- sao t ko thích đồng chí
+- sao t ko thương a
+- sao t ko thương anh
+- sao t ko thương bạn
+- sao t ko thương cậu
+- sao t ko thương e
+- sao t ko thương em
+- sao t ko thương mày
+- sao t ko thương ô
+- sao t ko thương ông
+- sao t ko thương đại ca
+- sao t ko thương đồng chí
+- sao t ko yêu a
+- sao t ko yêu anh
+- sao t ko yêu bạn
+- sao t ko yêu cậu
+- sao t ko yêu e
+- sao t ko yêu em
+- sao t ko yêu mày
+- sao t ko yêu ô
+- sao t ko yêu ông
+- sao t ko yêu đại ca
+- sao t ko yêu đồng chí
+- sao t đéo mến a
+- sao t đéo mến anh
+- sao t đéo mến bạn
+- sao t đéo mến cậu
+- sao t đéo mến e
+- sao t đéo mến em
+- sao t đéo mến mày
+- sao t đéo mến ô
+- sao t đéo mến ông
+- sao t đéo mến đại ca
+- sao t đéo mến đồng chí
+- sao t đéo thích a
+- sao t đéo thích anh
+- sao t đéo thích bạn
+- sao t đéo thích cậu
+- sao t đéo thích e
+- sao t đéo thích em
+- sao t đéo thích mày
+- sao t đéo thích ô
+- sao t đéo thích ông
+- sao t đéo thích đại ca
+- sao t đéo thích đồng chí
+- sao t đéo thương a
+- sao t đéo thương anh
+- sao t đéo thương bạn
+- sao t đéo thương cậu
+- sao t đéo thương e
+- sao t đéo thương em
+- sao t đéo thương mày
+- sao t đéo thương ô
+- sao t đéo thương ông
+- sao t đéo thương đại ca
+- sao t đéo thương đồng chí
+- sao t đéo yêu a
+- sao t đéo yêu anh
+- sao t đéo yêu bạn
+- sao t đéo yêu cậu
+- sao t đéo yêu e
+- sao t đéo yêu em
+- sao t đéo yêu mày
+- sao t đéo yêu ô
+- sao t đéo yêu ông
+- sao t đéo yêu đại ca
+- sao t đéo yêu đồng chí
+- sao t đíu mến a
+- sao t đíu mến anh
+- sao t đíu mến bạn
+- sao t đíu mến cậu
+- sao t đíu mến e
+- sao t đíu mến em
+- sao t đíu mến mày
+- sao t đíu mến ô
+- sao t đíu mến ông
+- sao t đíu mến đại ca
+- sao t đíu mến đồng chí
+- sao t đíu thích a
+- sao t đíu thích anh
+- sao t đíu thích bạn
+- sao t đíu thích cậu
+- sao t đíu thích e
+- sao t đíu thích em
+- sao t đíu thích mày
+- sao t đíu thích ô
+- sao t đíu thích ông
+- sao t đíu thích đại ca
+- sao t đíu thích đồng chí
+- sao t đíu thương a
+- sao t đíu thương anh
+- sao t đíu thương bạn
+- sao t đíu thương cậu
+- sao t đíu thương e
+- sao t đíu thương em
+- sao t đíu thương mày
+- sao t đíu thương ô
+- sao t đíu thương ông
+- sao t đíu thương đại ca
+- sao t đíu thương đồng chí
+- sao t đíu yêu a
+- sao t đíu yêu anh
+- sao t đíu yêu bạn
+- sao t đíu yêu cậu
+- sao t đíu yêu e
+- sao t đíu yêu em
+- sao t đíu yêu mày
+- sao t đíu yêu ô
+- sao t đíu yêu ông
+- sao t đíu yêu đại ca
+- sao t đíu yêu đồng chí
+- sao tao khong mến a
+- sao tao khong mến anh
+- sao tao khong mến bạn
+- sao tao khong mến cậu
+- sao tao khong mến e
+- sao tao khong mến em
+- sao tao khong mến mày
+- sao tao khong mến ô
+- sao tao khong mến ông
+- sao tao khong mến đại ca
+- sao tao khong mến đồng chí
+- sao tao khong thích a
+- sao tao khong thích anh
+- sao tao khong thích bạn
+- sao tao khong thích cậu
+- sao tao khong thích e
+- sao tao khong thích em
+- sao tao khong thích mày
+- sao tao khong thích ô
+- sao tao khong thích ông
+- sao tao khong thích đại ca
+- sao tao khong thích đồng chí
+- sao tao khong thương a
+- sao tao khong thương anh
+- sao tao khong thương bạn
+- sao tao khong thương cậu
+- sao tao khong thương e
+- sao tao khong thương em
+- sao tao khong thương mày
+- sao tao khong thương ô
+- sao tao khong thương ông
+- sao tao khong thương đại ca
+- sao tao khong thương đồng chí
+- sao tao khong yêu a
+- sao tao khong yêu anh
+- sao tao khong yêu bạn
+- sao tao khong yêu cậu
+- sao tao khong yêu e
+- sao tao khong yêu em
+- sao tao khong yêu mày
+- sao tao khong yêu ô
+- sao tao khong yêu ông
+- sao tao khong yêu đại ca
+- sao tao khong yêu đồng chí
+- sao tao không mến a
+- sao tao không mến anh
+- sao tao không mến bạn
+- sao tao không mến cậu
+- sao tao không mến e
+- sao tao không mến em
+- sao tao không mến mày
+- sao tao không mến ô
+- sao tao không mến ông
+- sao tao không mến đại ca
+- sao tao không mến đồng chí
+- sao tao không thích a
+- sao tao không thích anh
+- sao tao không thích bạn
+- sao tao không thích cậu
+- sao tao không thích e
+- sao tao không thích em
+- sao tao không thích mày
+- sao tao không thích ô
+- sao tao không thích ông
+- sao tao không thích đại ca
+- sao tao không thích đồng chí
+- sao tao không thương a
+- sao tao không thương anh
+- sao tao không thương bạn
+- sao tao không thương cậu
+- sao tao không thương e
+- sao tao không thương em
+- sao tao không thương mày
+- sao tao không thương ô
+- sao tao không thương ông
+- sao tao không thương đại ca
+- sao tao không thương đồng chí
+- sao tao không yêu a
+- sao tao không yêu anh
+- sao tao không yêu bạn
+- sao tao không yêu cậu
+- sao tao không yêu e
+- sao tao không yêu em
+- sao tao không yêu mày
+- sao tao không yêu ô
+- sao tao không yêu ông
+- sao tao không yêu đại ca
+- sao tao không yêu đồng chí
+- sao tao ko mến a
+- sao tao ko mến anh
+- sao tao ko mến bạn
+- sao tao ko mến cậu
+- sao tao ko mến e
+- sao tao ko mến em
+- sao tao ko mến mày
+- sao tao ko mến ô
+- sao tao ko mến ông
+- sao tao ko mến đại ca
+- sao tao ko mến đồng chí
+- sao tao ko thích a
+- sao tao ko thích anh
+- sao tao ko thích bạn
+- sao tao ko thích cậu
+- sao tao ko thích e
+- sao tao ko thích em
+- sao tao ko thích mày
+- sao tao ko thích ô
+- sao tao ko thích ông
+- sao tao ko thích đại ca
+- sao tao ko thích đồng chí
+- sao tao ko thương a
+- sao tao ko thương anh
+- sao tao ko thương bạn
+- sao tao ko thương cậu
+- sao tao ko thương e
+- sao tao ko thương em
+- sao tao ko thương mày
+- sao tao ko thương ô
+- sao tao ko thương ông
+- sao tao ko thương đại ca
+- sao tao ko thương đồng chí
+- sao tao ko yêu a
+- sao tao ko yêu anh
+- sao tao ko yêu bạn
+- sao tao ko yêu cậu
+- sao tao ko yêu e
+- sao tao ko yêu em
+- sao tao ko yêu mày
+- sao tao ko yêu ô
+- sao tao ko yêu ông
+- sao tao ko yêu đại ca
+- sao tao ko yêu đồng chí
+- sao tao đéo mến a
+- sao tao đéo mến anh
+- sao tao đéo mến bạn
+- sao tao đéo mến cậu
+- sao tao đéo mến e
+- sao tao đéo mến em
+- sao tao đéo mến mày
+- sao tao đéo mến ô
+- sao tao đéo mến ông
+- sao tao đéo mến đại ca
+- sao tao đéo mến đồng chí
+- sao tao đéo thích a
+- sao tao đéo thích anh
+- sao tao đéo thích bạn
+- sao tao đéo thích cậu
+- sao tao đéo thích e
+- sao tao đéo thích em
+- sao tao đéo thích mày
+- sao tao đéo thích ô
+- sao tao đéo thích ông
+- sao tao đéo thích đại ca
+- sao tao đéo thích đồng chí
+- sao tao đéo thương a
+- sao tao đéo thương anh
+- sao tao đéo thương bạn
+- sao tao đéo thương cậu
+- sao tao đéo thương e
+- sao tao đéo thương em
+- sao tao đéo thương mày
+- sao tao đéo thương ô
+- sao tao đéo thương ông
+- sao tao đéo thương đại ca
+- sao tao đéo thương đồng chí
+- sao tao đéo yêu a
+- sao tao đéo yêu anh
+- sao tao đéo yêu bạn
+- sao tao đéo yêu cậu
+- sao tao đéo yêu e
+- sao tao đéo yêu em
+- sao tao đéo yêu mày
+- sao tao đéo yêu ô
+- sao tao đéo yêu ông
+- sao tao đéo yêu đại ca
+- sao tao đéo yêu đồng chí
+- sao tao đíu mến a
+- sao tao đíu mến anh
+- sao tao đíu mến bạn
+- sao tao đíu mến cậu
+- sao tao đíu mến e
+- sao tao đíu mến em
+- sao tao đíu mến mày
+- sao tao đíu mến ô
+- sao tao đíu mến ông
+- sao tao đíu mến đại ca
+- sao tao đíu mến đồng chí
+- sao tao đíu thích a
+- sao tao đíu thích anh
+- sao tao đíu thích bạn
+- sao tao đíu thích cậu
+- sao tao đíu thích e
+- sao tao đíu thích em
+- sao tao đíu thích mày
+- sao tao đíu thích ô
+- sao tao đíu thích ông
+- sao tao đíu thích đại ca
+- sao tao đíu thích đồng chí
+- sao tao đíu thương a
+- sao tao đíu thương anh
+- sao tao đíu thương bạn
+- sao tao đíu thương cậu
+- sao tao đíu thương e
+- sao tao đíu thương em
+- sao tao đíu thương mày
+- sao tao đíu thương ô
+- sao tao đíu thương ông
+- sao tao đíu thương đại ca
+- sao tao đíu thương đồng chí
+- sao tao đíu yêu a
+- sao tao đíu yêu anh
+- sao tao đíu yêu bạn
+- sao tao đíu yêu cậu
+- sao tao đíu yêu e
+- sao tao đíu yêu em
+- sao tao đíu yêu mày
+- sao tao đíu yêu ô
+- sao tao đíu yêu ông
+- sao tao đíu yêu đại ca
+- sao tao đíu yêu đồng chí
+- sao tui khong mến a
+- sao tui khong mến anh
+- sao tui khong mến bạn
+- sao tui khong mến cậu
+- sao tui khong mến e
+- sao tui khong mến em
+- sao tui khong mến mày
+- sao tui khong mến ô
+- sao tui khong mến ông
+- sao tui khong mến đại ca
+- sao tui khong mến đồng chí
+- sao tui khong thích a
+- sao tui khong thích anh
+- sao tui khong thích bạn
+- sao tui khong thích cậu
+- sao tui khong thích e
+- sao tui khong thích em
+- sao tui khong thích mày
+- sao tui khong thích ô
+- sao tui khong thích ông
+- sao tui khong thích đại ca
+- sao tui khong thích đồng chí
+- sao tui khong thương a
+- sao tui khong thương anh
+- sao tui khong thương bạn
+- sao tui khong thương cậu
+- sao tui khong thương e
+- sao tui khong thương em
+- sao tui khong thương mày
+- sao tui khong thương ô
+- sao tui khong thương ông
+- sao tui khong thương đại ca
+- sao tui khong thương đồng chí
+- sao tui khong yêu a
+- sao tui khong yêu anh
+- sao tui khong yêu bạn
+- sao tui khong yêu cậu
+- sao tui khong yêu e
+- sao tui khong yêu em
+- sao tui khong yêu mày
+- sao tui khong yêu ô
+- sao tui khong yêu ông
+- sao tui khong yêu đại ca
+- sao tui khong yêu đồng chí
+- sao tui không mến a
+- sao tui không mến anh
+- sao tui không mến bạn
+- sao tui không mến cậu
+- sao tui không mến e
+- sao tui không mến em
+- sao tui không mến mày
+- sao tui không mến ô
+- sao tui không mến ông
+- sao tui không mến đại ca
+- sao tui không mến đồng chí
+- sao tui không thích a
+- sao tui không thích anh
+- sao tui không thích bạn
+- sao tui không thích cậu
+- sao tui không thích e
+- sao tui không thích em
+- sao tui không thích mày
+- sao tui không thích ô
+- sao tui không thích ông
+- sao tui không thích đại ca
+- sao tui không thích đồng chí
+- sao tui không thương a
+- sao tui không thương anh
+- sao tui không thương bạn
+- sao tui không thương cậu
+- sao tui không thương e
+- sao tui không thương em
+- sao tui không thương mày
+- sao tui không thương ô
+- sao tui không thương ông
+- sao tui không thương đại ca
+- sao tui không thương đồng chí
+- sao tui không yêu a
+- sao tui không yêu anh
+- sao tui không yêu bạn
+- sao tui không yêu cậu
+- sao tui không yêu e
+- sao tui không yêu em
+- sao tui không yêu mày
+- sao tui không yêu ô
+- sao tui không yêu ông
+- sao tui không yêu đại ca
+- sao tui không yêu đồng chí
+- sao tui ko mến a
+- sao tui ko mến anh
+- sao tui ko mến bạn
+- sao tui ko mến cậu
+- sao tui ko mến e
+- sao tui ko mến em
+- sao tui ko mến mày
+- sao tui ko mến ô
+- sao tui ko mến ông
+- sao tui ko mến đại ca
+- sao tui ko mến đồng chí
+- sao tui ko thích a
+- sao tui ko thích anh
+- sao tui ko thích bạn
+- sao tui ko thích cậu
+- sao tui ko thích e
+- sao tui ko thích em
+- sao tui ko thích mày
+- sao tui ko thích ô
+- sao tui ko thích ông
+- sao tui ko thích đại ca
+- sao tui ko thích đồng chí
+- sao tui ko thương a
+- sao tui ko thương anh
+- sao tui ko thương bạn
+- sao tui ko thương cậu
+- sao tui ko thương e
+- sao tui ko thương em
+- sao tui ko thương mày
+- sao tui ko thương ô
+- sao tui ko thương ông
+- sao tui ko thương đại ca
+- sao tui ko thương đồng chí
+- sao tui ko yêu a
+- sao tui ko yêu anh
+- sao tui ko yêu bạn
+- sao tui ko yêu cậu
+- sao tui ko yêu e
+- sao tui ko yêu em
+- sao tui ko yêu mày
+- sao tui ko yêu ô
+- sao tui ko yêu ông
+- sao tui ko yêu đại ca
+- sao tui ko yêu đồng chí
+- sao tui đéo mến a
+- sao tui đéo mến anh
+- sao tui đéo mến bạn
+- sao tui đéo mến cậu
+- sao tui đéo mến e
+- sao tui đéo mến em
+- sao tui đéo mến mày
+- sao tui đéo mến ô
+- sao tui đéo mến ông
+- sao tui đéo mến đại ca
+- sao tui đéo mến đồng chí
+- sao tui đéo thích a
+- sao tui đéo thích anh
+- sao tui đéo thích bạn
+- sao tui đéo thích cậu
+- sao tui đéo thích e
+- sao tui đéo thích em
+- sao tui đéo thích mày
+- sao tui đéo thích ô
+- sao tui đéo thích ông
+- sao tui đéo thích đại ca
+- sao tui đéo thích đồng chí
+- sao tui đéo thương a
+- sao tui đéo thương anh
+- sao tui đéo thương bạn
+- sao tui đéo thương cậu
+- sao tui đéo thương e
+- sao tui đéo thương em
+- sao tui đéo thương mày
+- sao tui đéo thương ô
+- sao tui đéo thương ông
+- sao tui đéo thương đại ca
+- sao tui đéo thương đồng chí
+- sao tui đéo yêu a
+- sao tui đéo yêu anh
+- sao tui đéo yêu bạn
+- sao tui đéo yêu cậu
+- sao tui đéo yêu e
+- sao tui đéo yêu em
+- sao tui đéo yêu mày
+- sao tui đéo yêu ô
+- sao tui đéo yêu ông
+- sao tui đéo yêu đại ca
+- sao tui đéo yêu đồng chí
+- sao tui đíu mến a
+- sao tui đíu mến anh
+- sao tui đíu mến bạn
+- sao tui đíu mến cậu
+- sao tui đíu mến e
+- sao tui đíu mến em
+- sao tui đíu mến mày
+- sao tui đíu mến ô
+- sao tui đíu mến ông
+- sao tui đíu mến đại ca
+- sao tui đíu mến đồng chí
+- sao tui đíu thích a
+- sao tui đíu thích anh
+- sao tui đíu thích bạn
+- sao tui đíu thích cậu
+- sao tui đíu thích e
+- sao tui đíu thích em
+- sao tui đíu thích mày
+- sao tui đíu thích ô
+- sao tui đíu thích ông
+- sao tui đíu thích đại ca
+- sao tui đíu thích đồng chí
+- sao tui đíu thương a
+- sao tui đíu thương anh
+- sao tui đíu thương bạn
+- sao tui đíu thương cậu
+- sao tui đíu thương e
+- sao tui đíu thương em
+- sao tui đíu thương mày
+- sao tui đíu thương ô
+- sao tui đíu thương ông
+- sao tui đíu thương đại ca
+- sao tui đíu thương đồng chí
+- sao tui đíu yêu a
+- sao tui đíu yêu anh
+- sao tui đíu yêu bạn
+- sao tui đíu yêu cậu
+- sao tui đíu yêu e
+- sao tui đíu yêu em
+- sao tui đíu yêu mày
+- sao tui đíu yêu ô
+- sao tui đíu yêu ông
+- sao tui đíu yêu đại ca
+- sao tui đíu yêu đồng chí
+- sao tôi khong mến a
+- sao tôi khong mến anh
+- sao tôi khong mến bạn
+- sao tôi khong mến cậu
+- sao tôi khong mến e
+- sao tôi khong mến em
+- sao tôi khong mến mày
+- sao tôi khong mến ô
+- sao tôi khong mến ông
+- sao tôi khong mến đại ca
+- sao tôi khong mến đồng chí
+- sao tôi khong thích a
+- sao tôi khong thích anh
+- sao tôi khong thích bạn
+- sao tôi khong thích cậu
+- sao tôi khong thích e
+- sao tôi khong thích em
+- sao tôi khong thích mày
+- sao tôi khong thích ô
+- sao tôi khong thích ông
+- sao tôi khong thích đại ca
+- sao tôi khong thích đồng chí
+- sao tôi khong thương a
+- sao tôi khong thương anh
+- sao tôi khong thương bạn
+- sao tôi khong thương cậu
+- sao tôi khong thương e
+- sao tôi khong thương em
+- sao tôi khong thương mày
+- sao tôi khong thương ô
+- sao tôi khong thương ông
+- sao tôi khong thương đại ca
+- sao tôi khong thương đồng chí
+- sao tôi khong yêu a
+- sao tôi khong yêu anh
+- sao tôi khong yêu bạn
+- sao tôi khong yêu cậu
+- sao tôi khong yêu e
+- sao tôi khong yêu em
+- sao tôi khong yêu mày
+- sao tôi khong yêu ô
+- sao tôi khong yêu ông
+- sao tôi khong yêu đại ca
+- sao tôi khong yêu đồng chí
+- sao tôi không mến a
+- sao tôi không mến anh
+- sao tôi không mến bạn
+- sao tôi không mến cậu
+- sao tôi không mến e
+- sao tôi không mến em
+- sao tôi không mến mày
+- sao tôi không mến ô
+- sao tôi không mến ông
+- sao tôi không mến đại ca
+- sao tôi không mến đồng chí
+- sao tôi không thích a
+- sao tôi không thích anh
+- sao tôi không thích bạn
+- sao tôi không thích cậu
+- sao tôi không thích e
+- sao tôi không thích em
+- sao tôi không thích mày
+- sao tôi không thích ô
+- sao tôi không thích ông
+- sao tôi không thích đại ca
+- sao tôi không thích đồng chí
+- sao tôi không thương a
+- sao tôi không thương anh
+- sao tôi không thương bạn
+- sao tôi không thương cậu
+- sao tôi không thương e
+- sao tôi không thương em
+- sao tôi không thương mày
+- sao tôi không thương ô
+- sao tôi không thương ông
+- sao tôi không thương đại ca
+- sao tôi không thương đồng chí
+- sao tôi không yêu a
+- sao tôi không yêu anh
+- sao tôi không yêu bạn
+- sao tôi không yêu cậu
+- sao tôi không yêu e
+- sao tôi không yêu em
+- sao tôi không yêu mày
+- sao tôi không yêu ô
+- sao tôi không yêu ông
+- sao tôi không yêu đại ca
+- sao tôi không yêu đồng chí
+- sao tôi ko mến a
+- sao tôi ko mến anh
+- sao tôi ko mến bạn
+- sao tôi ko mến cậu
+- sao tôi ko mến e
+- sao tôi ko mến em
+- sao tôi ko mến mày
+- sao tôi ko mến ô
+- sao tôi ko mến ông
+- sao tôi ko mến đại ca
+- sao tôi ko mến đồng chí
+- sao tôi ko thích a
+- sao tôi ko thích anh
+- sao tôi ko thích bạn
+- sao tôi ko thích cậu
+- sao tôi ko thích e
+- sao tôi ko thích em
+- sao tôi ko thích mày
+- sao tôi ko thích ô
+- sao tôi ko thích ông
+- sao tôi ko thích đại ca
+- sao tôi ko thích đồng chí
+- sao tôi ko thương a
+- sao tôi ko thương anh
+- sao tôi ko thương bạn
+- sao tôi ko thương cậu
+- sao tôi ko thương e
+- sao tôi ko thương em
+- sao tôi ko thương mày
+- sao tôi ko thương ô
+- sao tôi ko thương ông
+- sao tôi ko thương đại ca
+- sao tôi ko thương đồng chí
+- sao tôi ko yêu a
+- sao tôi ko yêu anh
+- sao tôi ko yêu bạn
+- sao tôi ko yêu cậu
+- sao tôi ko yêu e
+- sao tôi ko yêu em
+- sao tôi ko yêu mày
+- sao tôi ko yêu ô
+- sao tôi ko yêu ông
+- sao tôi ko yêu đại ca
+- sao tôi ko yêu đồng chí
+- sao tôi đéo mến a
+- sao tôi đéo mến anh
+- sao tôi đéo mến bạn
+- sao tôi đéo mến cậu
+- sao tôi đéo mến e
+- sao tôi đéo mến em
+- sao tôi đéo mến mày
+- sao tôi đéo mến ô
+- sao tôi đéo mến ông
+- sao tôi đéo mến đại ca
+- sao tôi đéo mến đồng chí
+- sao tôi đéo thích a
+- sao tôi đéo thích anh
+- sao tôi đéo thích bạn
+- sao tôi đéo thích cậu
+- sao tôi đéo thích e
+- sao tôi đéo thích em
+- sao tôi đéo thích mày
+- sao tôi đéo thích ô
+- sao tôi đéo thích ông
+- sao tôi đéo thích đại ca
+- sao tôi đéo thích đồng chí
+- sao tôi đéo thương a
+- sao tôi đéo thương anh
+- sao tôi đéo thương bạn
+- sao tôi đéo thương cậu
+- sao tôi đéo thương e
+- sao tôi đéo thương em
+- sao tôi đéo thương mày
+- sao tôi đéo thương ô
+- sao tôi đéo thương ông
+- sao tôi đéo thương đại ca
+- sao tôi đéo thương đồng chí
+- sao tôi đéo yêu a
+- sao tôi đéo yêu anh
+- sao tôi đéo yêu bạn
+- sao tôi đéo yêu cậu
+- sao tôi đéo yêu e
+- sao tôi đéo yêu em
+- sao tôi đéo yêu mày
+- sao tôi đéo yêu ô
+- sao tôi đéo yêu ông
+- sao tôi đéo yêu đại ca
+- sao tôi đéo yêu đồng chí
+- sao tôi đíu mến a
+- sao tôi đíu mến anh
+- sao tôi đíu mến bạn
+- sao tôi đíu mến cậu
+- sao tôi đíu mến e
+- sao tôi đíu mến em
+- sao tôi đíu mến mày
+- sao tôi đíu mến ô
+- sao tôi đíu mến ông
+- sao tôi đíu mến đại ca
+- sao tôi đíu mến đồng chí
+- sao tôi đíu thích a
+- sao tôi đíu thích anh
+- sao tôi đíu thích bạn
+- sao tôi đíu thích cậu
+- sao tôi đíu thích e
+- sao tôi đíu thích em
+- sao tôi đíu thích mày
+- sao tôi đíu thích ô
+- sao tôi đíu thích ông
+- sao tôi đíu thích đại ca
+- sao tôi đíu thích đồng chí
+- sao tôi đíu thương a
+- sao tôi đíu thương anh
+- sao tôi đíu thương bạn
+- sao tôi đíu thương cậu
+- sao tôi đíu thương e
+- sao tôi đíu thương em
+- sao tôi đíu thương mày
+- sao tôi đíu thương ô
+- sao tôi đíu thương ông
+- sao tôi đíu thương đại ca
+- sao tôi đíu thương đồng chí
+- sao tôi đíu yêu a
+- sao tôi đíu yêu anh
+- sao tôi đíu yêu bạn
+- sao tôi đíu yêu cậu
+- sao tôi đíu yêu e
+- sao tôi đíu yêu em
+- sao tôi đíu yêu mày
+- sao tôi đíu yêu ô
+- sao tôi đíu yêu ông
+- sao tôi đíu yêu đại ca
+- sao tôi đíu yêu đồng chí
+- sao tớ khong mến a
+- sao tớ khong mến anh
+- sao tớ khong mến bạn
+- sao tớ khong mến cậu
+- sao tớ khong mến e
+- sao tớ khong mến em
+- sao tớ khong mến mày
+- sao tớ khong mến ô
+- sao tớ khong mến ông
+- sao tớ khong mến đại ca
+- sao tớ khong mến đồng chí
+- sao tớ khong thích a
+- sao tớ khong thích anh
+- sao tớ khong thích bạn
+- sao tớ khong thích cậu
+- sao tớ khong thích e
+- sao tớ khong thích em
+- sao tớ khong thích mày
+- sao tớ khong thích ô
+- sao tớ khong thích ông
+- sao tớ khong thích đại ca
+- sao tớ khong thích đồng chí
+- sao tớ khong thương a
+- sao tớ khong thương anh
+- sao tớ khong thương bạn
+- sao tớ khong thương cậu
+- sao tớ khong thương e
+- sao tớ khong thương em
+- sao tớ khong thương mày
+- sao tớ khong thương ô
+- sao tớ khong thương ông
+- sao tớ khong thương đại ca
+- sao tớ khong thương đồng chí
+- sao tớ khong yêu a
+- sao tớ khong yêu anh
+- sao tớ khong yêu bạn
+- sao tớ khong yêu cậu
+- sao tớ khong yêu e
+- sao tớ khong yêu em
+- sao tớ khong yêu mày
+- sao tớ khong yêu ô
+- sao tớ khong yêu ông
+- sao tớ khong yêu đại ca
+- sao tớ khong yêu đồng chí
+- sao tớ không mến a
+- sao tớ không mến anh
+- sao tớ không mến bạn
+- sao tớ không mến cậu
+- sao tớ không mến e
+- sao tớ không mến em
+- sao tớ không mến mày
+- sao tớ không mến ô
+- sao tớ không mến ông
+- sao tớ không mến đại ca
+- sao tớ không mến đồng chí
+- sao tớ không thích a
+- sao tớ không thích anh
+- sao tớ không thích bạn
+- sao tớ không thích cậu
+- sao tớ không thích e
+- sao tớ không thích em
+- sao tớ không thích mày
+- sao tớ không thích ô
+- sao tớ không thích ông
+- sao tớ không thích đại ca
+- sao tớ không thích đồng chí
+- sao tớ không thương a
+- sao tớ không thương anh
+- sao tớ không thương bạn
+- sao tớ không thương cậu
+- sao tớ không thương e
+- sao tớ không thương em
+- sao tớ không thương mày
+- sao tớ không thương ô
+- sao tớ không thương ông
+- sao tớ không thương đại ca
+- sao tớ không thương đồng chí
+- sao tớ không yêu a
+- sao tớ không yêu anh
+- sao tớ không yêu bạn
+- sao tớ không yêu cậu
+- sao tớ không yêu e
+- sao tớ không yêu em
+- sao tớ không yêu mày
+- sao tớ không yêu ô
+- sao tớ không yêu ông
+- sao tớ không yêu đại ca
+- sao tớ không yêu đồng chí
+- sao tớ ko mến a
+- sao tớ ko mến anh
+- sao tớ ko mến bạn
+- sao tớ ko mến cậu
+- sao tớ ko mến e
+- sao tớ ko mến em
+- sao tớ ko mến mày
+- sao tớ ko mến ô
+- sao tớ ko mến ông
+- sao tớ ko mến đại ca
+- sao tớ ko mến đồng chí
+- sao tớ ko thích a
+- sao tớ ko thích anh
+- sao tớ ko thích bạn
+- sao tớ ko thích cậu
+- sao tớ ko thích e
+- sao tớ ko thích em
+- sao tớ ko thích mày
+- sao tớ ko thích ô
+- sao tớ ko thích ông
+- sao tớ ko thích đại ca
+- sao tớ ko thích đồng chí
+- sao tớ ko thương a
+- sao tớ ko thương anh
+- sao tớ ko thương bạn
+- sao tớ ko thương cậu
+- sao tớ ko thương e
+- sao tớ ko thương em
+- sao tớ ko thương mày
+- sao tớ ko thương ô
+- sao tớ ko thương ông
+- sao tớ ko thương đại ca
+- sao tớ ko thương đồng chí
+- sao tớ ko yêu a
+- sao tớ ko yêu anh
+- sao tớ ko yêu bạn
+- sao tớ ko yêu cậu
+- sao tớ ko yêu e
+- sao tớ ko yêu em
+- sao tớ ko yêu mày
+- sao tớ ko yêu ô
+- sao tớ ko yêu ông
+- sao tớ ko yêu đại ca
+- sao tớ ko yêu đồng chí
+- sao tớ đéo mến a
+- sao tớ đéo mến anh
+- sao tớ đéo mến bạn
+- sao tớ đéo mến cậu
+- sao tớ đéo mến e
+- sao tớ đéo mến em
+- sao tớ đéo mến mày
+- sao tớ đéo mến ô
+- sao tớ đéo mến ông
+- sao tớ đéo mến đại ca
+- sao tớ đéo mến đồng chí
+- sao tớ đéo thích a
+- sao tớ đéo thích anh
+- sao tớ đéo thích bạn
+- sao tớ đéo thích cậu
+- sao tớ đéo thích e
+- sao tớ đéo thích em
+- sao tớ đéo thích mày
+- sao tớ đéo thích ô
+- sao tớ đéo thích ông
+- sao tớ đéo thích đại ca
+- sao tớ đéo thích đồng chí
+- sao tớ đéo thương a
+- sao tớ đéo thương anh
+- sao tớ đéo thương bạn
+- sao tớ đéo thương cậu
+- sao tớ đéo thương e
+- sao tớ đéo thương em
+- sao tớ đéo thương mày
+- sao tớ đéo thương ô
+- sao tớ đéo thương ông
+- sao tớ đéo thương đại ca
+- sao tớ đéo thương đồng chí
+- sao tớ đéo yêu a
+- sao tớ đéo yêu anh
+- sao tớ đéo yêu bạn
+- sao tớ đéo yêu cậu
+- sao tớ đéo yêu e
+- sao tớ đéo yêu em
+- sao tớ đéo yêu mày
+- sao tớ đéo yêu ô
+- sao tớ đéo yêu ông
+- sao tớ đéo yêu đại ca
+- sao tớ đéo yêu đồng chí
+- sao tớ đíu mến a
+- sao tớ đíu mến anh
+- sao tớ đíu mến bạn
+- sao tớ đíu mến cậu
+- sao tớ đíu mến e
+- sao tớ đíu mến em
+- sao tớ đíu mến mày
+- sao tớ đíu mến ô
+- sao tớ đíu mến ông
+- sao tớ đíu mến đại ca
+- sao tớ đíu mến đồng chí
+- sao tớ đíu thích a
+- sao tớ đíu thích anh
+- sao tớ đíu thích bạn
+- sao tớ đíu thích cậu
+- sao tớ đíu thích e
+- sao tớ đíu thích em
+- sao tớ đíu thích mày
+- sao tớ đíu thích ô
+- sao tớ đíu thích ông
+- sao tớ đíu thích đại ca
+- sao tớ đíu thích đồng chí
+- sao tớ đíu thương a
+- sao tớ đíu thương anh
+- sao tớ đíu thương bạn
+- sao tớ đíu thương cậu
+- sao tớ đíu thương e
+- sao tớ đíu thương em
+- sao tớ đíu thương mày
+- sao tớ đíu thương ô
+- sao tớ đíu thương ông
+- sao tớ đíu thương đại ca
+- sao tớ đíu thương đồng chí
+- sao tớ đíu yêu a
+- sao tớ đíu yêu anh
+- sao tớ đíu yêu bạn
+- sao tớ đíu yêu cậu
+- sao tớ đíu yêu e
+- sao tớ đíu yêu em
+- sao tớ đíu yêu mày
+- sao tớ đíu yêu ô
+- sao tớ đíu yêu ông
+- sao tớ đíu yêu đại ca
+- sao tớ đíu yêu đồng chí
+
+## intent:ask_name
+- a là ai
+- a tên gì
+- a tên gì nhỉ
+- a tên gì thế
+- a tên gì thế nhỉ
+- a tên gì vậy
+- a tên gì vậy nhỉ
+- a tên là gì
+- a tên là gì nhỉ
+- a tên là gì thế
+- a tên là gì thế nhỉ
+- a tên là gì vậy
+- a tên là gì vậy nhỉ
+- anh là ai
+- anh tên gì
+- anh tên gì nhỉ
+- anh tên gì thế
+- anh tên gì thế nhỉ
+- anh tên gì vậy
+- anh tên gì vậy nhỉ
+- anh tên là gì
+- anh tên là gì nhỉ
+- anh tên là gì thế
+- anh tên là gì thế nhỉ
+- anh tên là gì vậy
+- anh tên là gì vậy nhỉ
+- bạn là ai
+- bạn tên gì
+- bạn tên gì nhỉ
+- bạn tên gì thế
+- bạn tên gì thế nhỉ
+- bạn tên gì vậy
+- bạn tên gì vậy nhỉ
+- bạn tên là gì
+- bạn tên là gì nhỉ
+- bạn tên là gì thế
+- bạn tên là gì thế nhỉ
+- bạn tên là gì vậy
+- bạn tên là gì vậy nhỉ
+- cậu là ai
+- cậu tên gì
+- cậu tên gì nhỉ
+- cậu tên gì thế
+- cậu tên gì thế nhỉ
+- cậu tên gì vậy
+- cậu tên gì vậy nhỉ
+- cậu tên là gì
+- cậu tên là gì nhỉ
+- cậu tên là gì thế
+- cậu tên là gì thế nhỉ
+- cậu tên là gì vậy
+- cậu tên là gì vậy nhỉ
+- e là ai
+- e tên gì
+- e tên gì nhỉ
+- e tên gì thế
+- e tên gì thế nhỉ
+- e tên gì vậy
+- e tên gì vậy nhỉ
+- e tên là gì
+- e tên là gì nhỉ
+- e tên là gì thế
+- e tên là gì thế nhỉ
+- e tên là gì vậy
+- e tên là gì vậy nhỉ
+- em là ai
+- em tên gì
+- em tên gì nhỉ
+- em tên gì thế
+- em tên gì thế nhỉ
+- em tên gì vậy
+- em tên gì vậy nhỉ
+- em tên là gì
+- em tên là gì nhỉ
+- em tên là gì thế
+- em tên là gì thế nhỉ
+- em tên là gì vậy
+- em tên là gì vậy nhỉ
+- là ai
+- mày là ai
+- mày tên gì
+- mày tên gì nhỉ
+- mày tên gì thế
+- mày tên gì thế nhỉ
+- mày tên gì vậy
+- mày tên gì vậy nhỉ
+- mày tên là gì
+- mày tên là gì nhỉ
+- mày tên là gì thế
+- mày tên là gì thế nhỉ
+- mày tên là gì vậy
+- mày tên là gì vậy nhỉ
+- tên a gì
+- tên a gì nhỉ
+- tên a gì thế
+- tên a gì thế nhỉ
+- tên a gì vậy
+- tên a gì vậy nhỉ
+- tên a là gì
+- tên a là gì nhỉ
+- tên a là gì thế
+- tên a là gì thế nhỉ
+- tên a là gì vậy
+- tên a là gì vậy nhỉ
+- tên anh gì
+- tên anh gì nhỉ
+- tên anh gì thế
+- tên anh gì thế nhỉ
+- tên anh gì vậy
+- tên anh gì vậy nhỉ
+- tên anh là gì
+- tên anh là gì nhỉ
+- tên anh là gì thế
+- tên anh là gì thế nhỉ
+- tên anh là gì vậy
+- tên anh là gì vậy nhỉ
+- tên bạn gì
+- tên bạn gì nhỉ
+- tên bạn gì thế
+- tên bạn gì thế nhỉ
+- tên bạn gì vậy
+- tên bạn gì vậy nhỉ
+- tên bạn là gì
+- tên bạn là gì nhỉ
+- tên bạn là gì thế
+- tên bạn là gì thế nhỉ
+- tên bạn là gì vậy
+- tên bạn là gì vậy nhỉ
+- tên cậu gì
+- tên cậu gì nhỉ
+- tên cậu gì thế
+- tên cậu gì thế nhỉ
+- tên cậu gì vậy
+- tên cậu gì vậy nhỉ
+- tên cậu là gì
+- tên cậu là gì nhỉ
+- tên cậu là gì thế
+- tên cậu là gì thế nhỉ
+- tên cậu là gì vậy
+- tên cậu là gì vậy nhỉ
+- tên của a gì
+- tên của a gì nhỉ
+- tên của a gì thế
+- tên của a gì thế nhỉ
+- tên của a gì vậy
+- tên của a gì vậy nhỉ
+- tên của a là gì
+- tên của a là gì nhỉ
+- tên của a là gì thế
+- tên của a là gì thế nhỉ
+- tên của a là gì vậy
+- tên của a là gì vậy nhỉ
+- tên của anh gì
+- tên của anh gì nhỉ
+- tên của anh gì thế
+- tên của anh gì thế nhỉ
+- tên của anh gì vậy
+- tên của anh gì vậy nhỉ
+- tên của anh là gì
+- tên của anh là gì nhỉ
+- tên của anh là gì thế
+- tên của anh là gì thế nhỉ
+- tên của anh là gì vậy
+- tên của anh là gì vậy nhỉ
+- tên của bạn gì
+- tên của bạn gì nhỉ
+- tên của bạn gì thế
+- tên của bạn gì thế nhỉ
+- tên của bạn gì vậy
+- tên của bạn gì vậy nhỉ
+- tên của bạn là gì
+- tên của bạn là gì nhỉ
+- tên của bạn là gì thế
+- tên của bạn là gì thế nhỉ
+- tên của bạn là gì vậy
+- tên của bạn là gì vậy nhỉ
+- tên của cậu gì
+- tên của cậu gì nhỉ
+- tên của cậu gì thế
+- tên của cậu gì thế nhỉ
+- tên của cậu gì vậy
+- tên của cậu gì vậy nhỉ
+- tên của cậu là gì
+- tên của cậu là gì nhỉ
+- tên của cậu là gì thế
+- tên của cậu là gì thế nhỉ
+- tên của cậu là gì vậy
+- tên của cậu là gì vậy nhỉ
+- tên của e gì
+- tên của e gì nhỉ
+- tên của e gì thế
+- tên của e gì thế nhỉ
+- tên của e gì vậy
+- tên của e gì vậy nhỉ
+- tên của e là gì
+- tên của e là gì nhỉ
+- tên của e là gì thế
+- tên của e là gì thế nhỉ
+- tên của e là gì vậy
+- tên của e là gì vậy nhỉ
+- tên của em gì
+- tên của em gì nhỉ
+- tên của em gì thế
+- tên của em gì thế nhỉ
+- tên của em gì vậy
+- tên của em gì vậy nhỉ
+- tên của em là gì
+- tên của em là gì nhỉ
+- tên của em là gì thế
+- tên của em là gì thế nhỉ
+- tên của em là gì vậy
+- tên của em là gì vậy nhỉ
+- tên của mày gì
+- tên của mày gì nhỉ
+- tên của mày gì thế
+- tên của mày gì thế nhỉ
+- tên của mày gì vậy
+- tên của mày gì vậy nhỉ
+- tên của mày là gì
+- tên của mày là gì nhỉ
+- tên của mày là gì thế
+- tên của mày là gì thế nhỉ
+- tên của mày là gì vậy
+- tên của mày là gì vậy nhỉ
+- tên của ô gì
+- tên của ô gì nhỉ
+- tên của ô gì thế
+- tên của ô gì thế nhỉ
+- tên của ô gì vậy
+- tên của ô gì vậy nhỉ
+- tên của ô là gì
+- tên của ô là gì nhỉ
+- tên của ô là gì thế
+- tên của ô là gì thế nhỉ
+- tên của ô là gì vậy
+- tên của ô là gì vậy nhỉ
+- tên của ông gì
+- tên của ông gì nhỉ
+- tên của ông gì thế
+- tên của ông gì thế nhỉ
+- tên của ông gì vậy
+- tên của ông gì vậy nhỉ
+- tên của ông là gì
+- tên của ông là gì nhỉ
+- tên của ông là gì thế
+- tên của ông là gì thế nhỉ
+- tên của ông là gì vậy
+- tên của ông là gì vậy nhỉ
+- tên của đại ca gì
+- tên của đại ca gì nhỉ
+- tên của đại ca gì thế
+- tên của đại ca gì thế nhỉ
+- tên của đại ca gì vậy
+- tên của đại ca gì vậy nhỉ
+- tên của đại ca là gì
+- tên của đại ca là gì nhỉ
+- tên của đại ca là gì thế
+- tên của đại ca là gì thế nhỉ
+- tên của đại ca là gì vậy
+- tên của đại ca là gì vậy nhỉ
+- tên của đồng chí gì
+- tên của đồng chí gì nhỉ
+- tên của đồng chí gì thế
+- tên của đồng chí gì thế nhỉ
+- tên của đồng chí gì vậy
+- tên của đồng chí gì vậy nhỉ
+- tên của đồng chí là gì
+- tên của đồng chí là gì nhỉ
+- tên của đồng chí là gì thế
+- tên của đồng chí là gì thế nhỉ
+- tên của đồng chí là gì vậy
+- tên của đồng chí là gì vậy nhỉ
+- tên e gì
+- tên e gì nhỉ
+- tên e gì thế
+- tên e gì thế nhỉ
+- tên e gì vậy
+- tên e gì vậy nhỉ
+- tên e là gì
+- tên e là gì nhỉ
+- tên e là gì thế
+- tên e là gì thế nhỉ
+- tên e là gì vậy
+- tên e là gì vậy nhỉ
+- tên em gì
+- tên em gì nhỉ
+- tên em gì thế
+- tên em gì thế nhỉ
+- tên em gì vậy
+- tên em gì vậy nhỉ
+- tên em là gì
+- tên em là gì nhỉ
+- tên em là gì thế
+- tên em là gì thế nhỉ
+- tên em là gì vậy
+- tên em là gì vậy nhỉ
+- tên gì
+- tên gì nhỉ
+- tên gì thế
+- tên gì thế nhỉ
+- tên gì vậy
+- tên gì vậy nhỉ
+- tên là gì
+- tên là gì nhỉ
+- tên là gì thế
+- tên là gì thế nhỉ
+- tên là gì vậy
+- tên là gì vậy nhỉ
+- tên mày gì
+- tên mày gì nhỉ
+- tên mày gì thế
+- tên mày gì thế nhỉ
+- tên mày gì vậy
+- tên mày gì vậy nhỉ
+- tên mày là gì
+- tên mày là gì nhỉ
+- tên mày là gì thế
+- tên mày là gì thế nhỉ
+- tên mày là gì vậy
+- tên mày là gì vậy nhỉ
+- tên ô gì
+- tên ô gì nhỉ
+- tên ô gì thế
+- tên ô gì thế nhỉ
+- tên ô gì vậy
+- tên ô gì vậy nhỉ
+- tên ô là gì
+- tên ô là gì nhỉ
+- tên ô là gì thế
+- tên ô là gì thế nhỉ
+- tên ô là gì vậy
+- tên ô là gì vậy nhỉ
+- tên ông gì
+- tên ông gì nhỉ
+- tên ông gì thế
+- tên ông gì thế nhỉ
+- tên ông gì vậy
+- tên ông gì vậy nhỉ
+- tên ông là gì
+- tên ông là gì nhỉ
+- tên ông là gì thế
+- tên ông là gì thế nhỉ
+- tên ông là gì vậy
+- tên ông là gì vậy nhỉ
+- tên đại ca gì
+- tên đại ca gì nhỉ
+- tên đại ca gì thế
+- tên đại ca gì thế nhỉ
+- tên đại ca gì vậy
+- tên đại ca gì vậy nhỉ
+- tên đại ca là gì
+- tên đại ca là gì nhỉ
+- tên đại ca là gì thế
+- tên đại ca là gì thế nhỉ
+- tên đại ca là gì vậy
+- tên đại ca là gì vậy nhỉ
+- tên đồng chí gì
+- tên đồng chí gì nhỉ
+- tên đồng chí gì thế
+- tên đồng chí gì thế nhỉ
+- tên đồng chí gì vậy
+- tên đồng chí gì vậy nhỉ
+- tên đồng chí là gì
+- tên đồng chí là gì nhỉ
+- tên đồng chí là gì thế
+- tên đồng chí là gì thế nhỉ
+- tên đồng chí là gì vậy
+- tên đồng chí là gì vậy nhỉ
+- ô là ai
+- ô tên gì
+- ô tên gì nhỉ
+- ô tên gì thế
+- ô tên gì thế nhỉ
+- ô tên gì vậy
+- ô tên gì vậy nhỉ
+- ô tên là gì
+- ô tên là gì nhỉ
+- ô tên là gì thế
+- ô tên là gì thế nhỉ
+- ô tên là gì vậy
+- ô tên là gì vậy nhỉ
+- ông là ai
+- ông tên gì
+- ông tên gì nhỉ
+- ông tên gì thế
+- ông tên gì thế nhỉ
+- ông tên gì vậy
+- ông tên gì vậy nhỉ
+- ông tên là gì
+- ông tên là gì nhỉ
+- ông tên là gì thế
+- ông tên là gì thế nhỉ
+- ông tên là gì vậy
+- ông tên là gì vậy nhỉ
+- đại ca là ai
+- đại ca tên gì
+- đại ca tên gì nhỉ
+- đại ca tên gì thế
+- đại ca tên gì thế nhỉ
+- đại ca tên gì vậy
+- đại ca tên gì vậy nhỉ
+- đại ca tên là gì
+- đại ca tên là gì nhỉ
+- đại ca tên là gì thế
+- đại ca tên là gì thế nhỉ
+- đại ca tên là gì vậy
+- đại ca tên là gì vậy nhỉ
+- đồng chí là ai
+- đồng chí tên gì
+- đồng chí tên gì nhỉ
+- đồng chí tên gì thế
+- đồng chí tên gì thế nhỉ
+- đồng chí tên gì vậy
+- đồng chí tên gì vậy nhỉ
+- đồng chí tên là gì
+- đồng chí tên là gì nhỉ
+- đồng chí tên là gì thế
+- đồng chí tên là gì thế nhỉ
+- đồng chí tên là gì vậy
+- đồng chí tên là gì vậy nhỉ
+
+## intent:ask_purpose
+- a sinh ra để làm gì
+- sinh ra làm gì
+- a sinh ra làm gì
+- anh sinh ra làm gì
+- anh sinh ra để làm gì
+- bạn sinh ra làm gì
+- bạn sinh ra để làm gì
+- cậu sinh ra làm gì
+- cậu sinh ra để làm gì
+- e sinh ra làm gì
+- e sinh ra để làm gì
+- em sinh ra làm gì
+- em sinh ra để làm gì
+- mày sinh ra làm gì
+- mày sinh ra để làm gì
+- sinh ra để làm gì
+- ô sinh ra làm gì
+- ô sinh ra để làm gì
+- ông sinh ra làm gì
+- ông sinh ra để làm gì
+- đại ca sinh ra làm gì
+- đại ca sinh ra để làm gì
+- đồng chí sinh ra làm gì
+- đồng chí sinh ra để làm gì
+
+## intent:ask_doing
+- em đang làm gì thế
+- đang làm gì vậy cậu
+- đang làm gì đó bạn
+- đang làm gì vậy bạn
+- đồng chí đang làm gì vậy
+- đang làm gì đó đồng chí
+- đang làm gì đó chế
+- chế đang làm gì thế
+- đang làm gì thế mày
+- đang làm gì thế bạn
+- đang làm gì vậy em
+- cậu đang làm gì đó
+- đang làm gì vậy mày
+- chế đang làm gì đó
+- đang làm gì đó mày
+- cậu đang làm gì thế
+- em đang làm gì vậy
+- mày đang làm gì vậy
+- đang làm gì vậy đồng chí
+- bạn đang làm gì vậy
+- cậu đang làm gì vậy
+- đồng chí đang làm gì thế
+- bạn đang làm gì thế
+- đồng chí đang làm gì đó
+- đang làm gì thế em
+- đang làm gì đó em
+- mày đang làm gì đó
+- em đang làm gì đó
+- đang làm gì thế cậu
+- đang làm gì thế chế
+- bạn đang làm gì đó
+- đang làm gì đó cậu
+- mày đang làm gì thế
+- đang làm gì vậy chế
+- đang làm gì thế đồng chí
+- chế đang làm gì vậy
+
+## intent:ask_sing
+- Hát cho mình nghe được không
+- Hát cho tôi nghe được không
+- em có thể hát không
+- bạn biết hát không
+- Hát cho tao một bài nhé
+- Hát cho t một bài nhé
+- Hát cho tao nghe được không
+- đồng chí có thể hát không
+- Hát cho t nghe được không
+- đồng chí biết hát không
+- bạn có thể hát không
+- mày biết hát không
+- cậu có thể hát không
+- cậu biết hát không
+- chế có thể hát không
+- chế biết hát không
+- Hát cho anh một bài nhé
+- Hát cho tôi một bài nhé
+- Hát cho tớ nghe được không
+- em biết hát không
+- mày có thể hát không
+- Hát cho mình một bài nhé
+- Hát cho anh nghe được không
+- Hát cho tớ một bài nhé
+
+## intent:ask_most_famous_singer
+- đố cậu ca sĩ nào hát hay nhất Việt Nam
+- cậu có biết ai hát hay nhất thế giới không
+- đố đồng chí ca sĩ nào hát hay nhất Việt Nam
+- cậu có biết ai hát hay nhất Việt Nam không
+- đố chế ca sĩ nào hát hay nhất thế giới
+- bạn có biết ai hát hay nhất Việt Nam không
+- đố em ca sĩ nào hát hay nhất Việt Nam
+- em có biết ai hát hay nhất thế giới không
+- đố đồng chí ca sĩ nào hát hay nhất thế giới
+- mày có biết ai hát hay nhất thế giới không
+- đố bạn ca sĩ nào hát hay nhất Việt Nam
+- mày có biết ai hát hay nhất Việt Nam không
+- bạn có biết ai hát hay nhất thế giới không
+- em có biết ai hát hay nhất Việt Nam không
+- đố mày ca sĩ nào hát hay nhất Việt Nam
+- đố bạn ca sĩ nào hát hay nhất thế giới
+- đồng chí có biết ai hát hay nhất thế giới không
+- chế có biết ai hát hay nhất Việt Nam không
+- chế có biết ai hát hay nhất thế giới không
+- đồng chí có biết ai hát hay nhất Việt Nam không
+- đố mày ca sĩ nào hát hay nhất thế giới
+- đố cậu ca sĩ nào hát hay nhất thế giới
+- đố chế ca sĩ nào hát hay nhất Việt Nam
+- đố em ca sĩ nào hát hay nhất thế giới
+- Ai hát hay nhất
+
+## intent:ask_language_speak
+- mày nói tiếng Hàn được không
+- chế nói tiếng Trung được không
+- chế nói tiếng Nhật được không
+- bạn nói tiếng Trung được không
+- chế nói tiếng Nga được không
+- chế nói tiếng Hàn được không
+- đồng chí nói tiếng Anh được không
+- cậu nói tiếng Hàn được không
+- em nói được những ngôn ngữ nào
+- Ngôn ngữ nào cậu nói đc
+- đồng chí nói tiếng Hàn được không
+- mày nói được những ngôn ngữ nào
+- mày nói tiếng Trung được không
+- Ngôn ngữ nào chế nói đc
+- chế nói được những ngôn ngữ nào
+- đồng chí nói tiếng Nga được không
+- mày nói tiếng Anh được không
+- Ngôn ngữ nào mày nói đc
+- em nói tiếng Trung được không
+- mày nói tiếng Nga được không
+- em nói tiếng Anh được không
+- cậu nói tiếng Trung được không
+- em nói tiếng Nga được không
+- cậu nói tiếng Nga được không
+- bạn nói tiếng Thái được không
+- đồng chí nói tiếng Trung được không
+- cậu nói được những ngôn ngữ nào
+- Ngôn ngữ nào em nói đc
+- đồng chí nói tiếng Thái được không
+- đồng chí nói tiếng Nhật được không
+- bạn nói được những ngôn ngữ nào
+- em nói tiếng Nhật được không
+- chế nói tiếng Thái được không
+- em nói tiếng Thái được không
+- cậu nói tiếng Anh được không
+- Ngôn ngữ nào bạn nói đc
+- cậu nói tiếng Nhật được không
+- bạn nói tiếng Nga được không
+- em nói tiếng Hàn được không
+- bạn nói tiếng Hàn được không
+- đồng chí nói được những ngôn ngữ nào
+- chế nói tiếng Anh được không
+- mày nói tiếng Thái được không
+- mày nói tiếng Nhật được không
+- cậu nói tiếng Thái được không
+- bạn nói tiếng Nhật được không
+- Ngôn ngữ nào đồng chí nói đc
+- bạn nói tiếng Anh được không
+
+## intent:feeling_thirsty
+- tớ khát nước quá
+- mình đang khát nước
+- anh khát nước quá
+- t đang khát nước
+- mình khát nước quá
+- tao đang khát nước
+- anh đang khát nước
+- tớ đang khát nước
+- tao khát nước quá
+- tôi khát nước quá
+- t khát nước quá
+- tôi đang khát nước
+- khát nước quá
+
+## intent:feeling_alonely
+- tao cô đơn quá
+- tớ cô đơn quá
+- mình cô đơn quá
+- tớ cảm thấy cô đơn quá
+- sao mình lại cô đơn thế này
+- sao tao lại cô đơn thế này
+- sao tôi lại cô đơn thế này
+- t cảm thấy cô đơn quá
+- t cô đơn quá
+- anh cảm thấy cô đơn quá
+- sao anh lại cô đơn thế này
+- tôi cô đơn quá
+- sao t lại cô đơn thế này
+- tôi cảm thấy cô đơn quá
+- sao tớ lại cô đơn thế này
+- anh cô đơn quá
+- mình cảm thấy cô đơn quá
+- tao cảm thấy cô đơn quá
+- cô đơn quá đi
+
+## intent:feeling_sick
+- mình thấy ốm quá
+- chắc tôi bị sốt rồi
+- chắc anh bị sốt rồi
+- chắc mình ốm rồi
+- chắc tớ bị cảm rồi
+- chắc mình bị sốt rồi
+- chắc tao bị sốt rồi
+- chắc t ốm rồi
+- t thấy ốm quá
+- anh thấy ốm quá
+- chắc anh bị cảm rồi
+- chắc t bị sốt rồi
+- chắc anh ốm rồi
+- chắc tôi ốm rồi
+- tao thấy ốm quá
+- chắc mình bị cảm rồi
+- tớ thấy ốm quá
+- chắc tớ ốm rồi
+- chắc t bị cảm rồi
+- chắc tớ bị sốt rồi
+- tôi thấy ốm quá
+- chắc tôi bị cảm rồi
+- chắc tao bị cảm rồi
+- chắc tao ốm rồi
+
+## intent:ask_good_game
+- có game gì hay không, chơi cùng đi đồng chí
+- có game gì hay không, chơi cùng đi em
+- cậu có game hay để chơi ko
+- em có biết game gì hay
+- em có game hay để chơi ko
+- bạn có game hay để chơi ko
+- bạn có biết game gì hay
+- có game gì hay không, chơi cùng đi bạn
+- có game gì hay không, chơi cùng đi cậu
+- mày có biết game gì hay
+- có game gì hay không, chơi cùng đi mày
+- có game gì hay không, chơi cùng đi chế
+- đồng chí có biết game gì hay
+- cậu có biết game gì hay
+- chế có game hay để chơi ko
+- chế có biết game gì hay
+- mày có game hay để chơi ko
+- đồng chí có game hay để chơi ko
+- có game gì hay
+- có game hay để chơi ko
+
+## intent:ask_hang_out
+- đi chơi với anh không đồng chí
+- đi chơi với t không đồng chí
+- đi chơi với tao không đồng chí
+- đi chơi với mình không bạn
+- đi chơi với t không em
+- đi chơi với tao không cậu
+- đi chơi ko cậu
+- đi chơi với tôi không đồng chí
+- đi chơi với mình không em
+- đi chơi ko đồng chí
+- đi chơi với tớ không cậu
+- đi chơi với anh không bạn
+- ra ngoài đi chơi không em
+- đi chơi với mình không cậu
+- đi chơi với tao không chế
+- đi chơi với tớ không mày
+- đi chơi với anh không chế
+- đi chơi ko bạn
+- đi chơi với tôi không chế
+- ra ngoài đi chơi không đồng chí
+- ra ngoài đi chơi không mày
+- đi chơi với tôi không em
+- đi chơi với mình không chế
+- đi chơi ko mày
+- đi chơi với anh không mày
+- đi chơi ko em
+- đi chơi với tao không bạn
+- đi chơi với tớ không em
+- đi chơi với t không mày
+- đi chơi với anh không em
+- ra ngoài đi chơi không bạn
+- đi chơi với tao không mày
+- ra ngoài đi chơi không chế
+- đi chơi với anh không cậu
+- đi chơi với t không cậu
+- đi chơi với tôi không bạn
+- đi chơi với mình không đồng chí
+- đi chơi với tớ không chế
+- đi chơi với mình không mày
+- đi chơi ko chế
+- đi chơi với tôi không cậu
+- ra ngoài đi chơi không cậu
+- đi chơi với tớ không đồng chí
+- đi chơi với tao không em
+- đi chơi với t không bạn
+- đi chơi với t không chế
+- đi chơi với tôi không mày
+- đi chơi với tớ không bạn
+- đi chơi ko
+- ra ngoài đi chơi không
+- muốn đi chơi không 
+- thích đi chơi không
+
+## intent:feeling_fall_in_love
+- cậu ơi, tôi yêu cô ấy mất rồi
+- cậu ơi, t yêu cô ấy mất rồi
+- chế ơi, tôi yêu cô ấy mất rồi
+- đồng chí ơi, tao yêu cô ấy mất rồi
+- em ơi, tôi yêu cô ấy mất rồi
+- bạn ơi, tớ yêu cô ấy mất rồi
+- hình như tao đang yêu rồi
+- chế ơi, anh yêu cô ấy mất rồi
+- cậu ơi, mình yêu cô ấy mất rồi
+- chế ơi, tớ yêu cô ấy mất rồi
+- đồng chí ơi, tớ yêu cô ấy mất rồi
+- hình như tớ đang yêu rồi
+- đồng chí ơi, anh yêu cô ấy mất rồi
+- chế ơi, tao yêu cô ấy mất rồi
+- bạn ơi, anh yêu cô ấy mất rồi
+- anh thích một người
+- tao thích một người
+- bạn ơi, tôi yêu cô ấy mất rồi
+- chế ơi, t yêu cô ấy mất rồi
+- em ơi, mình yêu cô ấy mất rồi
+- mày ơi, tôi yêu cô ấy mất rồi
+- bạn ơi, mình yêu cô ấy mất rồi
+- bạn ơi, t yêu cô ấy mất rồi
+- đồng chí ơi, t yêu cô ấy mất rồi
+- t thích một người
+- hình như t đang yêu rồi
+- cậu ơi, anh yêu cô ấy mất rồi
+- bạn ơi, tao yêu cô ấy mất rồi
+- mày ơi, tớ yêu cô ấy mất rồi
+- tớ thích một người
+- đồng chí ơi, mình yêu cô ấy mất rồi
+- em ơi, tao yêu cô ấy mất rồi
+- em ơi, anh yêu cô ấy mất rồi
+- hình như tôi đang yêu rồi
+- hình như anh đang yêu rồi
+- mày ơi, mình yêu cô ấy mất rồi
+- đồng chí ơi, tôi yêu cô ấy mất rồi
+- tôi thích một người
+- em ơi, t yêu cô ấy mất rồi
+- mày ơi, anh yêu cô ấy mất rồi
+- em ơi, tớ yêu cô ấy mất rồi
+- mày ơi, t yêu cô ấy mất rồi
+- chế ơi, mình yêu cô ấy mất rồi
+- cậu ơi, tao yêu cô ấy mất rồi
+- mình thích một người
+- mày ơi, tao yêu cô ấy mất rồi
+- cậu ơi, tớ yêu cô ấy mất rồi
+- hình như mình đang yêu rồi
+
+## synonym:item_token_vip
+- thẻ VIP
+- vé VIP
+- ticket VIP
+- thẻ Vip
+- vé Vip
+- ticket Vip
+
+## synonym:item_token_normal
+- thẻ thường
+- vé thường
+- ticket thường
+
+## synonym:screen_lobby
+- chính
+- lobby
+
+## synonym:screen_shop
+- cửa hàng
+- shop
+
+## synonym:screen_profile
+- hồ sơ
+- profile
+
+## synonym:screen_setting
+- thiết lập
+- setting
+
+## synonym:game_monopoly
+- cờ tỷ phú
+
+## synonym:game_hero_cards
+- thẻ tướng
+
+## synonym:game_war_ship
+- thủy chiến
+
+## synonym:game_curling_special
+- bi đá trên băng
+- bi đá
+
+## synonym:game_2048_special
+- 2048
+- hai không bốn tám
+
+## synonym:game_tank_battle
+- tăng đại chiến
+- bắn tăng
+
+## synonym:game_snake_adventure
+- khám phá ai cập
+- khám phá Ai Cập
+
+## synonym:game_olympus_war
+- cuộc chiến giữa các vị thần
+- olympus
+
+## synonym:game_fantastic_block
+- xếp hình
